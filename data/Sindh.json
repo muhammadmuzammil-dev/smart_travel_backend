@@ -1,0 +1,705 @@
+{
+  "province": "Sindh",
+  "divisions": [
+    {
+      "name": "Karachi Division",
+      "districts": [
+        {
+          "name": "Karachi",
+          "destinations": [
+            {
+              "name": "Quaid-e-Azam Mausoleum (Mazar-e-Quaid)",
+              "location": {
+                "district": "Karachi",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.8759, "longitude": 67.0399 }
+              },
+              "category": "National Monument",
+              "description": "Final resting place of Muhammad Ali Jinnah, founder of Pakistan. A national symbol visited by people from all over the world.",
+              "highlights": [
+                "National landmark",
+                "Symbol of Pakistan’s independence"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://drive.google.com/uc?id=1pRHl-G5u4NeD2iCKENSsWtfK3mcc8dnJ", 
+              "https://drive.google.com/uc?id=1slGgY8_bj-ute1FniO2jgSAezgcTnq_Q",
+              "https://drive.google.com/uc?id=1pizQPcpNnpJOZpHhY-tIQpBx-eM0veyL"]
+            },
+            {
+              "name": "Clifton Beach",
+              "location": {
+                "district": "Karachi",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.7936, "longitude": 67.0311 }
+              },
+              "category": "Beach / Coastal",
+              "description": "Most famous beach of Karachi, popular among locals and international visitors.",
+              "highlights": [
+                "Arabian Sea coastline",
+                "Camel & horse rides"
+              ],
+              "best_time_to_visit": "November to February",
+              "images": ["https://drive.google.com/uc?id=1cnwPfNH0xxh_KTk0s1UWPIsR27TYaIOK",
+              "https://drive.google.com/uc?id=1UK6LKQnnL4i-f9_lASiKLXWQYJx-tt50"]
+            },
+            {
+              "name": "Pakistan Maritime Museum",
+              "location": {
+                "district": "Karachi",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.9056, "longitude": 67.1065 }
+              },
+              "category": "Museum / Maritime",
+              "description": "Major naval museum showcasing Pakistan’s maritime history, submarines, and aircraft.",
+              "highlights": [
+                "Real submarine display",
+                "Naval aviation exhibits"
+              ],
+              "best_time_to_visit": "Year-round",
+              "images": ["https://drive.google.com/uc?id=1-01HVyqQ_JPnDrORb1MYYOefj1yjnX3e",
+              "https://drive.google.com/uc?id=10cFF2BoRYI05TUzsQefFQ5WVXhPukI63"]
+            },
+            {
+              "name": "Mohatta Palace",
+              "location": {
+                "district": "Karachi",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.8133, "longitude": 67.0346 }
+              },
+              "category": "Historical / Museum",
+              "description": "Early 20th-century palace turned museum, showcasing Sindh’s art, culture, and history.",
+              "highlights": [
+                "Colonial-era architecture",
+                "Art and cultural exhibitions"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://drive.google.com/uc?id=1wIjKgx7t7ynvz19XrjJ1Ld5HngBP4GhD"]
+            },
+            {
+              "name": "Frere Hall",
+              "location": {
+                "district": "Karachi",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.8475, "longitude": 67.0299 }
+              },
+              "category": "Colonial / Cultural",
+              "description": "British-era building surrounded by gardens, often visited for architecture and public events.",
+              "highlights": [
+                "Colonial architecture",
+                "Public gardens"
+              ],
+              "best_time_to_visit": "November to February",
+              "images": ["https://drive.google.com/uc?id=13Lq1RKnyjQHhdjVoo2--xnrjAeUJ3Q-r"]
+            },
+            {
+              "name": "Chaukhandi Tombs",
+              "location": {
+                "district": "Karachi",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.8369, "longitude": 67.2547 }
+              },
+              "category": "Archaeological / Necropolis",
+              "description": "Sandstone tombs dating from the 15th–18th century, famous for intricate carvings.",
+              "highlights": [
+                "Unique funerary architecture",
+                "Archaeological significance"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://drive.google.com/uc?id=1bF7YkjKf0WxYTgCPy8zyO5AV1--JWsGa"]
+            },
+            {
+              "name": "Port Grand",
+              "location": {
+                "district": "Karachi",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.8504, "longitude": 66.9957 }
+              },
+              "category": "Urban / Recreation",
+              "description": "Waterfront development featuring restaurants, cultural events, and views of Karachi Port.",
+              "highlights": [
+                "Food street",
+                "Harbor views"
+              ],
+              "best_time_to_visit": "Evenings, Year-round",
+              "images": ["https://drive.google.com/uc?id=1_kCax98DMqxeGv7YkGP8XhSIxcXiDsLk"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+        "name": "Hyderabad / Thatta Region",
+        "districts": [
+        {
+        "name": "Thatta",
+        "destinations": [
+            {
+            "name": "Makli Necropolis",
+            "location": {
+                "district": "Thatta",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.7465, "longitude": 67.9023 }
+            },
+            "category": "UNESCO World Heritage Site",
+            "description": "One of the largest funerary sites in the world, spanning over 10 square kilometers with tombs of kings, saints, and scholars from the 14th to 18th centuries.",
+            "highlights": [
+                "UNESCO World Heritage Site",
+                "Indo-Islamic funerary architecture",
+                "Historical dynasties of Sindh"
+            ],
+            "best_time_to_visit": "October to March",
+            "images": ["https://drive.google.com/uc?id=1r64r7XKBjqbS4Reud6l4mfVunv4yFVKT"]
+            },
+            {
+            "name": "Shah Jahan Mosque",
+            "location": {
+                "district": "Thatta",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.7469, "longitude": 67.9233 }
+            },
+            "category": "Historical Mosque",
+            "description": "Built by Mughal Emperor Shah Jahan in the 17th century, famous for its intricate blue tile work and remarkable acoustics.",
+            "highlights": [
+                "Mughal-era architecture",
+                "Exceptional tile work",
+                "Acoustic design"
+            ],
+            "best_time_to_visit": "October to March",
+            "images": ["https://drive.google.com/uc?id=1oM-POauFYx7JkPqsdX3ajnIdExYgetvY"]
+            },
+            {
+            "name": "Keenjhar Lake (Kalri Lake)",
+            "location": {
+                "district": "Thatta",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.8146, "longitude": 68.0119 }
+            },
+            "category": "Natural / Lake",
+            "description": "The largest freshwater lake in Sindh and a major recreational and picnic spot, supplying water to Karachi.",
+            "highlights": [
+                "Largest freshwater lake in Sindh",
+                "Boating and birdwatching"
+            ],
+            "best_time_to_visit": "November to February",
+            "images": ["https://drive.google.com/uc?id=1ZjVOlPGpdclQ7XmEh6iwG9_o8cUHpvlt"]
+            },
+            {
+            "name": "Banbhore Archaeological Site",
+            "location": {
+                "district": "Thatta",
+                "province": "Sindh",
+                "coordinates": { "latitude": 24.7380, "longitude": 67.5853 }
+            },
+            "category": "Archaeological / Ancient Port",
+            "description": "Ruins of an ancient port city believed to be Debal, associated with early Islamic history in South Asia.",
+            "highlights": [
+                "Ancient port city",
+                "Early Islamic history"
+            ],
+            "best_time_to_visit": "October to March",
+            "images": ["https://drive.google.com/uc?id=1QF5lUGFpKaB9HeCnoRxN7D7EJYOWjRGy"]
+            }
+        ]
+        },
+        {
+        "name": "Hyderabad",
+        "destinations": [
+            {
+            "name": "Pakka Qila (Pacco Qillo)",
+            "location": {
+                "district": "Hyderabad",
+                "province": "Sindh",
+                "coordinates": { "latitude": 25.3807, "longitude": 68.3686 }
+            },
+            "category": "Fort / Historical",
+            "description": "A historic fort built during the Talpur dynasty, representing Hyderabad’s political and military past.",
+            "highlights": [
+                "Talpur-era fortification",
+                "Old city of Hyderabad"
+            ],
+            "best_time_to_visit": "October to February",
+            "images": ["https://drive.google.com/uc?id=1C2hwe77JLnjt9TXdA94oN7q9s2nAnE4f"]
+            },
+            {
+            "name": "Mukhi House Museum",
+            "location": {
+                "district": "Hyderabad",
+                "province": "Sindh",
+                "coordinates": { "latitude": 25.3843, "longitude": 68.3696 }
+            },
+            "category": "Museum / Heritage",
+            "description": "A restored heritage house reflecting pre-partition Sindhi Hindu merchant lifestyle and culture.",
+            "highlights": [
+                "Pre-partition heritage",
+                "Cultural exhibits"
+            ],
+            "best_time_to_visit": "Year-round",
+            "images": ["https://drive.google.com/uc?id=1bblwGya1qhir__-JiLKPAHHtI9GlGIGG"]
+            },
+            {
+            "name": "Rani Bagh (Hyderabad Zoo)",
+            "location": {
+                "district": "Hyderabad",
+                "province": "Sindh",
+                "coordinates": { "latitude": 25.3862, "longitude": 68.3578 }
+            },
+            "category": "Urban / Recreation",
+            "description": "One of the oldest recreational parks in Sindh, popular among families and tourists.",
+            "highlights": [
+                "Public park",
+                "Zoo and recreational facilities"
+            ],
+            "best_time_to_visit": "November to February",
+            "images": ["https://drive.google.com/uc?id=1-qL-A-XcYuSCj2YRACgDvUV1dRwQjjn-"]
+            }
+         ]
+        }
+     ]
+    },
+
+    
+    {
+      "name": "Larkana Division",
+      "districts": [
+        {
+          "name": "Larkana",
+          "destinations": [
+            {
+              "name": "Mohenjo-daro",
+              "location": {
+                "district": "Larkana",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 27.3294,
+                  "longitude": 68.1386
+                }
+              },
+              "category": "Archaeological / UNESCO World Heritage Site",
+              "description": "Ancient city of the Indus Valley Civilization, one of the world’s earliest and most advanced Bronze Age urban centers.",
+              "highlights": [
+                "World Heritage Site",
+                "Urban archaeology from 2600–1900 BCE",
+                "Advanced ancient sanitation and city planning"
+              ],
+              "best_time_to_visit": "November to February",
+              "images": ["https://drive.google.com/uc?id=1Po-W3QDaa0W4R_R93VkIC4wvTTGHzvop"]
+            }
+          ]
+        },
+        {
+          "name": "Jamshoro",
+          "destinations": [
+            {
+              "name": "Ranikot Fort",
+              "location": {
+                "district": "Jamshoro",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 26.5266,
+                  "longitude": 67.7853
+                }
+              },
+              "category": "Historical / Fort",
+              "description": "One of the largest fortifications in the world, also known as the “Great Wall of Sindh,” with walls extending around rugged hills. ",
+              "highlights": [
+                "Massive stone fort walls",
+                "Scenic desert-mountain landscape",
+                "Exploration and trekking opportunities"
+              ],
+              "best_time_to_visit": "November to February",
+              "images": ["https://drive.google.com/uc?id=1aOKe6SADgU2Nb_eaZnV7uxHPVrGKOqOG"]
+            },
+            {
+              "name": "Shrine of Lal Shahbaz Qalandar (Sehwan Sharif)",
+              "location": {
+                "district": "Jamshoro",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 26.4289,
+                  "longitude": 67.8600
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "Major Sufi shrine dedicated to the 13th-century saint Lal Shahbaz Qalandar, drawing hundreds of thousands of pilgrims annually, especially during the urs celebration. ",
+              "highlights": [
+                "Important spiritual pilgrimage site",
+                "Annual Urs festival and dhamaal",
+                "Historic mosque and mausoleum"
+              ],
+              "best_time_to_visit": "October to March (peak visiting season)",
+              "images": ["https://drive.google.com/uc?id=16Ab4eeddbUabbqQ0JqPwON46TyiIVJAM"]
+            },
+            {
+              "name": "Sehwan Fort",
+              "location": {
+                "district": "Jamshoro",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 26.4295,
+                  "longitude": 67.8592
+                }
+              },
+              "category": "Historical / Fortress Ruins",
+              "description": "Ancient fort ruins in Sehwan with historic layers dating back centuries, symbolizing the city’s strategic importance. ",
+              "highlights": [
+                "Archaeological fort site",
+                "Linked to early historic conflicts and local lore"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://drive.google.com/uc?id=1WIl44ltda8W0F-tNHi7H1q-LPjkh0B8F"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+        "name": "Sukkur Division",
+        "districts": [
+            {
+            "name": "Sukkur",
+            "destinations": [
+                {
+                "name": "Sukkur Barrage (Lloyd Barrage)",
+                "location": {
+                    "district": "Sukkur",
+                    "province": "Sindh",
+                    "coordinates": {
+                    "latitude": 27.6866,
+                    "longitude": 68.8589
+                    }
+                },
+                "category": "Engineering / Historical Landmark",
+                "description": "An iconic British-era barrage over the Indus River, vital for irrigation in Sindh and a major landmark of Sukkur.",
+                "highlights": [
+                    "Historic engineering marvel",
+                    "Panoramic views of the Indus River",
+                    "Key irrigation structure of Sindh"
+                ],
+                "best_time_to_visit": "October to March",
+                "images": ["https://drive.google.com/uc?id=1UNc0ujJhfXxz3RhA031fSybAanZARCP0"]
+                },
+                {
+                "name": "Sadhu Belo Temple",
+                "location": {
+                    "district": "Sukkur",
+                    "province": "Sindh",
+                    "coordinates": {
+                    "latitude": 27.7003,
+                    "longitude": 68.8476
+                    }
+                },
+                "category": "Religious / Hindu Temple",
+                "description": "A revered Hindu temple complex located on an island in the Indus River, attracting pilgrims from Pakistan and India.",
+                "highlights": [
+                    "Sacred island temple",
+                    "Boat access from Sukkur",
+                    "Active Hindu pilgrimage site"
+                ],
+                "best_time_to_visit": "October to February",
+                "images": ["https://drive.google.com/uc?id=1CroBE0vJbwlgc6NWlBUk1bsbrg1gaYTc"]
+                },
+                {
+                "name": "Masoom Shah Minaret",
+                "location": {
+                    "district": "Sukkur",
+                    "province": "Sindh",
+                    "coordinates": {
+                    "latitude": 27.7082,
+                    "longitude": 68.8582
+                    }
+                },
+                "category": "Historical / Monument",
+                "description": "A 16th-century minaret built by Syed Nizam-ud-Din Shah, offering panoramic views of Sukkur and the Indus.",
+                "highlights": [
+                    "Historic Islamic monument",
+                    "Viewpoint over Sukkur city",
+                    "Architectural heritage"
+                ],
+                "best_time_to_visit": "October to March",
+                "images": ["https://drive.google.com/uc?id=1_7jWD-oEIvHlJwa84-Xd9WMeLqFYT1G5"]
+                }
+            ]
+            },
+            {
+            "name": "Rohri",
+            "destinations": [
+                {
+                "name": "Lansdowne Bridge",
+                "location": {
+                    "district": "Rohri",
+                    "province": "Sindh",
+                    "coordinates": {
+                    "latitude": 27.6994,
+                    "longitude": 68.8613
+                    }
+                },
+                "category": "Historical / Bridge",
+                "description": "A historic cantilever bridge built in 1889, connecting Rohri and Sukkur across the Indus River.",
+                "highlights": [
+                    "British colonial engineering",
+                    "One of Sindh’s oldest bridges",
+                    "Major photographic landmark"
+                ],
+                "best_time_to_visit": "October to February",
+                "images": ["https://drive.google.com/uc?id=161QyKn9WWq9CdV7uH8mCJ7cGDtSxLc6O"]
+                },
+                {
+                "name": "Ayub National Park (Lab-e-Mehran)",
+                "location": {
+                    "district": "Rohri",
+                    "province": "Sindh",
+                    "coordinates": {
+                    "latitude": 27.7059,
+                    "longitude": 68.8645
+                    }
+                },
+                "category": "Urban / Recreation",
+                "description": "A riverside recreational park near the Indus, popular for evening walks and family outings.",
+                "highlights": [
+                    "Riverside views",
+                    "Relaxation and leisure spot",
+                    "Accessible urban park"
+                ],
+                "best_time_to_visit": "November to February",
+                "images": ["https://drive.google.com/uc?id=1iWHdHGGiTYkTnoxtEao7Xge8FuAkQUlU"]
+                }
+            ]
+            },
+            {
+            "name": "Khairpur",
+            "destinations": [
+                {
+                "name": "Faiz Mahal",
+                "location": {
+                    "district": "Khairpur",
+                    "province": "Sindh",
+                    "coordinates": {
+                    "latitude": 27.5299,
+                    "longitude": 68.7596
+                    }
+                },
+                "category": "Palace / Historical",
+                "description": "A royal palace of the Talpur rulers, showcasing Sindh’s princely heritage and architecture.",
+                "highlights": [
+                    "Talpur dynasty palace",
+                    "Cultural and historical significance",
+                    "Museum-style interior"
+                ],
+                "best_time_to_visit": "October to February",
+                "images": ["https://drive.google.com/uc?id=1RGOs-drXAV2BvrdlI4-xHMbqLUHbAvcj"]
+                },
+                {
+                "name": "Kot Diji Fort",
+                "location": {
+                    "district": "Khairpur",
+                    "province": "Sindh",
+                    "coordinates": {
+                    "latitude": 27.3419,
+                    "longitude": 68.7083
+                    }
+                },
+                "category": "Fort / Archaeological",
+                "description": "A hilltop fort built by the Talpur rulers near the site of the ancient Kot Diji civilization.",
+                "highlights": [
+                    "Panoramic desert views",
+                    "Talpur-era fortification",
+                    "Near prehistoric archaeological remains"
+                ],
+                "best_time_to_visit": "October to March",
+                "images": ["https://drive.google.com/uc?id=1SyA5S7ZWxbeo_upwtXDv1pgtvp2uIuR1"]
+                }
+            ]
+            }
+        ]
+    },
+
+    {
+      "name": "Tharparkar Division",
+      "districts": [
+        {
+          "name": "Tharparkar",
+          "destinations": [
+            {
+              "name": "Nagarparkar Jain Temples",
+              "location": {
+                "district": "Tharparkar",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 24.3559,
+                  "longitude": 70.7544
+                }
+              },
+              "category": "Religious / Archaeological",
+              "description": "A historic cluster of abandoned Jain temples dating from the 12th to 15th centuries, reflecting the rich pre-Islamic heritage of Sindh.",
+              "highlights": [
+                "Ancient Jain architecture",
+                "Marble temples with detailed carvings",
+                "Rare non-Muslim heritage site in Pakistan"
+              ],
+              "best_time_to_visit": "November to February",
+              "images": ["https://drive.google.com/uc?id=1Oj0bxX0Its8YtQpAFril13kQk_PXSpFv"]
+            },
+            {
+              "name": "Karoonjhar Mountains",
+              "location": {
+                "district": "Tharparkar",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 24.3745,
+                  "longitude": 70.7398
+                }
+              },
+              "category": "Natural / Mountain Range",
+              "description": "A granite hill range near Nagarparkar, sacred in local folklore and known for its scenic beauty, biodiversity, and historical temples.",
+              "highlights": [
+                "Only rocky mountains in Thar Desert",
+                "Cultural and spiritual significance",
+                "Scenic landscape photography"
+              ],
+              "best_time_to_visit": "November to February",
+              "images": ["https://drive.google.com/uc?id=17ewIFYSinGHKSL391DT5K-LQL7EpBVgo"]
+            },
+            {
+              "name": "Mithi Town",
+              "location": {
+                "district": "Tharparkar",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 24.7370,
+                  "longitude": 69.7985
+                }
+              },
+              "category": "Cultural / Urban",
+              "description": "The headquarters of Tharparkar district, known for Hindu-Muslim harmony, colorful culture, and traditional Thari lifestyle.",
+              "highlights": [
+                "Cultural diversity and harmony",
+                "Gateway to Thar Desert tourism",
+                "Local crafts and traditions"
+              ],
+              "best_time_to_visit": "December to February",
+              "images": ["https://drive.google.com/uc?id=1pNCIYIoEsXLjHaVrzOTW_K2QSwPRLXVC"]
+            },
+            {
+              "name": "Chachro Desert Area",
+              "location": {
+                "district": "Tharparkar",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 25.1203,
+                  "longitude": 70.2576
+                }
+              },
+              "category": "Desert / Landscape",
+              "description": "A remote desert region of Tharparkar featuring vast sand dunes, traditional villages, and seasonal desert flora after monsoon rains.",
+              "highlights": [
+                "Authentic Thar Desert experience",
+                "Sand dunes and rural life",
+                "Seasonal greenery after monsoon"
+              ],
+              "best_time_to_visit": "December to February",
+              "images": ["https://drive.google.com/uc?id=1id4rx-GEXUYPVStW35gnNpmVzPqlqr3p"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Shaheed Benazirabad Division",
+      "districts": [
+        {
+          "name": "Shaheed Benazirabad (Nawabshah)",
+          "destinations": [
+            {
+              "name": "Shrine of Syed Ghulam Mustafa Shah (Pir Pagaro)",
+              "location": {
+                "district": "Shaheed Benazirabad",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 26.2451,
+                  "longitude": 68.4036
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "A major spiritual center of the Hurs community, associated with the influential Pir Pagaro lineage and Sindh’s resistance history.",
+              "highlights": [
+                "Important Sufi leadership shrine",
+                "Large annual religious gatherings",
+                "Deep historical and spiritual influence in Sindh"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://drive.google.com/uc?id=1uWkh42w8ojwrnPrkrtvmlVwELeTv58uP"]
+            },
+            {
+              "name": "Quaid-e-Awam University Area (Cultural Hub)",
+              "location": {
+                "district": "Shaheed Benazirabad",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 26.2446,
+                  "longitude": 68.4103
+                }
+              },
+              "category": "Cultural / Educational",
+              "description": "An important educational and cultural zone contributing to Sindh’s intellectual and literary landscape.",
+              "highlights": [
+                "Cultural events and academic heritage",
+                "Urban cultural life of Nawabshah"
+              ],
+              "best_time_to_visit": "November to February",
+              "images": ["https://drive.google.com/uc?id=1rDtzc5iSPhxPGmzoALvAdD3hEeP0AnCX"]
+            }
+          ]
+        },
+        {
+          "name": "Matiari",
+          "destinations": [
+            {
+              "name": "Shrine of Shah Abdul Latif Bhittai (Bhitt Shah)",
+              "location": {
+                "district": "Matiari",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 25.8058,
+                  "longitude": 68.4919
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "The shrine of Shah Abdul Latif Bhittai, the greatest Sindhi Sufi poet and philosopher, author of Shah Jo Risalo.",
+              "highlights": [
+                "Most important Sufi shrine in Sindh",
+                "Daily musical recitals of Shah Jo Risalo",
+                "Annual Urs attracting national and international visitors"
+              ],
+              "best_time_to_visit": "November to February (especially during Urs)",
+              "images": ["https://drive.google.com/uc?id=1q_5GFIhiQ7lypq5kzk4BahHttxg6EJd8"]
+            },
+            {
+              "name": "Bhitt Shah Cultural Complex",
+              "location": {
+                "district": "Matiari",
+                "province": "Sindh",
+                "coordinates": {
+                  "latitude": 25.8066,
+                  "longitude": 68.4928
+                }
+              },
+              "category": "Cultural / Heritage",
+              "description": "A cultural complex preserving Sindhi music, poetry, manuscripts, and traditions associated with Shah Abdul Latif Bhittai.",
+              "highlights": [
+                "Sindhi folk music preservation",
+                "Manuscripts and cultural exhibits",
+                "Center of Sindhi Sufi culture"
+              ],
+              "best_time_to_visit": "November to February",
+              "images": ["https://drive.google.com/uc?id=1dc4PWZ3KgPRAhiUbB98gzUHSS31aWoZ6"]
+            }
+          ]
+        }
+      ]
+    }
+  
+  ]
+}

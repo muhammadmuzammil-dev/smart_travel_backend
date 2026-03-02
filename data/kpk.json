@@ -1,0 +1,910 @@
+{
+  "province": "Khyber Pakhtunkhwa",
+  "divisions": [
+    {
+      "name": "Peshawar Division",
+      "districts": [
+        {
+          "name": "Peshawar",
+          "destinations": [
+            {
+              "name": "Bala Hisar Fort",
+              "location": {
+                "district": "Peshawar",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.012083, "longitude": 71.570056 }
+              },
+              "category": "Historical / Fort",
+              "description": "Historic fortress on a hillock at the edge of old Peshawar City. Dates back several empires including Mughal, Sikh and British periods.",
+              "highlights": [
+                "Historic fort on a commanding hilltop",
+                "Military architecture spanning multiple eras"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1691584973.663bl 1.webp"]
+            },
+            {
+              "name": "Islamia College",
+              "location": {
+                "district": "Peshawar",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.000046, "longitude": 71.475969 }
+              },
+              "category": "Educational / Heritage",
+              "description": "Iconic early-20th-century educational institution founded in 1913, known for its stunning architecture and historical significance. :contentReference[oaicite:0]{index=0}",
+              "highlights": [
+                "Historical educational campus",
+                "Architectural landmark in Peshawar"
+              ],
+              "best_time_to_visit": "Year-round",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1677221648.009islamiacollege.webp"]
+            },
+            {
+              "name": "Peshawar Museum",
+              "location": {
+                "district": "Peshawar",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.002, "longitude": 71.559 }
+              },
+              "category": "Museum / Cultural",
+              "description": "Museum housing a large collection of Buddhist Gandharan art and artifacts, originally established in 1907. :contentReference[oaicite:1]{index=1}",
+              "highlights": [
+                "Gandharan art collections",
+                "British colonial architectural heritage"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686317459.842mue1.webp"]
+            },
+            {
+              "name": "Gor Khatri",
+              "location": {
+                "district": "Peshawar",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.0088, "longitude": 71.5702 }
+              },
+              "category": "Archaeological / Historical",
+              "description": "Archaeological caravanserai site built during the Mughal period, containing layers of ancient occupation. :contentReference[oaicite:2]{index=2}",
+              "highlights": [
+                "Ancient caravanserai complex",
+                "Heart of old Peshawar"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1687246993.6551686.webp"]
+            },
+            {
+              "name": "Sethi House (Sethi Mohallah)",
+              "location": {
+                "district": "Peshawar",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.008, "longitude": 71.570 }
+              },
+              "category": "Historical / Architectural",
+              "description": "Cluster of 19th-century decorated merchant havelis in the old city, known for intricate woodwork and traditional design. :contentReference[oaicite:3]{index=3}",
+              "highlights": [
+                "Central Asian architectural style",
+                "Heritage urban neighborhood"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686640653.171seethi-house-4.webp"]
+            },
+            {
+              "name": "Cunningham Clock Tower",
+              "location": {
+                "district": "Peshawar",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.0003, "longitude": 71.5780 }
+              },
+              "category": "Historical / Monument",
+              "description": "British-era clock tower built circa 1900 in the heart of Peshawar’s old city. :contentReference[oaicite:4]{index=4}",
+              "highlights": [
+                "Colonial landmark",
+                "Central city location"
+              ],
+              "best_time_to_visit": "Year-round",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1691585632.085gh 4.webp"]
+            },
+            {
+              "name": "Qissa Khwani Bazaar",
+              "location": {
+                "district": "Peshawar",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.00789, "longitude": 71.57017 }
+              },
+              "category": "Market / Cultural",
+              "description": "Historic bazaar known for storytelling traditions and rich cultural heritage. :contentReference[oaicite:5]{index=5}",
+              "highlights": [
+                "Traditional bazaar experience",
+                "Cultural heritage market"
+              ],
+              "best_time_to_visit": "Year-round",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1705386982.319download (3).webp"]
+            },
+            {
+              "name": "Mahabat Khan Mosque",
+              "location": {
+                "district": "Peshawar",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.0012, "longitude": 71.5689 }
+              },
+              "category": "Religious / Architectural",
+              "description": "17th-century Mughal mosque famed for its white marble façade and historical significance. :contentReference[oaicite:6]{index=6}",
+              "highlights": [
+                "Mughal architectural beauty",
+                "Historic mosque"
+              ],
+              "best_time_to_visit": "Year-round",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686638470.61541634069801-0.webp"]
+            }
+          ]
+        },
+
+         {
+          "name": "Khyber",
+          "destinations": [
+            {
+              "name": "Bab-e-Khyber",
+              "location": {
+                "district": "Khyber",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.00251, "longitude": 71.38001 }
+              },
+              "category": "Historical / Monument",
+              "description": "Iconic gateway marking the start of the historic Khyber Pass, built in the early 1960s and symbolizing the ancient trade route between Central Asia and the Indian subcontinent. Located on the GT Road near Jamrud Fort. :contentReference[oaicite:0]{index=0}",
+              "highlights": [
+                "Gateway to the historic Khyber Pass",
+                "Symbolic cultural landmark"
+              ],
+              "best_time_to_visit": "April to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1691587552.897K 1.webp"]
+            },
+            {
+              "name": "Jamrud Fort",
+              "location": {
+                "district": "Khyber",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.00315, "longitude": 71.37841 }
+              },
+              "category": "Historical / Fort",
+              "description": "Frontier fort built by Sikh forces in the 1830s at the eastern entrance to the Khyber Pass. It played a key role in frontier defense and colonial history. :contentReference[oaicite:1]{index=1}",
+              "highlights": [
+                "19th-century frontier fort",
+                "Adjacent to Bab-e-Khyber"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686158157.341fort.webp"]
+            },
+            {
+              "name": "Khyber Pass",
+              "location": {
+                "district": "Khyber",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.09414, "longitude": 71.15748 }
+              },
+              "category": "Natural / Historical",
+              "description": "One of the world’s most famous mountain passes connecting Pakistan and Afghanistan, historically a strategic trade and invasion route. :contentReference[oaicite:2]{index=2}",
+              "highlights": [
+                "Historic trade and invasion route",
+                "Scenic mountainous terrain"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1691587552.897K 1.webp"]
+            }
+          ]
+        }
+      ]
+    },
+
+       {
+      "name": "Malakand Division",
+      "districts": [
+        {
+          "name": "Swat",
+          "destinations": [
+            {
+              "name": "Gabin Jabba",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.3125, "longitude": 72.3175 }
+              },
+              "category": "Hill Station / Nature",
+              "description": "Scenic meadow and tourist spot known for green pastures, forests, and mountain views at high elevation in Swat Valley. :contentReference[oaicite:1]{index=1}",
+              "highlights": [
+                "Green meadows and forests",
+                "Gateway toward Daral Lake"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686424216.113Gabeen-Jabba.webp"]
+            },
+            {
+              "name": "Malam Jabba Ski Resort",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.7428, "longitude": 72.4431 }
+              },
+              "category": "Ski / Resort",
+              "description": "One of Pakistan’s largest ski resorts with chair lifts, skiing slopes, and mountain resort facilities. :contentReference[oaicite:2]{index=2}",
+              "highlights": [
+                "Winter sports & skiing",
+                "Cable cars and summer hiking trails"
+              ],
+              "best_time_to_visit": "December to March (winter) / June to September (summer)",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1692350544.719download (80).webp"]
+            },
+
+            {
+              "name": "Mankial",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.8870, "longitude": 72.3460 }
+              },
+              "category": "Valley / Nature",
+              "description": "Scenic valley area with rugged peaks and natural terrain accessed from Swat’s upper regions.",
+              "highlights": [
+                "Mountain landscape",
+                "Trekking and nature exploration"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686393750.977img_20230610_152543.webp"]
+            },
+            {
+              "name": "Kalam",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.2552, "longitude": 72.6549 }
+              },
+              "category": "Valley / Town",
+              "description": "Major tourist town in upper Swat, gateway to alpine lakes and meadows. :contentReference[oaicite:3]{index=3}",
+              "highlights": [
+                "Base for lakes and valleys",
+                "River and mountain scenery"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686424770.054kalam.webp"]
+            },
+            {
+              "name": "Mahodand Lake",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.1536, "longitude": 72.5006 }
+              },
+              "category": "Natural Lake",
+              "description": "Alpine glacial lake in the Usho Valley near Kalam, popular for fishing and camping. :contentReference[oaicite:4]{index=4}",
+              "highlights": [
+                "Glacial lake with trout",
+                "Scenic camping site"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1676450461.181MahodandLake2.webp"]
+            },
+            {
+              "name": "Kundol Lake",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.4566, "longitude": 72.6578 }
+              },
+              "category": "Natural Lake",
+              "description": "Mountain lake north of Utror, accessed by trekking from Kalam Valley. :contentReference[oaicite:5]{index=5}",
+              "highlights": [
+                "Glacial lake",
+                "Trekking destination"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=1eTjBjoo1tDe-AYpA_Z0Uanqony-UnbeY"]
+            },
+            {
+              "name": "White Palace (Marghazar)",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.7411, "longitude": 72.4259 }
+              },
+              "category": "Historical / Cultural",
+              "description": "Historic summer palace of the Wali of Swat built of white marble, now a tourist landmark. :contentReference[oaicite:6]{index=6}",
+              "highlights": [
+                "Royal palace architecture",
+                "Historic hotel and gardens"
+              ],
+              "best_time_to_visit": "March to October",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1714133112.86Murghuzar Whie Palace.webp"]
+            },
+            {
+              "name": "Swat Museum",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.7732, "longitude": 72.3600 }
+              },
+              "category": "Museum / Cultural",
+              "description": "Museum displaying artifacts from Gandhara era and Swat’s archaeological heritage. :contentReference[oaicite:7]{index=7}",
+              "highlights": [
+                "Gandharan art and relics",
+                "Cultural exhibits"
+              ],
+              "best_time_to_visit": "Year-round",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1676454634.879P1188608.webp"]
+            },
+            {
+              "name": "Utror / Daral Lake",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.4325, "longitude": 72.5072 }
+              },
+              "category": "Valley / Natural Lake",
+              "description": "Utror Valley village and base for trekking to Daral Lake. Coordinates are for the general Utror settlement; Daral Lake lies further up the valley. ",
+              "highlights": [
+                "Gateway to Daral Lake",
+                "Mountain scenery"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1718178781.92Daral Lake (4).webp"]
+            },
+            {
+              "name": "Kharkhari Lake",
+              "location": {
+                "district": "Swat",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.4388, "longitude": 72.6180 }
+              },
+              "category": "Natural Lake",
+              "description": "Alpine lake in the Gabral Valley, popular with summer tourists. :contentReference[oaicite:8]{index=8}",
+              "highlights": [
+                "Glacial lake",
+                "Scenic destination"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=1kn3mccLorlYsFT0wqyh8JnDhiKX5JdnZ"]
+            }
+          ]
+        },
+       {
+          "name": "Upper Dir",
+          "destinations": [
+            {
+              "name": "Kumrat Valley",
+              "location": {
+                "district": "Upper Dir",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.5533, "longitude": 71.1247 }
+              },
+              "category": "Valley / Nature",
+              "description": "A scenic alpine valley famous for dense forests, grassy meadows, and the Panjkora River flowing through it.",
+              "highlights": [
+                "Lush green meadows",
+                "Camping and river scenery"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1676454122.56_MG_42172.webp"]
+            },
+            {
+              "name": "Panjkora River",
+              "location": {
+                "district": "Upper Dir",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.1975, "longitude": 71.8744 }
+              },
+              "category": "River / Natural",
+              "description": "Major river of Dir region originating from Hindu Kush mountains and flowing through Upper and Lower Dir.",
+              "highlights": [
+                "Major river system of Dir",
+                "Fishing and riverside views"
+              ],
+              "best_time_to_visit": "Spring to Autumn",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1691748798.7541.webp"]
+            },
+            {
+              "name": "Thal Mosque",
+              "location": {
+                "district": "Upper Dir",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.2069, "longitude": 71.8772 }
+              },
+              "category": "Religious / Historical",
+              "description": "Historic wooden mosque located in Thal village, known for its traditional architecture.",
+              "highlights": [
+                "Traditional wooden structure",
+                "Cultural heritage mosque"
+              ],
+              "best_time_to_visit": "Year-round",
+              "images": ["https://drive.google.com/uc?id=1rl2uyid_2lGUStvGOQ01cOxClKJTMgTR"]
+            },
+            {
+              "name": "Katora Lake",
+              "location": {
+                "district": "Upper Dir",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.5008, "longitude": 71.0319 }
+              },
+              "category": "Alpine Lake",
+              "description": "High-altitude glacial lake shaped like a bowl, accessed via trekking from Kumrat Valley.",
+              "highlights": [
+                "Glacial alpine lake",
+                "Challenging trekking route"
+              ],
+              "best_time_to_visit": "July to September",
+              "images": ["https://drive.google.com/uc?id=1mx1jWlzhvsqW73ZXn-9diW7Y2kvGtfEb"]
+            },
+            {
+              "name": "Jahaz Banda",
+              "location": {
+                "district": "Upper Dir",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.5231, "longitude": 71.0725 }
+              },
+              "category": "Meadow / Nature",
+              "description": "A large high-altitude meadow known for panoramic views, wooden huts, and surrounding snow-capped peaks.",
+              "highlights": [
+                "Wide alpine meadow",
+                "Camping and trekking base"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1676455039.588_MG_26032.webp"]
+            },
+            {
+              "name": "Badgoi Pass",
+              "location": {
+                "district": "Upper Dir",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.3653, "longitude": 71.2864 }
+              },
+              "category": "Mountain Pass",
+              "description": "Mountain pass connecting Dir with Swat Valley, often snow-covered in winter.",
+              "highlights": [
+                "Strategic mountain pass",
+                "Snowy landscapes"
+              ],
+              "best_time_to_visit": "June to October",
+              "images": ["https://drive.google.com/uc?id=1TIVP0oTM7cWtfoWpMqaHsZs7Zdt7mwQz"]
+            },
+            {
+              "name": "Lowari Pass",
+              "location": {
+                "district": "Upper Dir",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.2986, "longitude": 71.7917 }
+              },
+              "category": "Mountain Pass",
+              "description": "Historic high mountain pass connecting Dir with Chitral, now supplemented by the Lowari Tunnel.",
+              "highlights": [
+                "Historic route to Chitral",
+                "High-altitude mountain views"
+              ],
+              "best_time_to_visit": "May to October",
+              "images": ["https://drive.google.com/uc?id=1EBiCLR1DndCkLnFjSTW0UuHlIOLKWXwz"]
+            }
+          ]
+        },
+
+        {
+          "name": "Chitral",
+          "destinations": [
+            {
+              "name": "Kalash Valley",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.6894, "longitude": 71.7306 }
+              },
+              "category": "Valley / Cultural",
+              "description": "Group of three remote valleys (Bumburet, Rumbur, Birir) inhabited by the indigenous Kalash people with a unique culture and traditions.",
+              "highlights": [
+                "Kalash culture and festivals",
+                "Traditional wooden houses"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1715148171.9521691580613.webp"]
+            },
+            {
+              "name": "Kalash Museum",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.6899, "longitude": 71.7324 }
+              },
+              "category": "Museum / Cultural",
+              "description": "Museum preserving the history, customs, and artifacts of the Kalash people.",
+              "highlights": [
+                "Cultural artifacts",
+                "Kalash heritage preservation"
+              ],
+              "best_time_to_visit": "Year-round",
+              "images": ["https://drive.google.com/uc?id=1rQNVkyHKfxV8kkpr8gSnA1sy_q8UnZhz"]
+            },
+            {
+              "name": "Chitral Gol National Park",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.8517, "longitude": 71.7894 }
+              },
+              "category": "National Park / Wildlife",
+              "description": "Protected area famous for snow leopards, markhor, and alpine landscapes.",
+              "highlights": [
+                "Markhor habitat",
+                "Mountain wildlife"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1715152750.3811691578892.webp"]
+            },
+            {
+              "name": "Madaklasht Valley",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 36.1694, "longitude": 71.6061 }
+              },
+              "category": "Valley / Nature",
+              "description": "Remote valley near the Afghan border known for glaciers and wooden houses.",
+              "highlights": [
+                "Remote alpine scenery",
+                "Traditional mountain life"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=1umJFEQBLTNeU_a-xt-4-iJYbGcFKpwNt"]
+            },
+            {
+              "name": "Golain Gol Valley",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.9475, "longitude": 71.7928 }
+              },
+              "category": "Valley / Nature",
+              "description": "A scenic side valley of Chitral Gol with forests, streams, and summer pastures.",
+              "highlights": [
+                "Forest landscapes",
+                "Peaceful trekking routes"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://drive.google.com/uc?id=1IQMD8w6OMGlMYAUxZAjTZtzyUj1a8uPQ"]
+            },
+            {
+              "name": "Tirich Mir Peak",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 36.2556, "longitude": 71.8364 }
+              },
+              "category": "Mountain / Peak",
+              "description": "Highest peak of the Hindu Kush range and of Khyber Pakhtunkhwa.",
+              "highlights": [
+                "Highest peak of Hindu Kush",
+                "Mountaineering destination"
+              ],
+              "best_time_to_visit": "June to August",
+              "images": ["https://drive.google.com/uc?id=1vf77M2tty6xxtOZoWKb3UNP6Sut9CJbz"]
+            },
+            {
+              "name": "Qaqlasht Meadows",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 36.0647, "longitude": 71.7342 }
+              },
+              "category": "Meadow / Nature",
+              "description": "High-altitude plateau used as summer pasture, famous for spring festivals.",
+              "highlights": [
+                "Wide grassy plateau",
+                "Spring festivals"
+              ],
+              "best_time_to_visit": "April to June",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1705562711.26download (2).webp"]
+            },
+            {
+              "name": "Broghil Valley",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 36.8422, "longitude": 73.0367 }
+              },
+              "category": "Valley / National Park",
+              "description": "Remote high-altitude valley near the Wakhan Corridor, famous for lakes and wildlife.",
+              "highlights": [
+                "Broghil National Park",
+                "High-altitude lakes"
+              ],
+              "best_time_to_visit": "July to September",
+              "images": ["https://drive.google.com/uc?id=1f_Q1JQKVnYx9AlCn2qDbNLTqFUE-cyTU"]
+            },
+            {
+              "name": "Karambar Lake",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 36.8897, "longitude": 73.0869 }
+              },
+              "category": "Alpine Lake",
+              "description": "One of the highest biologically active lakes in the world, located near Broghil Valley.",
+              "highlights": [
+                "High-altitude glacial lake",
+                "Remote trekking destination"
+              ],
+              "best_time_to_visit": "July to August",
+              "images": ["https://drive.google.com/uc?id=1mDMIZYKLpElQasm5XPFdSaOQVgFWVHfR"]
+            },
+            {
+              "name": "Shandur Polo Ground",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 36.0728, "longitude": 72.5256 }
+              },
+              "category": "Sports / Plateau",
+              "description": "World’s highest polo ground, venue of the annual Shandur Polo Festival.",
+              "highlights": [
+                "Highest polo ground",
+                "Annual polo festival"
+              ],
+              "best_time_to_visit": "July",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1691579941.7181.webp"]
+            },
+            {
+              "name": "Shandur Lake",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 36.0746, "longitude": 72.5294 }
+              },
+              "category": "Lake / Plateau",
+              "description": "Small alpine lake near Shandur Pass, frozen for most of the year.",
+              "highlights": [
+                "Alpine lake",
+                "High-altitude scenery"
+              ],
+              "best_time_to_visit": "July to August",
+              "images": ["https://drive.google.com/uc?id=1RwT2u0uHJeVoDYFcbbewuokTVgX_E_Ld"]
+            },
+    
+            {
+              "name": "Garam Chashma (Hot Springs)",
+              "location": {
+                "district": "Chitral",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 36.1764, "longitude": 71.7806 }
+              },
+              "category": "Hot Springs / Natural",
+              "description": "Natural hot sulfur springs famous for therapeutic bathing.",
+              "highlights": [
+                "Natural hot springs",
+                "Health tourism"
+              ],
+              "best_time_to_visit": "May to October",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1715149035.8161705563690.webp"]
+            }
+          ]
+        }
+      ]
+    },
+
+        {
+      "name": "Hazara Division",
+      "districts": [
+        {
+          "name": "Abbottabad",
+          "destinations": [
+            {
+              "name": "Nathiagali",
+              "location": {
+                "district": "Abbottabad",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.0703, "longitude": 73.3817 }
+              },
+              "category": "Hill Station",
+              "description": "Popular hill station known for pine forests, hiking trails, and cool climate.",
+              "highlights": [
+                "Mukshpuri & Miranjani trails",
+                "Pleasant summer weather"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686553109.3722021-09-01.webp"]
+            },
+            {
+              "name": "Changla Gali",
+              "location": {
+                "district": "Abbottabad",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.0636, "longitude": 73.3936 }
+              },
+              "category": "Hill Station",
+              "description": "Quiet hill town between Murree and Nathiagali, once a British-era summer retreat.",
+              "highlights": [
+                "Colonial-era atmosphere",
+                "Cool climate"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686544337.168img_20230611_175331.webp"]
+            },
+            {
+              "name": "Dunga Gali",
+              "location": {
+                "district": "Abbottabad",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.0744, "longitude": 73.3903 }
+              },
+              "category": "Hill Station",
+              "description": "Hill town famous for Pipeline Track hiking trail connecting to Ayubia.",
+              "highlights": [
+                "Pipeline walking track",
+                "Forest scenery"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://drive.google.com/uc?id=10VRcY7c6c3Msj0JMaglTQprKWpGmJPO5"]
+            },
+            {
+              "name": "Khanspur",
+              "location": {
+                "district": "Abbottabad",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.0619, "longitude": 73.3889 }
+              },
+              "category": "Hill Station / Military",
+              "description": "Small hill town near Dunga Gali, also used as a training area by Pakistan Army.",
+              "highlights": [
+                "Quiet surroundings",
+                "Forest-covered hills"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://drive.google.com/uc?id=1S4Yjtuuqm8LNtp6um-Ldy3cT50iCVdkh"]
+            },
+            {
+              "name": "Baragali",
+              "location": {
+                "district": "Abbottabad",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.0894, "longitude": 73.4078 }
+              },
+              "category": "Hill Station",
+              "description": "Hill station known for government rest houses and cooler climate.",
+              "highlights": [
+                "Scenic hill views",
+                "Rest houses and resorts"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686476443.518img_20230611_140005.webp"]
+            },
+            {
+              "name": "Thandiani",
+              "location": {
+                "district": "Abbottabad",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.2247, "longitude": 73.3156 }
+              },
+              "category": "Hill Station",
+              "description": "High-altitude hill station offering panoramic views of the Himalayas and surrounding valleys.",
+              "highlights": [
+                "Snowfall in winter",
+                "Wide mountain views"
+              ],
+              "best_time_to_visit": "May to October",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686140464.285thn1.webp"]
+            }
+          ]
+        },
+
+                {
+          "name": "Mansehra",
+          "destinations": [
+            {
+              "name": "Shogran",
+              "location": {
+                "district": "Mansehra",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.6275, "longitude": 73.4958 }
+              },
+              "category": "Hill Station",
+              "description": "Popular hill station located on a green plateau, known for pine forests and views of Makra Peak.",
+              "highlights": [
+                "Lush green meadows",
+                "Base for Siri & Paye"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1676454663.918_MG_5558.webp"]
+            },
+            {
+              "name": "Sharan Forest",
+              "location": {
+                "district": "Mansehra",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.7194, "longitude": 73.5344 }
+              },
+              "category": "Forest / Nature",
+              "description": "Dense forest area with cedar trees, wooden rest houses, and peaceful camping sites.",
+              "highlights": [
+                "Dense cedar forest",
+                "Camping and hiking"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686555653.286sha1.webp"]
+            },
+            {
+              "name": "Lake Saif-ul-Malook",
+              "location": {
+                "district": "Mansehra",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.8764, "longitude": 73.6947 }
+              },
+              "category": "Alpine Lake",
+              "description": "Famous glacial lake near Naran, associated with folklore and surrounded by snow-capped peaks.",
+              "highlights": [
+                "Iconic alpine lake",
+                "Malika Parbat views"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1686143114.963Saif-ul-Malook-Lake-Mobeen.webp"]
+            },
+            {
+              "name": "Ansoo Lake",
+              "location": {
+                "district": "Mansehra",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.8606, "longitude": 73.6911 }
+              },
+              "category": "Alpine Lake / Trekking",
+              "description": "High-altitude tear-shaped lake accessible only via trekking from Saif-ul-Malook.",
+              "highlights": [
+                "Tear-shaped glacial lake",
+                "Advanced trekking route"
+              ],
+              "best_time_to_visit": "July to August",
+              "images": ["https://prod-admin.kptourism.com/uploads/admin/attaction/1676454898.607_MG_5658.webp"]
+            },
+            {
+              "name": "Batakundi",
+              "location": {
+                "district": "Mansehra",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.8139, "longitude": 73.6108 }
+              },
+              "category": "Mountain Town",
+              "description": "Small settlement along the Kunhar River, used as a stopover between Naran and Babusar.",
+              "highlights": [
+                "River-side scenery",
+                "Stopover point"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=1GTqqKa920o8JkGSdrl8bnQe0tq9xSKcX"]
+            },
+            {
+              "name": "Jalkhad",
+              "location": {
+                "district": "Mansehra",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 34.7819, "longitude": 73.5847 }
+              },
+              "category": "Mountain Town",
+              "description": "Small village in upper Kaghan Valley near the Kunhar River.",
+              "highlights": [
+                "Natural mountain surroundings",
+                "River access"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=1aaXFl-7QJBTLs0uSEfyBCwiPfiXaeWKX"]
+            },
+            {
+              "name": "Babusar Pass",
+              "location": {
+                "district": "Mansehra",
+                "province": "Khyber Pakhtunkhwa",
+                "coordinates": { "latitude": 35.1286, "longitude": 74.0786 }
+              },
+              "category": "Mountain Pass",
+              "description": "High-altitude mountain pass connecting Kaghan Valley with Gilgit-Baltistan.",
+              "highlights": [
+                "High-altitude views",
+                "Snow-covered peaks"
+              ],
+              "best_time_to_visit": "July to September",
+              "images": ["https://drive.google.com/uc?id=1hlM7iWZp6irr1oxDGgXQft3RzuOuZi_P"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

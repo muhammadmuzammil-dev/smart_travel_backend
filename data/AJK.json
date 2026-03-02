@@ -1,0 +1,291 @@
+{
+  "province": "Azad Jammu & Kashmir",
+  "divisions": [
+    {
+      "name": "Muzaffarabad Division",
+      "districts": [
+        {
+          "name": "Muzaffarabad",
+          "destinations": [
+            {
+              "name": "Muzaffarabad City",
+              "location": {
+                "district": "Muzaffarabad",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.3700, "longitude": 73.4700 }
+              },
+              "category": "Capital City / Gateway",
+              "description": "Capital of Azad Jammu & Kashmir and the main gateway for tourists heading toward Neelum and Leepa valleys.",
+              "highlights": [
+                "Confluence of Neelum and Jhelum Rivers",
+                "Gateway to Neelum Valley",
+                "Mountain-surrounded city"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://drive.google.com/uc?id=1Y4KM_4j9TUu0fwjn6jPNWkShancPXOgP"]
+            },
+            {
+              "name": "Red Fort (Muzaffarabad Fort)",
+              "location": {
+                "district": "Muzaffarabad",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.3708, "longitude": 73.4707 }
+              },
+              "category": "Historical Fort",
+              "description": "17th-century fort built by the Chak rulers overlooking Muzaffarabad city.",
+              "highlights": [
+                "Historic architecture",
+                "View over Neelum River",
+                "Cultural heritage site"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://drive.google.com/uc?id=1y_G6T_Awf_lGgF_YcPuoPUUHu35mlQqB"]
+            }
+          ]
+        },
+        {
+          "name": "Neelum",
+          "destinations": [
+            {
+              "name": "Neelum Valley",
+              "location": {
+                "district": "Neelum",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.5850, "longitude": 73.9070 }
+              },
+              "category": "Valley / Scenic",
+              "description": "Flagship tourist valley of AJK, famous nationwide for alpine scenery and river landscapes.",
+              "highlights": [
+                "Neelum River",
+                "Dense pine forests",
+                "Snow-capped mountains"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://drive.google.com/uc?id=1wLmaOpVuFCqQv0oOn07g232eu1_3XrXU"]
+            },
+            {
+              "name": "Kutton (Jagran Valley)",
+              "location": {
+                "district": "Neelum",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.5106, "longitude": 73.8543 }
+              },
+              "category": "Valley / Waterfall",
+              "description": "Entry point to Neelum Valley, famous for Jagran Waterfall and resorts.",
+              "highlights": [
+                "Jagran Waterfall",
+                "Tourist resorts",
+                "Easy road access"
+              ],
+              "best_time_to_visit": "April to September",
+              "images": ["https://drive.google.com/uc?id=1e_-8L2qPEUMznuJFQPaWHr_bBaoUfizK"]
+            },
+            {
+              "name": "Keran",
+              "location": {
+                "district": "Neelum",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.5806, "longitude": 73.9211 }
+              },
+              "category": "Riverside Tourism",
+              "description": "Major riverside tourist town with resorts along Neelum River.",
+              "highlights": [
+                "Riverfront stays",
+                "Border scenery",
+                "Popular overnight stop"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://drive.google.com/uc?id=19zZzp0kJ_Ekvwx0drLu5H41UaCJ7yLZ7"]
+            },
+            {
+              "name": "Sharda",
+              "location": {
+                "district": "Neelum",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.8036, "longitude": 74.1956 }
+              },
+              "category": "Historical / Scenic",
+              "description": "Historic town known for Sharda Peeth ruins and alpine scenery.",
+              "highlights": [
+                "Ancient university ruins",
+                "Wide river valley",
+                "Cultural significance"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=1Uqd15fFXTMWZmjxLmU9RRjp4sCDz95LF"]
+            },
+            {
+              "name": "Kel",
+              "location": {
+                "district": "Neelum",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.8085, "longitude": 74.3154 }
+              },
+              "category": "Mountain Base Town",
+              "description": "Upper Neelum town serving as base for Arang Kel and Shounter.",
+              "highlights": [
+                "Mountain views",
+                "Cable car access",
+                "Cool climate"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=1XbHasvuSd8dhEz1f4Yi20FbFnB1chcmN"]
+            },
+            {
+              "name": "Arang Kel",
+              "location": {
+                "district": "Neelum",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.8265, "longitude": 74.3214 }
+              },
+              "category": "Hilltop Village",
+              "description": "Iconic hilltop village accessed by cable car and hike.",
+              "highlights": [
+                "Panoramic views",
+                "Traditional wooden houses",
+                "Photography hotspot"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=12SqNrN-Gh8CPR7AZ3EkZObZfMjL1SC-8"]
+            },
+            {
+              "name": "Ratti Gali Lake",
+              "location": {
+                "district": "Neelum",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.8425, "longitude": 74.0636 }
+              },
+              "category": "Alpine Lake",
+              "description": "High-altitude alpine lake famous across Pakistan.",
+              "highlights": [
+                "Turquoise lake",
+                "Jeep + trekking access",
+                "Alpine meadows"
+              ],
+              "best_time_to_visit": "July to September",
+              "images": ["https://drive.google.com/uc?id=1aa8q_YrZZ5CpRW4iFb97nFWBSaC6SbMY"]
+            },
+            {
+              "name": "Taobat",
+              "location": {
+                "district": "Neelum",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.9060, "longitude": 74.6990 }
+              },
+              "category": "Remote Scenic Village",
+              "description": "Last village of Neelum Valley, known for untouched landscapes.",
+              "highlights": [
+                "Remote wilderness",
+                "Traditional houses",
+                "River Neelum origin area"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://drive.google.com/uc?id=1B6F9E5ieujWUUygdQkSEqvJ0wuWYisQ6"]
+            }
+          ]
+        },
+        {
+          "name": "Hattian Bala",
+          "destinations": [
+            {
+              "name": "Leepa Valley",
+              "location": {
+                "district": "Hattian Bala",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.5825, "longitude": 73.9042 }
+              },
+              "category": "Valley / Cultural",
+              "description": "High-altitude valley famous for wooden houses and snowfall tourism.",
+              "highlights": [
+                "Traditional Kashmiri architecture",
+                "Terraced fields",
+                "Winter snowfall"
+              ],
+              "best_time_to_visit": "May to October",
+              "images": ["https://drive.google.com/uc?id=111Dm2direN5dqwuh-r21_jeQt3WL0ckf"]
+            },
+            {
+              "name": "Reshian",
+              "location": {
+                "district": "Hattian Bala",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 34.5443, "longitude": 73.9055 }
+              },
+              "category": "Gateway Town",
+              "description": "Main access town for Leepa Valley.",
+              "highlights": [
+                "Gateway to Leepa",
+                "Scenic drive",
+                "Local markets"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://drive.google.com/uc?id=1YYLsjW9mCv7wdM_UlxFQH83aaE3CRGjT"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Poonch Division",
+      "districts": [
+        {
+          "name": "Poonch",
+          "destinations": [
+            {
+              "name": "Rawalakot",
+              "location": {
+                "district": "Poonch",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 33.8580, "longitude": 73.7600 }
+              },
+              "category": "Hill Station / City",
+              "description": "Major hill city known as Pearl Valley.",
+              "highlights": [
+                "Pleasant summer climate",
+                "Panoramic hills",
+                "Tourism base city"
+              ],
+              "best_time_to_visit": "April to September",
+              "images": ["https://drive.google.com/uc?id=1GBuQ-5042iM1aFenqxVKUsJCFNXFPb84"]
+            },
+            {
+              "name": "Banjosa Lake",
+              "location": {
+                "district": "Poonch",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 33.8680, "longitude": 73.7500 }
+              },
+              "category": "Lake",
+              "description": "Artificial lake surrounded by pine forest.",
+              "highlights": [
+                "Boating",
+                "Picnic spot",
+                "Forest views"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": ["https://drive.google.com/uc?id=1oxWZXwD0BtIz36sfeHTj9IcIjNGuaqCm"]
+            },
+            {
+              "name": "Toli Pir",
+              "location": {
+                "district": "Poonch",
+                "province": "Azad Jammu & Kashmir",
+                "coordinates": { "latitude": 33.6667, "longitude": 73.7500 }
+              },
+              "category": "Hilltop / Plateau",
+              "description": "Most famous Tolipir in AJK, visited nationwide.",
+              "highlights": [
+                "Panoramic plateau",
+                "Snowfall in winter",
+                "Hiking and camping"
+              ],
+              "best_time_to_visit": "May to October",
+              "images": ["https://drive.google.com/uc?id=16JqS-FaceWKs6Dvp846pGNNdc5noXtDG"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

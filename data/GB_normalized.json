@@ -1,0 +1,1921 @@
+{
+  "province": "Gilgit-Baltistan",
+  "divisions": [
+    {
+      "name": "Gilgit Division",
+      "districts": [
+        {
+          "name": "Gilgit",
+          "destinations": [
+            {
+              "name": "Satrangi Lake",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.2397, "longitude": 74.0821 }
+              },
+              "category": "Natural / Lake / Scenic",
+              "description": "Satrangi Lake, also known as the Seven Colored Lake, is a mesmerizing natural wonder located in the enchanting Naltar Valley of Gilgit-Baltistan. The lake is famed for its extraordinary display of seven distinct colors, which shift and blend with the changing light and weather conditions.",
+              "highlights": [
+                "Seven distinct colors shifting with light and weather",
+                "Located in Naltar Valley",
+                "2–3 hour trek through stunning landscapes",
+                "Photographer's paradise and birdwatching spot"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/7EBqEtMX99A6Fnh1YoKYsceBacvKQe-metac2F0cmFuZ2kgbGFrZTEuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Firoza Lake",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.2442, "longitude": 74.0964 }
+              },
+              "category": "Natural / Lake / Scenic",
+              "description": "Firoza Lake is a stunning high-altitude lake in Naltar Valley, surrounded by lush green meadows and towering mountains. It offers tranquility and opportunities for trekking and nature photography.",
+              "highlights": [
+                "High-altitude lake in Naltar Valley",
+                "Surrounded by lush meadows and mountains",
+                "3–4 hour trek or jeep ride to reach",
+                "Ideal for nature lovers and photographers"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/jwqklbKniEYcsglSbR9k7Ya1eEp3FP-metaRmVyb3phIExha2UgTmFsdGFyLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Bireno Suspension Bridge",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.9251, "longitude": 74.3695 }
+              },
+              "category": "Cultural / Historical / Bridge",
+              "description": "Bireno Suspension Bridge connects Danyore Valley to Karakoram University across the Hunza River. Built between 1957–1960 without proper engineering equipment, it stands as a testament to local ingenuity and cultural significance.",
+              "highlights": [
+                "Historic suspension bridge",
+                "Connects Danyore Valley to Karakoram University",
+                "Built 1957–1960 by local self-taught engineer",
+                "Cultural and spiritual significance"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/XbfzVnwLXsHeVtvI6nFR8ZzbzLmSbZ-metaQmlyZW5vIGJyaWRnZS5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Taj Mughal Minar",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.9009, "longitude": 74.3380 }
+              },
+              "category": "Historical / Archaeological",
+              "description": "Taj Mughal Minar, locally called 'Mughali Shikar', is a 700-year-old archaeological site in Gilgit City, built by Taj-ud-Din Mughal. It offers scenic views of the city and surrounding mountains.",
+              "highlights": [
+                "700-year-old historical minar",
+                "Built by Taj-ud-Din Mughal",
+                "Located on mountain ridge in Gilgit",
+                "Ideal for hikers and history enthusiasts"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/aiSHbca5NKzpbd2AKU5VGzTImzVkXd-metaTXVnaHVsIE1pbmFyIGxhdGVzdDEuSlBH-.jpg"
+              ]
+            },
+            {
+              "name": "Naltar Valley",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.1632, "longitude": 74.1734 }
+              },
+              "category": "Natural / Valley / Scenic / Adventure",
+              "description": "Naltar Valley is a stunning region at 3,000 meters’ elevation, known for snow-capped peaks, lush greenery, trekking trails, and lakes like Firoza Lake and Satrangi Lake.",
+              "highlights": [
+                "Panoramic views of mountains and valleys",
+                "Trekking and winter sports at ski resort",
+                "Rich flora and fauna in forests",
+                "Includes lakes like Firoza, Satrangi, Blue and Bodlok"
+              ],
+              "best_time_to_visit": "March to November",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/aXbDdxxbArg5Gl91IqA9hzVI0tIxMR-metaTmFsdGFyIDkuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Chinese Cemetery",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.9128, "longitude": 74.3859 }
+              },
+              "category": "Historical / Cultural",
+              "description": "Chinese Cemetery in Danyore Valley is the final resting place of Chinese engineers and workers who died constructing the Karakoram Highway in the 1960s–70s.",
+              "highlights": [
+                "Historic cemetery for Chinese engineers",
+                "Located in Danyore Valley",
+                "Tribute to Karakoram Highway workers",
+                "Cultural and historical significance"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/7O0Oo175Bi4fbbdRrOo6FyBhyk2W4B-metaY2hpbmVzZSBncmF2ZSB5YXJkLmpwZWc=-.jpg"
+              ]
+            },
+            {
+              "name": "Kutwal Lake",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.8938, "longitude": 74.8845 }
+              },
+              "category": "Natural / Lake / Scenic",
+              "description": "Kutwal Lake is a high-altitude lake in Haramosh Valley, surrounded by peaks like Haramosh, Laila, and Dobani. It is a serene destination for nature lovers.",
+              "highlights": [
+                "High-altitude lake in Haramosh Valley",
+                "Surrounded by towering peaks",
+                "Peaceful and scenic",
+                "Accessible via local trekking routes"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/sVVFx0PVE3R76csJkirbARwqmtSR6G-metaS3V0d2FsIExha2UuamZpZg==-.jpg"
+              ]
+            },
+            {
+              "name": "Bagrot Valley",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.0098, "longitude": 74.5430 }
+              },
+              "category": "Natural / Valley / Scenic",
+              "description": "Bagrot Valley features alpine pastures, surrounded by peaks like Rakaposhi and Diran. Locals practice mountain agriculture, growing barley, maize, potatoes, and wheat.",
+              "highlights": [
+                "Alpine pastures up to 5,000m",
+                "Views of Rakaposhi, Diran, Dobani peaks",
+                "Traditional mountain agriculture",
+                "Scenic and tranquil valley"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/h0ZXN9eWtEiGZpUS0lxVdzfQYC11n6-metaQkFHUk9URS1WQUxMRVktMi1lMTQ0MjQ5NzE4OTg1Ny5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Kargah Buddha",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.9112, "longitude": 74.2598 }
+              },
+              "category": "Historical / Archaeological / Buddhist Site",
+              "description": "Kargah Buddha is a 50-foot high cliff-face carving of Buddha from 4th–7th century, located 6 miles outside Gilgit city. It reflects the early Buddhist history of the region.",
+              "highlights": [
+                "50-foot cliff-face Buddha carving",
+                "Dates back to 4th–7th century",
+                "Located near Gilgit City",
+                "Historical and archaeological significance"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/eN0DUwEBjkdsL5JL2ACJWJj0MOCdcp-metaQnVkZGFoLmpwZWc=-.jpg"
+              ]
+            },
+            {
+              "name": "Junction of Three Mountain Ranges",
+              "location": {
+                "district": "Gilgit",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.7417, "longitude": 74.6196 }
+              },
+              "category": "Natural / Scenic / Geographical Landmark",
+              "description": "The junction of Himalayas, Karakoram, and Hindu-Kush near Bunji creates a unique confluence of mountain ranges, enhancing the region's geographical significance.",
+              "highlights": [
+                "Confluence of Himalayas, Karakoram, and Hindu-Kush",
+                "Near Bunji",
+                "Geographical and topographical significance",
+                "Scenic landmark"
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/bX5vOwGqApGZP0z51vIJw7t4XDjUJf-metaMy1tb3VudGFpbi1yYW5nZXMuanBn-.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Astore",
+          "destinations": [
+            {
+              "name": "Mazino Pass",
+              "location": {
+                "district": "Astore",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.225267,
+                  "longitude": 74.547024
+                }
+              },
+              "category": "Mountain / Trekking / Adventure",
+              "description": "The Mazino Pass, situated approximately 42 kilometers from Astore's administrative center, is a renowned trekking destination and base camp for climbers attempting Nanga Parbat, the 9th highest peak globally.",
+              "highlights": [
+                "High-altitude trekking route (5,377m) linking Rupal Valley to Diamer region.",
+                "Offers stunning alpine scenery and solitude.",
+                "Strategically important for mountaineers targeting Nanga Parbat."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/QJbzbg2HpMDSaLBmTELyLNLDXU02vx-metaaW1hZ2UxNi03Njh4NTEyLndlYnA=-.webp"]
+            },
+            {
+              "name": "Burzil Pass",
+              "location": {
+                "district": "Astore",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 34.903923,
+                  "longitude": 75.087088
+                }
+              },
+              "category": "Mountain / Historical / Trekking",
+              "description": "Burzil Pass, at 13,808 ft, is a historic caravan route linking Srinagar to Gilgit, passing near the Line of Control in Kashmir. It is the oldest known route connecting Gilgit to Skardu via Deosai Plateau.",
+              "highlights": [
+                "Historic high-altitude pass.",
+                "Source of Astore River.",
+                "Verdant summit with alpine grasses in summer."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/pC3AvCX2OItDHchL0KaChMlgqVMuD3-metaMEJ1cnppbCBQYXNzMC5qcGc=-.jpg"]
+            },
+            {
+              "name": "Kala Pani",
+              "location": {
+                "district": "Astore",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 34.858022,
+                  "longitude": 74.901972
+                }
+              },
+              "category": "Valley / Trekking / Nature",
+              "description": "Kalapani Valley is known for lush green meadows, streams, and towering mountains, offering a serene retreat in Astore District for nature lovers and trekkers.",
+              "highlights": [
+                "Untouched natural landscape.",
+                "Peaceful and secluded.",
+                "Ideal for trekking and photography."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/YS1bVM7QG4QqUAIS9qbVgKqS8SAmyl-metaS2FsYXBhbmkyLmpwZw==-.jpg"]
+            },
+            {
+              "name": "Dirlay Lake",
+              "location": {
+                "district": "Astore",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.047738,
+                  "longitude": 74.826415
+                }
+              },
+              "category": "Lake / Nature / Adventure",
+              "description": "Dirlay Lake is nestled in Dirlay Valley, known for pristine streams, rivers, and serpentine-shaped lake waters, surrounded by towering mountains.",
+              "highlights": [
+                "Crystal-clear bluish waters.",
+                "Scenic mountain vistas.",
+                "Unique serpentine lake shape."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/xTuT0AsueWOxgYuG892WE1CCFJxHJ9-metaRGlybGF5IExha2UxLkpQRw==-.jpg"]
+            },
+            {
+              "name": "Allah Wali Jheel",
+              "location": {
+                "district": "Astore",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.384279,
+                  "longitude": 75.011393
+                }
+              },
+              "category": "Lake / Scenic / Cultural",
+              "description": "Allah Wali Jheel in Perishing Valley features a natural formation of the Arabic script for 'Allah' in its landscape, set amidst lush green fields and towering mountains.",
+              "highlights": [
+                "Unique natural phenomenon in landscape.",
+                "Picturesque surroundings.",
+                "Popular for recreation and photography."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/qchy6nUJvoIKiWRBaqIQmPgHQE80KW-metaQWxsYWgtV2FsaS1KaGVlbC1Bc3RvcmUxLmpwZw==-.jpg"]
+            },
+            {
+              "name": "Domail Rainbow Lake",
+              "location": {
+                "district": "Astore",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 34.751892,
+                  "longitude": 75.178864
+                }
+              },
+              "category": "Lake / Scenic / Nature",
+              "description": "Domail Rainbow Lake in Minimarg is a stunning lake covered with lush meadows and flowers, sometimes hidden by fog or rain, making it a lucky sight for visitors.",
+              "highlights": [
+                "Vibrant and scenic lake.",
+                "Lush green meadows.",
+                "Accessible via trekking through Minimarg."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/CP8dGvQIYsYfmxlUdD4FCJNNyOVeLP-metaUmFpbmJvdyBMYWtlMS5qcGc=-.jpg"]
+            },
+            {
+              "name": "Rama Lake",
+              "location": {
+                "district": "Astore",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.330173,
+                  "longitude": 74.783710
+                }
+              },
+              "category": "Lake / Trekking / Scenic",
+              "description": "Rama Lake, near Nanga Parbat, is a high-altitude lake surrounded by lush meadows and pine/cedar forests, popular for trekking and adventure tourism.",
+              "highlights": [
+                "High-altitude lake at 3,507 meters.",
+                "Near Nanga Parbat, the ninth-highest mountain.",
+                "Surrounded by meadows and dense forests."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/UHNFhhO38xBYGBC4p0OCosqflpoHPf-metacmFtYSBsYWtlLkpQRw==-.jpg"]
+            },
+            {
+              "name": "Deosai National Park",
+              "location": {
+                "district": "Astore",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 34.970512,
+                  "longitude": 75.469249
+                }
+              },
+              "category": "National Park / Wildlife / Scenic",
+              "description": "Deosai National Park, at 4,114 m, is the second-highest plateau in the world, famous for Himalayan Marmots, Brown Bears, and Sheosar Lake.",
+              "highlights": [
+                "High-altitude alpine plain.",
+                "Diverse wildlife including Brown Bear and Himalayan Marmots.",
+                "Sheosar Lake offers stunning scenery."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/mXOcm9iEDhl5iCbHUOcSa4YtNAoTIm-metaNC1CYXJhLVBhbmktRGVvc2FpLmpwZw==-.jpg"]
+            }
+          ]
+        },
+
+                {
+          "name": "Nagar",
+          "destinations": [
+            {
+              "name": "Rakaposhi",
+              "location": {
+                "district": "Nagar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.2109, "longitude": 74.4465 }
+              },
+              "category": "Mountain / Trekking / Nature",
+              "description": "Rakaposhi is a prominent mountain in the Karakoram range standing 7,788 meters tall. It offers stunning views of Nagar Valley and is home to endangered species like Marco Polo sheep, snow leopards, and brown bears.",
+              "highlights": [
+                "Uninterrupted 6,000-meter descent from summit to base.",
+                "Rakaposhi View Point offers closest view of the mountain.",
+                "Scenic Karakoram Highway with cultural and archaeological spots."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/amF3lOQaNWavgTlumgn9lgeW8FdoL1-metacmFrYXBvc2hpX3ZpZXdfcG9pbnRfcGFraXN0YW4uanBn-.jpg"]
+            },
+            {
+              "name": "Sikandarabad Valley",
+              "location": {
+                "district": "Nagar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.2405, "longitude": 74.3778 }
+              },
+              "category": "Village / Cultural / Mountain",
+              "description": "Sikandarabad is the administrative center of Nagar District, located along the Karakoram Highway near the base of Rakaposhi mountain.",
+              "highlights": [
+                "Picturesque village nestled in Karakoram Range.",
+                "Close proximity to Rakaposhi base camp.",
+                "Cultural experiences and local hospitality."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/w0IWcV9aeysEu3QuA0V9KijWX3DVOg-metaU2lrYW5kYXJhYmFkIE5hZ2FyMy5qcGc=-.jpg"]
+            },
+            {
+              "name": "Kacheli Lake",
+              "location": {
+                "district": "Nagar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.1982, "longitude": 74.5877 }
+              },
+              "category": "Lake / Nature / Trekking",
+              "description": "Kacheli Lake is a high-altitude lake in Miacher Valley, known for its untouched natural beauty.",
+              "highlights": [
+                "Located amidst Kacheli Meadows.",
+                "Ideal for trekking and nature photography."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/XZna35rr13FxPXMijjw4yzlY09Nitq-metaa2FjaGVsaSBsYWtlLmpwZw==-.jpg"]
+            },
+            {
+              "name": "Rush Lake",
+              "location": {
+                "district": "Nagar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.1743, "longitude": 74.8814 }
+              },
+              "category": "Lake / High Altitude / Trekking",
+              "description": "Rush Lake is one of Pakistan’s highest lakes at 4,694 meters, offering breathtaking scenery and pristine waters.",
+              "highlights": [
+                "High-altitude trekking destination.",
+                "Panoramic views of surrounding mountains."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/iAl0RLMGh7yzaKXYZLglObq4QzY09V-metaUnVzaCBMYWtlIDMuanBn-.jpg"]
+            },
+            {
+              "name": "Hispar Glacier",
+              "location": {
+                "district": "Nagar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.0855, "longitude": 75.2658 }
+              },
+              "category": "Glacier / Trekking / Adventure",
+              "description": "Hispar Glacier stretches 49 km, connecting to Snow Lake, making it a paradise for trekkers and adventure enthusiasts.",
+              "highlights": [
+                "Trek from Biafo Glacier to Hispar Glacier.",
+                "Access to Snow Lake frozen glacial area."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/UrfxjQ5cNIyBVoWo1q1WwTkegmiM8T-metaSGlzcGFyIEdsY2FjaWVyLkpQRw==-.jpg"]
+            },
+            {
+              "name": "Natural Cricket Stadium",
+              "location": {
+                "district": "Nagar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 36.2296, "longitude": 74.5148 }
+              },
+              "category": "Sports / Unique / Nature",
+              "description": "The world's highest natural Cricket Stadium, located at Pissan Valley, Nagar District, offering scenic surroundings and a lush green pitch.",
+              "highlights": [
+                "Altitude of 8,500 feet above sea level.",
+                "Located under Rakaposhi and Diran peaks.",
+                "Hosts local cricket tournaments and promotes tourism."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/kBAftq4Tk7vARWPMTifPQlDtHehXGV-metaUGlzYW4gQ3JpY2tldCBTdGFkaXVtLmpwZw==-.jpg"]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Baltistan Division",
+      "districts": [
+        {
+          "name": "Skardu",
+          "destinations": [
+            {
+              "name": "Skardu",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.33,
+                  "longitude": 75.63
+                }
+              },
+              "category": "City / Cultural / Valley",
+              "description": "LAND OF PEACE District Skardu in Baltistan Division is located at the confluence of Indus River and Shayok River that leads toward the legendary tourist destination of the greatest mountain peaks of the world. Skardu Valley is path to some of the highest mountain peaks in the world such as Gasherbrum, K2, and K3. This region is the manifestation of hospitality and respect for tourists.",
+              "highlights": [
+                "Languages: Balti, English, and Urdu widely spoken.",
+                "Famous Tourist Spots: Kharpocho Fort, Manthal Buddha Rock, Sadpara and Kachura Lakes, Shangrila Lake.",
+                "Valleys: Chunda, Basho, Bilamik & Satpara.",
+                "Katpana Sand Dunes (cold desert) and Hargisa streams.",
+                "Popular Activities: Fishing, Boating, Trekking, Rock Climbing, Trophy Hunting, Paragliding, Skiing, Mountain Biking."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/oJhc4BTvcPNNKxCFeRdDS0SDt6KEo3-metaRGlzdHJpY3QgU2thcmR1IHNsaWRlIGltYWdlIDUuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Deosai National Park",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 34.9705,
+                  "longitude": 75.4692
+                }
+              },
+              "category": "National Park / Nature / Adventure",
+              "description": "Deosai is a high-altitude alpine plain at 4,114 m, famous for Himalayan Marmots, Brown Bears, wildflowers, and Sheosar Lake. Located between Skardu and Astore districts, it offers trekking, mountaineering, camping, and fishing.",
+              "highlights": [
+                "Second highest plateau in the world.",
+                "Accessible only in summers.",
+                "Sheosar Lake offers breathtaking scenery with wildflowers and butterflies."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/ihaKQZEYUGZh1t2YBxCN5ujO9ab0l0-metaNC1CYXJhLVBhbmktRGVvc2FpLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Chunda Valley",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.3373,
+                  "longitude": 75.4953
+                }
+              },
+              "category": "Valley / Trekking / Scenic",
+              "description": "Chunda Valley is a picturesque valley near Skardu city at 2,500 meters, known for panoramic mountain views, high-altitude lakes, and trekking trails.",
+              "highlights": [
+                "One hour drive from Skardu downtown.",
+                "Features Chunda Fort and high-altitude lakes.",
+                "Best visited in spring from late February to April."
+              ],
+              "best_time_to_visit": "February to April",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/egawjw4TjQ4b8yD9iUHzkLxFwwxyce-metaQ2h1bmRhLXZhbGxleS0xMDI0eDY4My5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Basho Valley",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.4532,
+                  "longitude": 75.3083
+                }
+              },
+              "category": "Valley / Nature / Wildlife",
+              "description": "Basho Valley, at 3,600 meters, is known for its grapes, snow-capped mountains, Basho Glacier, and wildlife including deer, markhor, ibex, and snow leopards.",
+              "highlights": [
+                "45 km from Skardu city.",
+                "Popular for eco-adventures and trekking.",
+                "Known for scenic landscapes and wildlife."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/gTH9WHnKkooBD4lDCkJglPVSGG59Qm-metaQmFzaG8gVmFsbGV5IDIuSlBH-.jpg"
+              ]
+            },
+            {
+              "name": "Nangsoq Valley",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.3189,
+                  "longitude": 75.6310
+                }
+              },
+              "category": "Village / Cultural / Organic",
+              "description": "Nangsoq is Pakistan's first organic village, promoting traditional farming practices and Baltistan cuisine. Located near Kharpocho Fort.",
+              "highlights": [
+                "Ideal for excursions and cultural tourism.",
+                "Visited by Prince Charles and Duchess of Cornwall."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/F8WAMKHA8ZKwj8zo6atAdyDjNbCBGO-metaTmFuZ3NvcSBWYWxsZXkuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Sadpara Lake",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.2300,
+                  "longitude": 75.6104
+                }
+              },
+              "category": "Lake / Adventure / Scenic",
+              "description": "Sadpara Lake is one of the largest freshwater lakes in Pakistan, supplying water to Skardu City and popular for trout fishing and boating.",
+              "highlights": [
+                "Freshwater lake and recreational area.",
+                "Accessible for boating and fishing."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/VYOw4S1I2iCdU3YoaagAMTAAGsKj97-metaU0FEUEFSQSBsYWtlIFNrYXJkdSwgUGFraXN0YW4gLSBDb3B5LmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Katpana Cold Desert",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.3159,
+                  "longitude": 75.5984
+                }
+              },
+              "category": "Desert / Nature / Adventure",
+              "description": "Katpana Cold Desert, also called Nakpo Biama, is a high-altitude desert with vast sand dunes sometimes covered in snow during winter.",
+              "highlights": [
+                "Elevation of 2,226 m.",
+                "One of the highest deserts in the world."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/dl0P1Wbj1i5mKshe2rIjYfkLtHL24W-metaZGVzZXJ0LmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Manthal Buddha Rock",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.2685,
+                  "longitude": 75.6311
+                }
+              },
+              "category": "Historical / Cultural / Rock",
+              "description": "Manthal Buddha Rock is a historical heritage site with an 8th-century Buddha sculpture and inscriptions in Balti language.",
+              "highlights": [
+                "Located near Sadpara Dam.",
+                "Famous archaeological and tourist site."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/UMWO8NvdmLgXjIQG2NdLGt6gVg6EbK-metaTWFudGhhbC1idWRoYS1yb2Nrcy0xLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Kachura Lakes",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.4466,
+                  "longitude": 75.4406
+                }
+              },
+              "category": "Lakes / Scenic / Resort",
+              "description": "Kachura Lakes consist of Upper and Lower Kachura Lakes (Shangrila Lake) and are major attractions in Skardu, ideal for boating and leisure.",
+              "highlights": [
+                "Upper and Lower Kachura Lake.",
+                "Shangrila Resort nearby for tourists."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/EgzRNEiwXoQdYYriBJZ4pfaOqAZtEE-metaU2hhbmdyaWxhLF9Mb3dlcl9LYWNodXJhX0xha2UuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Kharphocho Fort",
+              "location": {
+                "district": "Skardu",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.3038,
+                  "longitude": 75.6370
+                }
+              },
+              "category": "Historical / Fort / Cultural",
+              "description": "Kharpocho Fort, the 'King of Forts', is an ancient fort built between 1490-1505 by the Maqpoon dynasty and overlooks Skardu town.",
+              "highlights": [
+                "Important historical and cultural heritage site.",
+                "Strategically built on a hill overlooking Skardu."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/Ure5G0ESCHdPXYcNzdGgHv1Ovoy3j7-metaa2hhcnBvY2hvIGZvcnQxLndlYnA=-.webp"
+              ]
+            }
+          ]
+        },
+
+                {
+          "name": "Shigar",
+          "destinations": [
+            {
+              "name": "Shigar",
+              "location": {
+                "district": "Shigar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.35,
+                  "longitude": 75.65
+                }
+              },
+              "category": "Valley / Cultural / Historical",
+              "description": "LAND OF MOUNTAINS Shigar is the gateway to the Karakoram, with fertile lands irrigated by the Shigar River. Heritage sites include the 400-year-old Shigar Fort and Amburiq Mosque, recognized for restoration and UNESCO conservation awards.",
+              "highlights": [
+                "Gateway to Karakoram and Baltoro Glacier.",
+                "Fertile valley producing grapes, peaches, pears, walnuts, and apricots.",
+                "Close proximity to Skardu (approx. 30 minutes drive)."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/NN0YvOTTgn606do7th1xiH5cdU5hSy-metaSzItYmFzZS1jYW1wLTEtMTI4MHg1ODAuanBlZw==-.jpg"
+              ]
+            },
+            {
+              "name": "K-2 The Second Highest Mountain on Earth",
+              "location": {
+                "district": "Shigar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.88,
+                  "longitude": 76.51
+                }
+              },
+              "category": "Mountain / Trekking / Adventure",
+              "description": "K-2 is the 2nd highest mountain in the world at 8,611 meters, located in the Karakoram Range on the Pak-China border. Skardu serves as the gateway, with trekking routes passing through Shigar, Askole, and Concordia over Baltoro Glacier. First summit was achieved in 1954 by Italian climbers Achille Compagnoni and Lino Lacedelli.",
+              "highlights": [
+                "Nickname: Killer Mountain due to climbing difficulty and fatalities.",
+                "Local name: Chogori in Balti language.",
+                "Trekking permits regulated by Gilgit-Baltistan government."
+              ],
+              "best_time_to_visit": "June to August",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/CF6ovf55Jf9nFGOzdXq8TdBMGeYBiR-metac2hpZ2FyNC5qcGVn-.jpg"
+              ]
+            },
+            {
+              "name": "Blind Lake",
+              "location": {
+                "district": "Shigar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.3625,
+                  "longitude": 75.6938
+                }
+              },
+              "category": "Lake / Scenic / Adventure",
+              "description": "Blind Lake (Jarba Zhou Lake) is a scenic lake near Shigar, about 30 minutes from Skardu. Located on the K-2 trekking route, it offers walks along sand, rocks, and lush grass, set amid mountains and cold desert surroundings.",
+              "highlights": [
+                "Hidden gem for adventure lovers.",
+                "Located in the legendary K-2 route.",
+                "Picturesque desert and mountain surroundings."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/avCpla53kUpYHeXzP5wNzKKpdyhPIH-metaYmxpbmQgbGFrZTEuSlBH-.jpg"
+              ]
+            },
+            {
+              "name": "Sarfaranga Cold Desert",
+              "location": {
+                "district": "Shigar",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.3140,
+                  "longitude": 75.7495
+                }
+              },
+              "category": "Desert / Adventure / Festival",
+              "description": "Sarfaranga Cold Desert at 7,500 feet in Shigar District is surrounded by mountains and the Indus River. The desert hosts the annual Sarfaranga Jeep Rally and adventure activities such as free-style polo, boating, rock climbing, and cultural performances.",
+              "highlights": [
+                "Highest cold desert in the world.",
+                "Annual Jeep Rally promotes adventure tourism.",
+                "Unique sunset views over sand dunes."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/OghYMnB89uvcIRbB2xXB47IWCXimt8-metaU2FyZmFyYW5nYV9EZXNlcnQucG5n-.png"
+              ]
+            }
+          ]
+        },
+
+                {
+          "name": "Ghanche",
+          "destinations": [
+            {
+              "name": "Ghanche",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.15,
+                  "longitude": 76.33
+                }
+              },
+              "category": "Valley / Cultural / Historical",
+              "description": "LAND OF TOURISM Ghanche is the easternmost district of Gilgit-Baltistan. Known for its rich cultural heritage, historical sites, and local festivals, it features architectural masterpieces like Khaplu Palace and Chaqchan Mosque. Popular activities include trekking, camping, and trout fishing.",
+              "highlights": [
+                "Khaplu Palace and Chaqchan Mosque reflect traditional craftsmanship.",
+                "Local dances: Mandoq Taimo and Ragi Taimo.",
+                "Gateway to Masherbrum and Hushe Valley treks."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/hlQlTyEL1M2bMguVXR3UcFOUH7QpGu-metaSHVzaGVfVmFsbGV5X2luX0doYW5nY2hlX0Rpc3RyaWN0X29mX0dpbGdpdOKAk0JhbHRpc3Rhbi5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Keris Valley",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.2325,
+                  "longitude": 75.9446
+                }
+              },
+              "category": "Valley / Cultural / Scenic",
+              "description": "Gateway to Ghanche district, known for lush fields, historic houses, the 'Door to Heaven' pedestrian bridge, and centuries-old hydropower and canal systems. Warm hospitality and beautiful landscapes make it ideal for summer visits.",
+              "highlights": [
+                "Famous for Cherry Blossom season.",
+                "Astana of Hazrat Mir Mukhtar and Ali Mosavi.",
+                "Confluence of Indus and Shyok Rivers."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/NXuNdqC03qXs6citcxFQHymrHRRPYr-metaS2VyaXMgVmFsbGV5IDEucG5n-.jpg"
+              ]
+            },
+            {
+              "name": "Barah Valley",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.2047,
+                  "longitude": 76.1902
+                }
+              },
+              "category": "Valley / Scenic",
+              "description": "Located along the Shyok River, 20 minutes from Khaplu. Known for its serene landscape, fish farms, natural springs, and tranquil environment. One of the lesser-known gems of Khaplu.",
+              "highlights": [
+                "Unexplored beauty and peaceful environment.",
+                "Famous lake at the top of the valley.",
+                "Local culture and festivals."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/QrH7Ouw3cgPcemVhuWcfxTs59qz41y-metaQmFyYWggVmFsbGV5Mi5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Haldi Cones",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.1611,
+                  "longitude": 76.3293
+                }
+              },
+              "category": "Mountain / Scenic",
+              "description": "Granite peaks visible from Khaplu, Yuchung Masherbrum viewpoint, and Machulu village. Haldi village is the closest access point for trekking and sightseeing.",
+              "highlights": [
+                "Spectacular granite formations.",
+                "Close to Haldi village and Khaplu town."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/7MXliXLJBedHbJwI2ELfhMNhDYSEli-metaS2hhcGx1LVZhbGxleS5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Chorbat Valley",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 34.9316,
+                  "longitude": 76.7227
+                }
+              },
+              "category": "Valley / Historical",
+              "description": "Part of the Shyok River valley spanning Pakistan and India. Historically significant with settlements in both countries. Extends from Khaplu to Chalunka village in Nubra.",
+              "highlights": [
+                "Split between Pakistan-administered Ghanche and Indian-administered Ladakh.",
+                "Historical Khan of Chorbat settlements."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/GfjM2mTiWFarLN7auXTHPnYpI20Zl5-metaQ2hvcmJhdCBWYWxsZXkxLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Kharfaq Lake",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.1710,
+                  "longitude": 76.1847
+                }
+              },
+              "category": "Lake / Scenic / Wildlife",
+              "description": "High-altitude lake in Kharfaq Valley, famous for trout and indigenous fish species. Surrounded by mountains, glaciers, and pristine streams.",
+              "highlights": [
+                "3-hour hike from Kharfaq village.",
+                "Best visited in July and August.",
+                "Winter snow-covered views are spectacular."
+              ],
+              "best_time_to_visit": "July to August",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/iRgQYA3yYIuDvyoHL1DLcLWUgmdlEt-metaS2hhcmZhcSBMYWtlIEdoYW5jaGUuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Ghanche Lake",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.0734,
+                  "longitude": 76.1405
+                }
+              },
+              "category": "Lake / Scenic / Adventure",
+              "description": "Known as 'Khenpi Tso', at 4,600 meters above sea level, surrounded by lush pastures, glaciers, and views of multiple 8,000+ meter peaks including K2, Broad Peak, and Gasherbrum series.",
+              "highlights": [
+                "Panoramic views of world's highest mountains.",
+                "High-altitude wildlife habitat."
+              ],
+              "best_time_to_visit": "July to August",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/5I3oJTXG4b52ZBXev6HDPy41lhQSKf-metaZ2hhbmNoZSBsYWtlMS5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Chaqchan Mosque",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.1561,
+                  "longitude": 76.3280
+                }
+              },
+              "category": "Historical / Cultural",
+              "description": "Dating back to 1370, one of the oldest mosques in Baltistan. Features a blend of Tibetan, Mughal, and Persian architecture. Built on an old Buddhist site by Syed Amir Kabir Ali Hamdani.",
+              "highlights": [
+                "Double-story structure with winter prayer rooms.",
+                "Verandah on all sides of the top floor.",
+                "Exemplary traditional architecture."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/zpXedmJU6v7CoLrRZcUhOAHMH2iuzj-metaY2hhcWNoYW4gbW9zcXVlMi5KUEc=-.jpg"
+              ]
+            },
+            {
+              "name": "Gondogoro Pass",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.6508,
+                  "longitude": 76.4707
+                }
+              },
+              "category": "Mountain Pass / Adventure / Trekking",
+              "description": "Mountain pass at 5,585 meters connecting Gondogoro Glacier to Vigne Glacier. Popular among trekkers and climbers; challenging slopes and avalanche risks require experience and crampons.",
+              "highlights": [
+                "Access to Hushe Valley and K2 Base Camp.",
+                "Steep snow slopes and rockfall hazards.",
+                "Route established in 1986 linking Concordia to Hushe."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/1vLFlZCLppELtqfKmz556zpeWbqAiM-metaR29uZG9nb3JvIFBhc3MxLnBuZw==-.png"
+              ]
+            },
+            {
+              "name": "Khaplu Fort",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.1607,
+                  "longitude": 76.3264
+                }
+              },
+              "category": "Historical / Heritage",
+              "description": "Also known as Yabgo Khar, mid-19th century palace and fort in Khaplu. Fusion of Himalayan, Kashmiri, and Mughal architecture. Semi-octagonal timber entrance and balconies enhance heritage value.",
+              "highlights": [
+                "Royal residence of Raja of Khaplu.",
+                "Architectural record of cultural influence.",
+                "Restored by Agha Khan Foundation."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/rFucFDRJMgUW8rLLNk5OpwgefSs54K-metaS2hhcGx1IEZvcnQxLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Khaplu Valley",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.1600,
+                  "longitude": 76.3226
+                }
+              },
+              "category": "Valley / Cultural / Scenic",
+              "description": "Administrative and commercial center of Ghanche. Gateway to Hushe Valley, lakes, peaks, and glaciers. Cultural richness, fruit orchards, and restored heritage hotels like Serena Khaplu Fort attract tourists.",
+              "highlights": [
+                "Heritage hotels serving local Balti dishes.",
+                "Scenic picnic and trekking spots.",
+                "Vibrant fruit orchards and high mountains."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/NztZeTXbDg77tmjbksHt4035GBeTKb-metaS2hhcGx1LTEuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Saling Valley",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.1972,
+                  "longitude": 76.3666
+                }
+              },
+              "category": "Valley / Scenic / Camping",
+              "description": "Picturesque valley offering high-altitude landscapes, camping beside a lake, springs, and a royal history. Fertile land grows wheat, potatoes, and vegetables. Known for hospitality and low crime rate.",
+              "highlights": [
+                "Gateway to Hushe Valley.",
+                "Fish farm and hot spring nearby.",
+                "Former royal estate with historical significance."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/bRs79HR8WHotHN8jn5bEBiETjKVFkx-metaU2FsaW5nIFZhbGxleSBHaGFuY2hlLnBuZw==-.png"
+              ]
+            },
+            {
+              "name": "Hushe Valley",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.4502,
+                  "longitude": 76.3178
+                }
+              },
+              "category": "Valley / Trekking / Adventure",
+              "description": "Last village of Ghanche, surrounded by high Karakoram peaks. Epicenter for trekking and mountaineering, with access to Gondogoro Pass, Gasherbrum peaks, and K2. Popular among climbers and trekkers worldwide.",
+              "highlights": [
+                "Granite rocks, snow-capped peaks, sub-valleys.",
+                "Access point for trekking to K2 and Gasherbrum.",
+                "Growing adventure tourism hub."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/O5JGgNHn2QF2Cgwr7BqPGOnGhlBWZO-metaSHVzaGUgVmFsbGV5IDEuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Thalley Valley",
+              "location": {
+                "district": "Ghanche",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.3243,
+                  "longitude": 76.1345
+                }
+              },
+              "category": "Valley / Scenic / Camping",
+              "description": "Lush green valley 35 km from district headquarters. Offers camping, hiking, tracks to K2 base camp and Shigar Valley. Milky moonlit nights provide unforgettable views, with snow-capped mountains in the backdrop.",
+              "highlights": [
+                "Single cropping zone, agriculture-based community.",
+                "Track access to Shigar Valley and K2 Base Camp.",
+                "Stunning full-moon night views."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/LmtokIuUvd1KimMYnzUCMdBn19NIDB-metaVGhhbGF5IFZhbGxleTEuanBn-.jpg"
+              ]
+            }
+          ]
+        },
+
+                {
+          "name": "Kharmang",
+          "destinations": [
+            {
+              "name": "Manthokha Waterfall",
+              "location": {
+                "district": "Kharmang",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.0667, "longitude": 75.9916 }
+              },
+              "category": "Waterfall / Nature / Adventure",
+              "description": "Manthokha Waterfall is a stunning natural attraction in Kharmang Valley, dropping 180 feet amid lush greenery. Perfect for picnics, photography, and nature lovers.",
+              "highlights": [
+                "Crystal-clear water surrounded by greenery.",
+                "Ideal spot for picnics and photography.",
+                "Opportunities for fishing and trout farming."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/B17vhdSHABR2v3MaTQvBgOhbyRKYm6-metaTWFudGhva2EgV2F0ZXJmYWxsLkpQRw==-.jpg"]
+            },
+            {
+              "name": "Khamush Waterfall",
+              "location": {
+                "district": "Kharmang",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.8459, "longitude": 72.9733 }
+              },
+              "category": "Waterfall / Nature / Adventure",
+              "description": "Khamush Waterfall is a breathtaking natural wonder in Kharmang Valley, surrounded by scenic mountains and lush greenery. A must-visit for nature enthusiasts.",
+              "highlights": [
+                "Cascading waterfall amid mountains.",
+                "Ideal for adventurers and nature lovers."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/FfueNuMlFyaZjG8qTkW6RamZhSSHpV-metaa2hhbW9zaCB3YXRlcmZhbGwxLmpwZw==-.jpg"]
+            },
+            {
+              "name": "Ghandus Lake",
+              "location": {
+                "district": "Kharmang",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 34.9860, "longitude": 76.2129 }
+              },
+              "category": "Lake / Nature / Trekking",
+              "description": "Ghandus Lake is a hidden gem at 2,800 meters above sea level, offering breathtaking views with turquoise waters and a mountain backdrop.",
+              "highlights": [
+                "3-hour trek from Ghandus Valley.",
+                "Ideal for hiking, trekking, and camping.",
+                "Experience Balti culture and orchards."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/lOdjq10EhQ4hXOeIRKbAjgAJzGW7HR-metaZ3VuZHVzLmpwZw==-.jpg"]
+            },
+            {
+              "name": "Tolti Valley",
+              "location": {
+                "district": "Kharmang",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.0293, "longitude": 76.0873 }
+              },
+              "category": "Valley / Cultural / Nature",
+              "description": "Tolti Valley, the administrative capital of Kharmang, offers lush greenery, rivers, and a rich cultural heritage. Historically a trade route between Skardu and Kargil.",
+              "highlights": [
+                "Lush landscapes and serene rivers.",
+                "Traditional villages reflecting local culture.",
+                "Breathtaking natural beauty."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/8X22xUACiyRcbKE78iYAhWOrXDQ5q8-metaVG9sdGkxLmpwZw==-.jpg"]
+            },
+            {
+              "name": "Olding Valley",
+              "location": {
+                "district": "Kharmang",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.2819, "longitude": 75.6476 }
+              },
+              "category": "Valley / Cultural / Nature",
+              "description": "Olding Valley, the last village of Kharmang, is known for mountains, lush fields, and the Indus River. Rich cultural heritage with apple and fruit orchards.",
+              "highlights": [
+                "Located near the India-Pakistan border.",
+                "Traditional agriculture and livestock farming.",
+                "Historic tombs and cultural heritage."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/vblWXrHyhNIP7gEFNaUjnZJmxC5mMX-metab2xkaW5nMi5qcGc=-.jpg"]
+            },
+            {
+              "name": "Mehdiabad Valley",
+              "location": {
+                "district": "Kharmang",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.1324, "longitude": 75.9590 }
+              },
+              "category": "Valley / Cultural / Nature",
+              "description": "Mehdiabad Valley, formerly Parkuta, is a beautiful valley comprising Serling, Doqbar, Mehdiabad Khas, Bedong, and Pandah Village.",
+              "highlights": [
+                "Rich cultural heritage.",
+                "Picturesque landscapes and orchards.",
+                "Close to Skardu city (62 km)."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/SyGsDwmhh46lJgtgNxQoHkUU9CN0Af-metaTWVoZGlhYmFkMS5KUEc=-.jpg"]
+            },
+            {
+              "name": "Pari Valley",
+              "location": {
+                "district": "Kharmang",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.0209, "longitude": 76.1299 }
+              },
+              "category": "Valley / Nature / Apples",
+              "description": "Pari Valley is known for its stunning suspension bridge and Saspolo apples. The valley combines natural beauty with unique local produce.",
+              "highlights": [
+                "Suspension bridge with breathtaking views.",
+                "Renowned Saspolo apples unique to the valley.",
+                "Rich natural and cultural experiences."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/51v7ilqKzKu4svjJMdAgvfUbH8rz9E-metaS2hhcm1hbmctUGFyaS1WYWxsZXkuanBn-.jpg"]
+            },
+            {
+              "name": "Saspolo Apple",
+              "location": {
+                "district": "Kharmang",
+                "province": "Gilgit-Baltistan",
+                "coordinates": { "latitude": 35.0209, "longitude": 76.1299 }
+              },
+              "category": "Fruit / Agriculture / Cultural",
+              "description": "Saspolo Apple is unique to Kharmang’s Pari Valley, grown with traditional methods and celebrated in the annual Saspolo Festival.",
+              "highlights": [
+                "Hand-harvested at peak ripeness.",
+                "Grown without artificial fertilizers or pesticides.",
+                "Supports local economy and cultural heritage."
+              ],
+              "best_time_to_visit": "September to October",
+              "images": ["https://visitgilgitbaltistan.gov.pk/storage/images/wtaEnR15ZN0QD2LLNIB0EhBAFtHIDe-metaU2FzcG9sby1BcHBsZS5qcGc=-.jpg"]
+            }
+          ]
+        }
+
+      ]
+    },
+
+        {
+      "name": "Diamer Division",
+      "districts": [
+        {
+          "name": "Diamer",
+          "destinations": [
+            {
+              "name": "Diamer",
+              "location": {
+                "district": "Diamer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.42,
+                  "longitude": 74.53
+                }
+              },
+              "category": "Cultural / Valley / Historical",
+              "description": "LAND OF TRADITIONS District Diamer is gateway to Gilgit-Baltistan, rich in prehistoric rock carvings, inscriptions, and petroglyphs. It also hosts the Diamer-Bhasha Dam and Nanga Parbat, attracting tourists and adventure seekers.",
+              "highlights": [
+                "Languages: Shina, English, Urdu.",
+                "Famous Valleys: Tangir, Darel, Chilas, Bunar Das, Gonar Farm, Raikot.",
+                "Fairy Meadows is a major attraction.",
+                "Popular Activities: Mountaineering, trekking, cultural tourism."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/QmKCEis8IaYS53vB5ClmFfKP5NBzf6-metaRGlzdHJpY3QgY2hpbGFzIHNsaWRlIGltYWdlIDguanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Darel Valley",
+              "location": {
+                "district": "Diamer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.6927,
+                  "longitude": 73.5284
+                }
+              },
+              "category": "Valley / Scenic / Trekking",
+              "description": "Darel Valley lies along the Darel River and is known for its beautiful autumn scenery, fertile patches among barren mountains, and small villages like Gayel.",
+              "highlights": [
+                "Accessible via Karakoram Highway.",
+                "River roads with scenic views and scattered trees.",
+                "Autumn season showcases colorful foliage."
+              ],
+              "best_time_to_visit": "September to October",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/8Xisyz1vakM938BkGtol8utWGReMZn-metaZGFyZWwyLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Chilas Valley",
+              "location": {
+                "district": "Diamer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.4160,
+                  "longitude": 74.0125
+                }
+              },
+              "category": "Valley / Historical / Cultural",
+              "description": "Chilas is the divisional capital of Diamer-Astore Division, strategically along the Indus River and connected to the ancient Silk Road. It features Buddhist monasteries and historical sites.",
+              "highlights": [
+                "Old city with Indus Valley Civilization links.",
+                "Mix of Kohistani and Dardic peoples.",
+                "Hospitable local population."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/ilvGtxob2koIx89eqeKKLEodnYxEW7-metaQ2hpbGFzIFZhbGxleS5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Thalpan Petroglyphs",
+              "location": {
+                "district": "Diamer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.4205,
+                  "longitude": 74.1224
+                }
+              },
+              "category": "Historical / Archeological / Rock Art",
+              "description": "Thalpan Rock Inscriptions feature over 50,000 carvings and 5,000 inscriptions, dating back 9000 years, and are considered one of the largest rock art provinces in the world.",
+              "highlights": [
+                "Declared significant by World Watch Monuments, New York.",
+                "Religious and cultural tourism hotspot."
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/kfmAQlAf8LHBFqrRLvPkCmRcLLlKmf-metadGhhbHBhbiByb2NrIGNhcnZpbmcgMS5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Babusar Pass",
+              "location": {
+                "district": "Diamer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.1459,
+                  "longitude": 74.0286
+                }
+              },
+              "category": "Mountain Pass / Scenic / Adventure",
+              "description": "Babusar Pass at 4,173 m connects KP with Gilgit-Baltistan via Chilas Valley on the Karakoram Highway. Known for wildflowers, thin forests, and steep gradients.",
+              "highlights": [
+                "Highest point in Babusar Valley accessible by car.",
+                "Route closed Oct–June due to snow.",
+                "Steep and scenic mountain road."
+              ],
+              "best_time_to_visit": "July to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/op5yTfV34VwjuNe2gFaQPMZASLfi66-metaQkFCVVNBUiBQQVNTLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Fairy Meadows",
+              "location": {
+                "district": "Diamer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.3843,
+                  "longitude": 74.5349
+                }
+              },
+              "category": "Valley / Scenic / Trekking",
+              "description": "Fairy Meadows, locally known as Joot, is grassland at the base of Nanga Parbat. A National Park declared in 1995, it is a trekking hub and offers camping and breathtaking alpine views.",
+              "highlights": [
+                "Launch point for summiting Nanga Parbat’s Raikot face.",
+                "Accessed via 15 km jeep-able trek from Raikot Bridge.",
+                "Considered one of the most dangerous roads in the world."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/OOpwbFMgA20meCIBHWdY7RcPbH376l-metaRmFpcnlfTWVhZG93cyxfUGFraXN0YW4gMi5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Nanga Parbat",
+              "location": {
+                "district": "Diamer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 35.2375,
+                  "longitude": 74.5685
+                }
+              },
+              "category": "Mountain / Adventure / Scenic",
+              "description": "Nanga Parbat (8,126 m) is the 9th highest mountain in the world, also called the 'Naked Mountain'. Known for its difficulty, it is a major attraction for mountaineers and trekkers.",
+              "highlights": [
+                "Western anchor of the Himalayas.",
+                "Nickname: Killer Mountain due to high fatalities.",
+                "Local Tibetan name: Diamer or Deo Mir."
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/KGDW2gMJzQbWPOZ7Ii31FgWx9MCH8h-metaTmFuZ2EtUGFyYmF0LndlYnA=-.webp"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+        {
+      "name": "Ghizer Division",
+      "districts": [
+        {
+          "name": "Ghizer",
+          "destinations": [
+            {
+              "name": "Burst Valley",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.1648,
+                  "longitude": 72.6767
+                }
+              },
+              "category": "Valley / Nature / Adventure",
+              "description": "Burst Valley is located in Ghizer District of Gilgit-Baltistan. The valley's stunning natural beauty, including scenic landscapes and trout streams, makes it a popular spot for nature lovers and anglers. Its proximity to Shandur Top, known for the annual polo festival, adds to its appeal.",
+              "highlights": [
+                "Scenic landscapes and trout streams",
+                "Close to Shandur Top and annual polo festival"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/Ei9sNnnpowhP8Z30xzTMZ1igTJrtKZ-metaQmFyc2F0IFZhbGxleSAyLmpwZWc=-.jpg"
+              ]
+            },
+            {
+              "name": "Shandur Pass",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.0744,
+                  "longitude": 72.5077
+                }
+              },
+              "category": "Pass / Adventure / Cultural",
+              "description": "Shandur Pass is famous for the highest polo ground in the world. A twisting 61 km road from Gupis Valley passes lush green fields and forests, offering mesmerizing views along the way.",
+              "highlights": [
+                "Highest polo ground in the world",
+                "Annual free-style polo festival"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/utMZRuoxEo7RbX353pvqFCsBVnyiiv-metaU2hhbmR1cl9Ub3BfJl9TaGFuZHVyX0xha2UuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Khalti Lake",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.2490,
+                  "longitude": 73.3433
+                }
+              },
+              "category": "Lake / Nature / Adventure",
+              "description": "Khalti Lake is situated in Khalti village at an altitude of about 2217 m. Known for its trout habitat, the lake usually freezes in winter. It hosts the annual Khalti Ice Hockey Festival in January.",
+              "highlights": [
+                "Trout habitat",
+                "Ice Hockey Festival in January"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/RwjWzwRKUP0dyHqHt9rIFH50bG3ocA-metaS2hhbHRpIGxha2UgMi5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Phandar Valley",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.1678,
+                  "longitude": 72.8946
+                }
+              },
+              "category": "Valley / Nature / Adventure",
+              "description": "Phandar Valley, known as 'Little Kashmir', is famous for lush green fields, deep blue lakes, and the river flowing across it. Easily accessible from Gilgit and Chitral, it offers peaceful landscapes and trout fishing.",
+              "highlights": [
+                "Lush green fields and deep blue lakes",
+                "Accessible from Gilgit and Chitral",
+                "Known as 'Little Kashmir'"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/1BzZ0ypjCcwVXHa0uXqjRkgExxri4W-metaUGhhbmRhci1WYWxsZXkxMTExLmpwZyB3Yi5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Yasin Valley",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.3650,
+                  "longitude": 73.2939
+                }
+              },
+              "category": "Valley / Nature / Cultural",
+              "description": "Yasin Valley is a high mountain valley in Hindu Kush, popular for scenic beauty and trekking. It hosts the annual Tukhm Rezi festival and traditional polo matches.",
+              "highlights": [
+                "High mountain valley in Hindu Kush",
+                "Annual Tukhm Rezi festival and traditional polo matches"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/lhukSoyAk7uB1WUAAyYKQZe8tdHd1k-metaeXNuLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Karumber Lake",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.8786,
+                  "longitude": 73.6950
+                }
+              },
+              "category": "Lake / Nature / Adventure",
+              "description": "KarUmber Lake is one of the most pristine lakes of Pakistan at an elevation of 4272 m. It lies on the boundary of Broghil Valley in Chitral and Ishkoman Valley in Gilgit-Baltistan.",
+              "highlights": [
+                "Pristine lake at 4272 m",
+                "Boundary of Broghil and Ishkoman Valleys"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/eGxbzZBhdh9TvNyElVkTfVPDZvphqP-metaMTkyMHB4LUNoaWxsaW5nX2F0X0thcmFtYmFyX0xha2UuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Ishkoman Valley",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.5180,
+                  "longitude": 73.8291
+                }
+              },
+              "category": "Valley / Nature / Adventure",
+              "description": "The Ishkoman Valley lies in the north of Ghizer District bordering Afghanistan and the Pamir Wakhan Corridor. Famous for glaciers, trekking, and scenic remote locations.",
+              "highlights": [
+                "Glaciers and trekking",
+                "Remote scenic valley"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/7f6LyqfKbKULXoybKZ4DEQBUE1dNDH-metaSXNoa29tYW5fVmFsbGV5LmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Gahkuch",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.1736,
+                  "longitude": 73.6319
+                }
+              },
+              "category": "Town / Nature",
+              "description": "Gahkuch is the capital of Ghizer at a distance of 72 km from Gilgit City. Surrounded by mountains along the Gilgit River, it offers lush green valleys and accommodations for tourists.",
+              "highlights": [
+                "Capital of Ghizer",
+                "Lush green valley along Gilgit River"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/p8Ea5nDyOg6FqyQ0zu2Yw2ucVMSu4c-metaZ2FoZ29jaC5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Chatorkhand",
+              "location": {
+                "district": "Ghizer",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.3508,
+                  "longitude": 73.8238
+                }
+              },
+              "category": "Town / Valley / Nature",
+              "description": "Chatorkhand is the main town in Ishkoman Valley along the Karambar River. It is a deep valley with high mountains, lush greenery, and snow-capped peaks in the distance.",
+              "highlights": [
+                "Deep valley along Karambar River",
+                "High mountains and lush greenery"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/wdxQTAEquSiu7LZCEgi7uDWrpylVRt-metaa2FyYW1iYXItcml2ZXItY2hhdG9ya2hhbmQuanBn-.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+
+        {
+      "name": "Hunza Division",
+      "districts": [
+        {
+          "name": "Hunza",
+          "destinations": [
+            {
+              "name": "Borith Lake",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.43094223941817,
+                  "longitude": 74.85747099398893
+                }
+              },
+              "category": "Lake / Nature / Adventure",
+              "description": "Borith Lake is a hamlet in the surroundings of the Borith Lake to the northwest of Husseini, near Ghulkin, Gojal, in Upper Hunza. Historically a hunting spot for the Mir of Hunza, the lake is an important bird sanctuary for migrating wildfowl. Its size has reduced over the years due to receding glaciers and climate change.",
+              "highlights": [
+                "Important bird sanctuary",
+                "Historic hunting place of Mir of Hunza",
+                "Altitude ~2,600 m (8,500 ft)"
+              ],
+              "best_time_to_visit": "March to June & September to November",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/VJ8jJupOWeL2IWzXi96unKYiXIU9fR-metaQm9yaXRoLUxha2UuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Passu Glacier",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.4749997253108,
+                  "longitude": 74.66734157862537
+                }
+              },
+              "category": "Glacier / Nature / Adventure",
+              "description": "Passu Glacier is situated south of Passu village in Hunza. Linked with Batura Glacier in the Batura Muztagh range, Passu Glacier lies beneath the iconic Passu Peak.",
+              "highlights": [
+                "Part of Batura Muztagh range",
+                "Scenic glacier views"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/XL4xiSdsPcnhrIKfDkOVQp4YVMdaFJ-metaUGFzc3VfR2xhY2llci5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Khunjerab Pass",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.89890162858842,
+                  "longitude": 74.95699283025574
+                }
+              },
+              "category": "Pass / Adventure / Border",
+              "description": "Khunjerab Pass, also called the 'Gateway to China', is one of the world's highest international border crossings at 4,693 meters (15,397 ft). It connects Hunza District with China's Xinjiang region.",
+              "highlights": [
+                "World's highest border crossing",
+                "Historic Wakhi name 'Valley of Blood'"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/Bpb8SNgUbM3stTAm5zE9dZNlJJ33v8-metaS2h1bmplcmFiX1Bhc3NfTW9udW1lbnQuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Sost Valley",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.65105287978231,
+                  "longitude": 74.68366336848976
+                }
+              },
+              "category": "Valley / Village / Cultural",
+              "description": "Sost is the last Pakistani town on the Karakoram Highway before the China border. It serves as a Dry Port and customs point for trade, and is known for its peaceful environment and hospitable local people.",
+              "highlights": [
+                "Last Pakistani town on KKH before China",
+                "Dry Port & customs point",
+                "Wakhi & Burushaski languages spoken"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/ppRNR8YxhYO5T66VyaUns2N0zoHAtQ-metac29zdC5qcGc=-.jpg"
+              ]
+            },
+            {
+              "name": "Kilik Pass and Mintaka Pass",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 37.08555460467053,
+                  "longitude": 74.66720025907539
+                }
+              },
+              "category": "Pass / Adventure / Historic",
+              "description": "Kilik and Mintaka Passes are historically significant caravan routes of the Silk Road connecting Pakistan with China and Afghanistan. They lie north of Misgar village.",
+              "highlights": [
+                "Historic Silk Road passes",
+                "Routes to China and Afghanistan"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/YnbDdJduIHbawFKEOTcPPImfy4v45L-metaS2lsaWstTWludGVrYS1QYXNzLTEuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Misgar Valley",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.78573300601629,
+                  "longitude": 74.75620120884473
+                }
+              },
+              "category": "Valley / Nature / Historic",
+              "description": "Misgar Valley lies near the borders with China and Afghanistan. It is home to the Mintika and Kilik passes, and the historic Kalam Darchi Fort built by the British to monitor the region.",
+              "highlights": [
+                "Home to Mintika & Kilik Passes",
+                "Historic Kalam Darchi Fort"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/IeeANCsxeWssH7qiftnrAon5ngcb6O-metaTWlzZ2FyIHZhbGxleSAxLndlYnA=-.webp"
+              ]
+            },
+            {
+              "name": "Karimabad Valley",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.32640727646186,
+                  "longitude": 74.66431574295193
+                }
+              },
+              "category": "Valley / Culture / Heritage",
+              "description": "Karimabad, formerly Baltit, is a cultural hub of Hunza famous for Baltit Fort and the scenic Hunza Valley. It is known for stunning landscapes and local hospitality.",
+              "highlights": [
+                "Baltit Fort",
+                "Rich cultural heritage",
+                "Scenic valley views"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/pJatpuHO5d1PH94Ztc1qXEzxTRuP1m-metaa2FyaW1hYmFkMS5KUEc=-.jpg"
+              ]
+            },
+            {
+              "name": "Kalamdarchi Fort",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.81921407224169,
+                  "longitude": 74.70873017568849
+                }
+              },
+              "category": "Fort / Historic / Heritage",
+              "description": "Built in 1932-1933 during British rule, Kalamdarchi Fort was used to monitor incursions from China and Afghanistan. It served as a base for Gilgit Scouts and later Pak Army TPS.",
+              "highlights": [
+                "Historic fort built during British rule",
+                "Monitored China-Afghanistan border"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/rpMPZWozZdsap7jg5Gw612zIVCASta-metaS2FsYW0gRGFyY2hpIEZvcnQuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Baltit Fort",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.32563747238629,
+                  "longitude": 74.66719067566508
+                }
+              },
+              "category": "Fort / Historic / Heritage",
+              "description": "Baltit Fort was the capital of Hunza State and home of the royal family for 700 years. Renovated by Aga Khan Trust, it offers panoramic views of Hunza Valley and historical architecture.",
+              "highlights": [
+                "Former royal palace of Hunza",
+                "UNESCO tentative heritage site",
+                "Panoramic valley views"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/Ifnge03Cq6b3kubuadPYgDK3i2ppM3-metaYmFsdGl0LWZvcnQzLmpwZw==-.jpg"
+              ]
+            },
+            {
+              "name": "Altit Fort",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.317259694774926,
+                  "longitude": 74.67859227532752
+                }
+              },
+              "category": "Fort / Historic / Heritage",
+              "description": "Altit Fort, over 900 years old, overlooks the Hunza River and showcases the rich cultural heritage of the Baltit people. One of the oldest surviving forts in the area.",
+              "highlights": [
+                "Over 900 years old",
+                "Strategic Silk Road location",
+                "Historic architecture of Baltit people"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/lvJhPUJu3wjQIXGPFFqsYWfg0bFkTB-metaQWx0aXQgRm9ydDcuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Aliabad Hunza",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.309568208778735,
+                  "longitude": 74.61011979836424
+                }
+              },
+              "category": "Town / Culture / Scenic",
+              "description": "Aliabad is the administrative and commercial center of Hunza District. Located along the Karakoram Highway, it lies between two forks of the Hunza River and offers scenic views.",
+              "highlights": [
+                "Administrative center",
+                "Located on Karakoram Highway",
+                "Scenic valley views"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/0aEO246w9XzuAJGVuGfJrlhbKwHukP-metaYWxpYWJhZCBiYXphci5KUEc=-.jpg"
+              ]
+            },
+            {
+              "name": "Shimshal Lake",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.43663040764445,
+                  "longitude": 75.30197470857814
+                }
+              },
+              "category": "Lake / Nature / Adventure",
+              "description": "Shimshal Lake lies near the highest village in Upper Hunza at ~13,000 meters above sea level. Fed by glacier melt, it provides nesting grounds for migratory birds and is known for breathtaking scenery.",
+              "highlights": [
+                "Highest village region in Upper Hunza",
+                "Glacial-fed lake",
+                "Migratory bird habitat"
+              ],
+              "best_time_to_visit": "June to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/w5C03oLyjFEX1cuP2gxRtpQuTZT2I2-metac2hpbXNoYWwtTGFrZS1odW56YTIuanBn-.jpg"
+              ]
+            },
+            {
+              "name": "Attabad Lake",
+              "location": {
+                "district": "Hunza",
+                "province": "Gilgit-Baltistan",
+                "coordinates": {
+                  "latitude": 36.33513182983958,
+                  "longitude": 74.8069844775317
+                }
+              },
+              "category": "Lake / Nature / Adventure",
+              "description": "Attabad Lake formed in 2010 due to a landslide in Gojal Valley, Hunza. The lake is famous for boating, jet skiing, and recreational activities, with stunning turquoise waters surrounded by Karakoram peaks.",
+              "highlights": [
+                "Formed by 2010 landslide",
+                "Boating & jet-skiing",
+                "Stunning turquoise water"
+              ],
+              "best_time_to_visit": "May to September",
+              "images": [
+                "https://visitgilgitbaltistan.gov.pk/storage/images/foVZ3OKieqDS6UgdfK2aSS92L1lxcD-metaQXR0YWJhZCBMYWtlLmpwZw==-.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+
+
+  ]
+}
+  

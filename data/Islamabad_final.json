@@ -1,0 +1,313 @@
+{
+  "province": "Islamabad Capital Territory",
+  "divisions": [
+    {
+      "name": "Islamabad Division",
+      "districts": [
+        {
+          "name": "Islamabad",
+          "destinations": [
+            {
+              "name": "Faisal Mosque",
+              "location": {
+                "district": "Islamabad",
+           
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.729,
+                  "longitude": 73.037
+                }
+              },
+              "category": "Religious / Architectural / Landmark",
+              "description": "Faisal Mosque, the national mosque of Pakistan, is one of the largest in South Asia. Its unique tent-shaped design symbolizes contemporary Islamic architecture set against the backdrop of the Margalla Hills.",
+              "highlights": [
+                "Largest mosque in Pakistan with capacity for over 100,000 worshippers.",
+                "Designed by Turkish architect Vedat Dalokay and funded by King Faisal of Saudi Arabia.",
+                "Iconic white marble structure visible across Islamabad."
+              ],
+              "best_time_to_visit": "Year-round; evenings and sunset hours offer the best views.",
+              "images": [
+                "https://drive.google.com/uc?id=1HoyF8HoEIX1zblCQjcVdUT0436oFwPa8"
+              ]
+            },
+            {
+              "name": "Pakistan Monument",
+              "location": {
+                "district": "Islamabad",
+           
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.693,
+                  "longitude": 73.069
+                }
+              },
+              "category": "National Monument / Historical / Cultural Landmark",
+              "description": "The Pakistan Monument symbolizes the unity of the Pakistani people. Its four main petals represent the provinces while the smaller ones represent the territories, forming a flower shape overlooking the city.",
+              "highlights": [
+                "Architectural representation of Pakistan’s unity and heritage.",
+                "Includes Pakistan Monument Museum and heritage exhibits.",
+                "Offers a panoramic city view, especially at sunset."
+              ],
+              "best_time_to_visit": "October to March for clear skies and cooler evenings.",
+              "images": [
+                "https://drive.google.com/uc?id=1LtC7mOuZT5TVckJaD3qr6hAm-4n_LY61"
+              ]
+            },
+            {
+              "name": "Daman-e-Koh",
+              "location": {
+                "district": "Islamabad",
+               
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.744,
+                  "longitude": 73.051
+                }
+              },
+              "category": "Viewpoint / Hill Park / Nature",
+              "description": "Daman-e-Koh is a viewpoint and hilltop garden offering panoramic views of Islamabad. Located halfway up the Margalla Hills, it’s a favorite stop for visitors on their way to Pir Sohawa.",
+              "highlights": [
+                "Scenic viewpoint overlooking Faisal Mosque and city grid.",
+                "Cafés, green lawns, and monkeys along the road add charm.",
+                "Accessible by car or hiking trail."
+              ],
+              "best_time_to_visit": "November to March for mild weather and clear views.",
+              "images": [
+                "https://drive.google.com/uc?id=1s5ruXkraoGpdL-nXSU54wZ3jlrBC6Yc-"
+              ]
+            },
+            {
+              "name": "Pir Sohawa and Monal",
+              "location": {
+                "district": "Islamabad",
+              
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.764,
+                  "longitude": 73.049
+                }
+              },
+              "category": "Hilltop / Dining / Scenic Spot",
+              "description": "Pir Sohawa is a hilltop tourist spot in the Margalla Hills known for its cool weather, hiking trails, and panoramic views of Islamabad. It is home to the famous Monal Restaurant overlooking the city lights.",
+              "highlights": [
+                "Popular for dining at Monal and La Montana restaurants.",
+                "Cool mountain air and excellent sunset views.",
+                "Starting point for Margalla Hills hiking trails."
+              ],
+              "best_time_to_visit": "October to March for crisp air and best visibility.",
+              "images": [
+                "https://drive.google.com/uc?id=1D9-kUNGeJdO2nAHLwcrEeD9j-F4L8iXx"
+              ]
+            },
+            {
+              "name": "Rawal Lake and Park",
+              "location": {
+                "district": "Islamabad",
+               
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.694,
+                  "longitude": 73.118
+                }
+              },
+              "category": "Lake / Recreation / Picnic Spot",
+              "description": "Rawal Lake is an artificial reservoir surrounded by gardens and picnic areas. Visitors enjoy boating, fishing, and walking tracks along its shores, making it a popular weekend destination.",
+              "highlights": [
+                "Boating, fishing, and picnic areas with scenic water views.",
+                "Birdwatching and family parks around the lake.",
+                "Sunset views reflected on the water surface."
+              ],
+              "best_time_to_visit": "March to October for boating and outdoor fun.",
+              "images": [
+                "https://drive.google.com/uc?id=19HUPOZBNzqWrMgpDK2leK_oXeu4DQjN8"
+              ]
+            },
+            {
+              "name": "Lake View Park",
+              "location": {
+                "district": "Islamabad",
+         
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.694,
+                  "longitude": 73.123
+                }
+              },
+              "category": "Amusement Park / Lakefront / Family Recreation",
+              "description": "Lake View Park is a large recreational area along Rawal Lake featuring adventure sports, boat rides, ATV tracks, and picnic spots. It’s one of Islamabad’s most visited family destinations.",
+              "highlights": [
+                "Boating, paintball, rock climbing, and bird aviary.",
+                "Dedicated children’s play areas and barbecue spots.",
+                "Hosts concerts and food festivals throughout the year."
+              ],
+              "best_time_to_visit": "October to April for pleasant weather.",
+              "images": [
+                "https://drive.google.com/uc?id=1u0nzbxQuswP-eHthM9kRouErlo4_pyk0"
+              ]
+            },
+            {
+              "name": "Rose and Jasmine Garden",
+              "location": {
+                "district": "Islamabad",
+             
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.706,
+                  "longitude": 73.086
+                }
+              },
+              "category": "Botanical Garden / Floral Park / Recreation",
+              "description": "The Rose and Jasmine Garden near Shakarparian features hundreds of rose and jasmine varieties. It’s a peaceful botanical park ideal for picnics, photography, and evening walks.",
+              "highlights": [
+                "Over 250 species of roses and jasmine.",
+                "Hosts flower shows and gardening festivals annually.",
+                "Ideal for morning walks and picnics."
+              ],
+              "best_time_to_visit": "Spring (February to April) when flowers are in full bloom.",
+              "images": [
+                "https://drive.google.com/uc?id=1PAmb5S6W84cXFG6HdXyPP_AeRU2-tQOi"
+              ]
+            },
+            {
+              "name": "Shah Allah Ditta Caves",
+              "location": {
+                "district": "Islamabad",
+               
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.757,
+                  "longitude": 72.915
+                }
+              },
+              "category": "Historical Site / Archaeological / Spiritual",
+              "description": "The Shah Allah Ditta Caves are ancient Buddhist meditation chambers dating back over 2,400 years. Later used by Sufis, the site now blends spiritual heritage, murals, and ancient banyan trees.",
+              "highlights": [
+                "Ancient Buddhist caves carved into limestone hills.",
+                "Historic Sufi site with natural springs and greenery.",
+                "Nearby cafés and trails for light trekking."
+              ],
+              "best_time_to_visit": "October to March for hiking and exploration.",
+              "images": [
+                "https://drive.google.com/uc?id=1bR5Q_dREVgFePkGj-7xgkIwDUdrOrJvd"
+              ]
+            },
+            {
+              "name": "Margalla Hills National Park",
+              "location": {
+                "district": "Islamabad",
+           
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.75,
+                  "longitude": 73.05
+                }
+              },
+              "category": "National Park / Nature / Wildlife",
+              "description": "Margalla Hills National Park spans over 17,000 hectares of forest and mountains forming the foothills of the Himalayas. It’s home to leopards, monkeys, and diverse birdlife with numerous hiking trails.",
+              "highlights": [
+                "Extensive network of hiking trails including Trail 3, 5, and 6.",
+                "Habitat for rare wildlife and natural springs.",
+                "Popular for birdwatching and photography."
+              ],
+              "best_time_to_visit": "October to March for cooler temperatures and lush greenery.",
+              "images": [
+                "https://drive.google.com/uc?id=1wWGifGci8SKtVnBV7uR8O5D20ZrlZnlD"
+              ]
+            },
+            {
+              "name": "Islamabad Zoo cum Safari Park",
+              "location": {
+                "district": "Islamabad",
+              
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.734,
+                  "longitude": 73.056
+                }
+              },
+              "category": "Wildlife Park / Family Recreation",
+              "description": "The Islamabad Zoo cum Safari Park is being redeveloped into a modern conservation-based safari experience, offering large enclosures for wildlife and nature trails.",
+              "highlights": [
+                "Under transformation into an eco-friendly safari park.",
+                "Features native wildlife and educational exhibits.",
+                "Located near Daman-e-Koh and Margalla foothills."
+              ],
+              "best_time_to_visit": "November to March for outdoor comfort.",
+              "images": [
+                "https://drive.google.com/uc?id=1N3e1mwEFQvwpUoJ4SEL7ubKnjYKQpEL1"
+              ]
+            },
+            {
+              "name": "Fatima Jinnah Park (F-9 Park)",
+              "location": {
+                "district": "Islamabad",
+            
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.697,
+                  "longitude": 72.99
+                }
+              },
+              "category": "Urban Park / Recreation / Fitness",
+              "description": "Fatima Jinnah Park, also known as F-9 Park, is one of the largest urban parks in South Asia, featuring jogging tracks, sports courts, green lawns, and cultural event spaces.",
+              "highlights": [
+                "Covers over 300 hectares with walking and cycling tracks.",
+                "Home to the Megazone entertainment complex.",
+                "Regular site for public events and fitness activities."
+              ],
+              "best_time_to_visit": "October to March for outdoor leisure.",
+              "images": [
+                "https://drive.google.com/uc?id=18VUl0DXm10hGEA5ctZnYB_BKryEwZQGp"
+              ]
+            },
+            {
+              "name": "Centaurus Mall",
+              "location": {
+                "district": "Islamabad",
+        
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.706,
+                  "longitude": 73.052
+                }
+              },
+              "category": "Shopping / Entertainment / Modern Landmark",
+              "description": "Centaurus Mall is Islamabad’s largest shopping and entertainment complex featuring international brands, restaurants, and cinemas.",
+              "highlights": [
+                "Three-tower complex with mall, hotel, and residences.",
+                "Offers shopping, dining, and movie experiences.",
+                "Modern architectural symbol of the city."
+              ],
+              "best_time_to_visit": "Year-round; weekends for lively atmosphere.",
+              "images": [
+                "https://drive.google.com/uc?id=11D9hJg3ifS6GO2qeTXMEyfAegn2garYJ"
+              ]
+            },
+            {
+              "name": "Islamabad Botanical Garden",
+              "location": {
+                "district": "Islamabad",
+                "province": "Islamabad Capital Territory",
+                "coordinates": {
+                  "latitude": 33.748,
+                  "longitude": 73.061
+                }
+              },
+              "category": "Botanical / Research / Eco-tourism",
+              "description": "The Islamabad Botanical Garden is an ongoing ecological project located at the foot of the Margalla Hills, aimed at conserving native plant species and promoting environmental education.",
+              "highlights": [
+                "Spreads over 700 acres near Shahdara Valley.",
+                "Houses indigenous plant and tree species.",
+                "Supports eco-tourism and environmental research."
+              ],
+              "best_time_to_visit": "Spring and autumn for blooming flora and pleasant weather.",
+              "images": [
+                "https://drive.google.com/uc?id=11Qx8lfIUzRMm8ogYektv3Ea8kKXYOKpH"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

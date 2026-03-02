@@ -1,0 +1,2018 @@
+{
+  "province": "Punjab",
+  "divisions": [
+    {
+      "name": "Lahore Division",
+      "districts": [
+        {
+          "name": "Kasur",
+          "destinations": [
+            {
+              "name": "Bhumman Shah Shrine",
+              "location": {
+                "district": "Kasur",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.1219,
+                  "longitude": 74.4532
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "The shrine of Sufi saint Bhumman Shah, attracting local devotees for spiritual blessings and cultural gatherings.",
+              "highlights": [
+                "Annual Urs festival celebrated with qawwali and Sufi music.",
+                "Peaceful gardens around the shrine.",
+                "Accessible for local pilgrimage and quiet reflection."
+              ],
+              "best_time_to_visit": "During Urs (autumn) or winter months for calm visits.",
+              "images": [
+                "https://drive.google.com/uc?id=1iTXM-a5rhBL8m79KqCYF_1629g4W4cVE"
+              ]
+            },
+            {
+              "name": "Bullay Shah Shrine",
+              "location": {
+                "district": "Kasur",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.1214,
+                  "longitude": 74.4498
+                }
+              },
+              "category": "Religious / Sufi Shrine / Historical",
+              "description": "The shrine of the famous Sufi poet Baba Bulleh Shah, attracting devotees and poetry enthusiasts from all over Pakistan.",
+              "highlights": [
+                "Annual Urs festival with cultural and spiritual gatherings.",
+                "Intricate Mughal-era architecture and carvings.",
+                "Peaceful courtyard ideal for reflection and meditation."
+              ],
+              "best_time_to_visit": "During Urs (autumn) for cultural festivities or winter months for calmer visits.",
+              "images": [
+                "https://drive.google.com/uc?id=1du2EqfWdhp8xRNhdzJb9-4jxoYcAxRx0"
+              ]
+            },
+            {
+              "name": "Changa Manga Forest",
+              "location": {
+                "district": "Kasur",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.8428,
+                  "longitude": 73.8661
+                }
+              },
+              "category": "Nature / Wildlife / Picnic Spot",
+              "description": "Changa Manga is one of the largest man-made forests in Pakistan, offering wildlife, lakes, walking trails, and recreational facilities.",
+              "highlights": [
+                "Safari train and boating facilities.",
+                "Hiking trails and birdwatching opportunities.",
+                "Ideal for family picnics and nature photography."
+              ],
+              "best_time_to_visit": "October to March for pleasant weather and greenery.",
+              "images": [
+                "https://drive.google.com/uc?id=1na0n6rOSJfEPue5XeOwOvazQfyPINqzt"
+              ]
+            },
+            {
+              "name": "Ganda Singh Wala Border",
+              "location": {
+                "district": "Kasur",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.2531,
+                  "longitude": 74.4951
+                }
+              },
+              "category": "Historical / Border Landmark",
+              "description": "A major border crossing between Pakistan and India near Kasur, famous for ceremonial flag-lowering ceremonies.",
+              "highlights": [
+                "Daily flag-lowering ceremony with local military.",
+                "Cultural exchange with Indian visitors across the border.",
+                "Photographic opportunity for history and military enthusiasts."
+              ],
+              "best_time_to_visit": "Afternoons when the flag ceremony takes place; cooler months for comfort.",
+              "images": [
+                "https://drive.google.com/uc?id=1LaoJTaYOks4njjldXW9qABjFJ3iHIkRb"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lahore",
+          "destinations": [
+            {
+              "name": "Alhamra Art Center",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5637,
+                  "longitude": 74.3236
+                }
+              },
+              "category": "Cultural / Art & Performance Center",
+              "description": "Alhamra Art Center is the heart of Lahore’s cultural scene, hosting exhibitions, theatre performances, concerts, and art festivals year-round.",
+              "highlights": [
+                "Architecturally unique red-brick complex.",
+                "Regular theatre and music performances.",
+                "Hub for artists and cultural enthusiasts."
+              ],
+              "best_time_to_visit": "During cultural festivals or art exhibitions.",
+              "images": [
+                "https://drive.google.com/uc?id=1DyXP0uGj2d2v_Qby9r5LoBeJzM6_JZoQ"
+              ]
+            },
+            {
+              "name": "Anarkali Bazaar",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5667,
+                  "longitude": 74.3111
+                }
+              },
+              "category": "Market / Cultural / Shopping",
+              "description": "Anarkali Bazaar is one of South Asia’s oldest surviving markets, famous for traditional clothing, jewelry, handicrafts, and street food.",
+              "highlights": [
+                "Divided into Old and New Anarkali sections.",
+                "Known for bridal dresses and Lahori cuisine.",
+                "Vibrant local culture and narrow alleys."
+              ],
+              "best_time_to_visit": "Evenings in winter or spring for comfortable shopping.",
+              "images": [
+                "https://drive.google.com/uc?id=1hQdEEh0RvHjtvBZUVfutWx89vm8TrV0P"
+              ]
+            },
+            {
+              "name": "Badshahi Mosque",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5889,
+                  "longitude": 74.3113
+                }
+              },
+              "category": "Historical / Religious Site",
+              "description": "Built in 1673 by Emperor Aurangzeb, Badshahi Mosque is one of the largest and most iconic mosques in the world, symbolizing Mughal grandeur and architectural excellence.",
+              "highlights": [
+                "Red sandstone and marble architecture.",
+                "Can accommodate over 50,000 worshippers.",
+                "Located near Lahore Fort and Hazuri Bagh."
+              ],
+              "best_time_to_visit": "October to March for pleasant weather and fewer crowds.",
+              "images": [
+                "https://drive.google.com/uc?id=1C0Wc-xDyTPDNmaLgdm77utOoSrA2AOAn"
+              ]
+            },
+            {
+              "name": "Bagh-e-Jinnah (Lawrence Gardens)",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5565,
+                  "longitude": 74.3313
+                }
+              },
+              "category": "Botanical Garden / Historical Park",
+              "description": "Bagh-e-Jinnah, formerly known as Lawrence Gardens, is a historic botanical garden featuring colonial-era buildings, lush greenery, a library, and walking trails.",
+              "highlights": [
+                "Quaid-e-Azam Library housed in a colonial building.",
+                "Cricket ground, tennis courts, and jogging tracks.",
+                "Home to hundreds of plant and tree species."
+              ],
+              "best_time_to_visit": "Morning or late afternoon for peaceful walks.",
+              "images": [
+                "https://drive.google.com/uc?id=1n65sxqZyTsRXVgOFguhP6Dy3n3H198w6"
+              ]
+            },
+            {
+              "name": "Data Darbar",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5736,
+                  "longitude": 74.3092
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "Data Darbar is the shrine of the Sufi saint Hazrat Ali Hujwiri, also known as Data Ganj Bakhsh, and one of South Asia’s most visited spiritual centers.",
+              "highlights": [
+                "Blend of Mughal and modern architecture.",
+                "Major Urs festival attracts thousands of devotees.",
+                "Continuous langar (free meals) for visitors."
+              ],
+              "best_time_to_visit": "Evenings and during Urs celebrations for cultural experience.",
+              "images": [
+                "https://drive.google.com/uc?id=1JyZv9rh1UCWmxn11WGMs_ywF71kBwLv9"
+              ]
+            },
+            {
+              "name": "Emporium Mall",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.4671,
+                  "longitude": 74.2665
+                }
+              },
+              "category": "Shopping / Entertainment / Modern Attraction",
+              "description": "Emporium Mall by Nishat Group is a massive shopping, dining, and entertainment destination located in Johar Town, known for its upscale design and variety.",
+              "highlights": [
+                "Features Hyperstar, food court, and nine-screen cinema.",
+                "Indoor theme park 'Fun Factory'.",
+                "Attached to Nishat Hotel for premium accommodation."
+              ],
+              "best_time_to_visit": "Weekdays for less crowd or evenings for lively ambiance.",
+              "images": [
+                "https://drive.google.com/uc?id=1iFa8QetUhWZpoCKFk9wXDyTUBNjuA53-"
+              ]
+            },
+            {
+              "name": "Fortress Square Mall",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5124,
+                  "longitude": 74.3482
+                }
+              },
+              "category": "Shopping / Entertainment / Modern Attraction",
+              "description": "Fortress Square Mall is one of Lahore’s largest shopping and entertainment complexes, featuring local and international brands, food courts, and cinemas.",
+              "highlights": [
+                "Over 100 retail stores and eateries.",
+                "Located near Fortress Stadium and Joyland.",
+                "Cinepax cinema and family-friendly atmosphere."
+              ],
+              "best_time_to_visit": "Evenings and weekends for shopping and leisure activities.",
+              "images": [
+                "https://drive.google.com/uc?id=19O7mIB_pSYgUR4Rky_y6n46rfg9wPuJf"
+              ]
+            },
+            {
+              "name": "Gaddafi Stadium",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5091,
+                  "longitude": 74.3381
+                }
+              },
+              "category": "Sports Venue / Landmark",
+              "description": "Gaddafi Stadium is Pakistan’s premier cricket stadium and a major sports landmark, hosting international and domestic matches throughout the year.",
+              "highlights": [
+                "Home ground of Lahore Qalandars and PCB headquarters.",
+                "Modern architecture and night-match lighting.",
+                "Surrounded by restaurants and cafés."
+              ],
+              "best_time_to_visit": "During cricket tournaments or PSL season.",
+              "images": [
+                "https://drive.google.com/uc?id=1TznwQaffddMaZXxZH3bBeq1nb_ossBtI"
+              ]
+            },
+            {
+              "name": "Greater Iqbal Park",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.59,
+                  "longitude": 74.31
+                }
+              },
+              "category": "Urban Park / Historical Landmark",
+              "description": "Greater Iqbal Park is a large urban park surrounding Minar-e-Pakistan, combining history, culture, and recreation with light shows, fountains, and a lake.",
+              "highlights": [
+                "Lush green lawns and walking tracks.",
+                "Musical fountains and lake boating.",
+                "Panoramic views of Lahore Fort and Badshahi Mosque."
+              ],
+              "best_time_to_visit": "Evenings throughout the year, especially in spring.",
+              "images": [
+                "https://drive.google.com/uc?id=1Sv-AfosacaF_4owhB69HtOqJEVzk8BGR"
+              ]
+            },
+            {
+              "name": "Hazuri Bagh",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5886,
+                  "longitude": 74.3119
+                }
+              },
+              "category": "Historical / Garden / Mughal Architecture",
+              "description": "Built in 1818 by Maharaja Ranjit Singh, Hazuri Bagh lies between Lahore Fort and Badshahi Mosque, centered around a white marble baradari used for royal gatherings.",
+              "highlights": [
+                "Elegant marble pavilion with twelve arches.",
+                "Historic meeting point of Mughal and Sikh heritage.",
+                "Surrounded by major landmarks in the Walled City."
+              ],
+              "best_time_to_visit": "Morning or late afternoon for photography and calm ambiance.",
+              "images": [
+                "https://drive.google.com/uc?id=1udpzOCkYkcuKDSiy8sx7-eG-NArjXNdX"
+              ]
+            },
+            {
+              "name": "Jallo Park",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.551,
+                  "longitude": 74.427
+                }
+              },
+              "category": "Botanical / Recreational Park",
+              "description": "Jallo Park is a massive recreational and botanical park near Lahore, offering picnic areas, plant nurseries, cycling tracks, and nature trails.",
+              "highlights": [
+                "Lake for boating and fishing.",
+                "Ample picnic spots and walking tracks.",
+                "Cycling trails and tree plantations."
+              ],
+              "best_time_to_visit": "October to March for pleasant weather and outdoor activities.",
+              "images": [
+                "https://drive.google.com/uc?id=1dCmMJ26fAi85XTzr4kAmtTPzcWls29RJ"
+              ]
+            },
+            {
+              "name": "Jilani Park (Race Course Park)",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5375,
+                  "longitude": 74.3432
+                }
+              },
+              "category": "Urban Park / Recreation / Nature",
+              "description": "Jilani Park, commonly known as Race Course Park, is famous for its floral exhibitions, jogging tracks, horse racing events, and lush green gardens.",
+              "highlights": [
+                "Annual spring flower festival.",
+                "Jogging and cycling tracks.",
+                "Artificial lake and boating area."
+              ],
+              "best_time_to_visit": "Spring season for flower exhibitions.",
+              "images": [
+                "https://drive.google.com/uc?id=1wmyVKyyB0APvlSwmxulpzo-r2hlDyf9Q"
+              ]
+            },
+            {
+              "name": "Joyland Lahore",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.512,
+                  "longitude": 74.3491
+                }
+              },
+              "category": "Amusement Park / Family Entertainment",
+              "description": "Located near Fortress Stadium, Joyland is Lahore’s most popular amusement park offering mechanical rides, arcade games, and entertainment for all age groups.",
+              "highlights": [
+                "Thrill rides and indoor arcade zone.",
+                "Adjacent to Fortress Square Mall.",
+                "Food court and children’s play area."
+              ],
+              "best_time_to_visit": "Evenings and weekends for vibrant atmosphere.",
+              "images": [
+                "https://drive.google.com/uc?id=1uZ0GlMDyvC-xcRPxu-WgZSpuR0J7gWNH"
+              ]
+            },
+            {
+              "name": "Lahore Fort",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5902,
+                  "longitude": 74.3095
+                }
+              },
+              "category": "Historical / Fort / UNESCO World Heritage Site",
+              "description": "Lahore Fort, or Shahi Qila, is a UNESCO World Heritage Site featuring palaces, halls, and gardens from Mughal, Sikh, and British periods, reflecting centuries of cultural evolution.",
+              "highlights": [
+                "Sheesh Mahal (Palace of Mirrors).",
+                "Naulakha Pavilion and Alamgiri Gate.",
+                "Adjacent to Badshahi Mosque and Hazuri Bagh."
+              ],
+              "best_time_to_visit": "November to February for cool temperatures and clear skies.",
+              "images": [
+                "https://drive.google.com/uc?id=1RgcjCnSJGyHv-FA2YYTvQnE4S2GSalIP"
+              ]
+            },
+            {
+              "name": "Lahore Museum",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5688,
+                  "longitude": 74.3087
+                }
+              },
+              "category": "Museum / Cultural / Historical",
+              "description": "Founded in 1894, Lahore Museum is the largest museum in Pakistan, preserving artifacts from the Indus Valley Civilization, Gandhara art, and Mughal period.",
+              "highlights": [
+                "Buddha’s Fasting Siddhartha statue.",
+                "Mughal manuscripts and coins.",
+                "Colonial architecture featured in 'Kim' by Rudyard Kipling."
+              ],
+              "best_time_to_visit": "Morning hours between November and March.",
+              "images": [
+                "https://drive.google.com/uc?id=1igVkshmAeE-FwgYjWlf9SmrSN3wpHnbL"
+              ]
+            },
+            {
+              "name": "Lahore Safari Park",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.4348,
+                  "longitude": 74.1805
+                }
+              },
+              "category": "Wildlife Park / Nature / Family Attraction",
+              "description": "Lahore Safari Park is a large wildlife park offering open enclosures for lions, tigers, and other animals. It’s a popular destination for families and nature lovers seeking a safari experience within the city.",
+              "highlights": [
+                "Drive-through lion and tiger safari zones.",
+                "Boating lake and children’s play areas.",
+                "Bird aviary and picnic spots."
+              ],
+              "best_time_to_visit": "October to March for pleasant weather and active wildlife.",
+              "images": [
+                "https://drive.google.com/uc?id=14LmJWJyEj3XQr9HstcIaXNiwdUjgei45"
+              ]
+            },
+            {
+              "name": "Lahore Zoo",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5635,
+                  "longitude": 74.3218
+                }
+              },
+              "category": "Zoo / Family Attraction",
+              "description": "Established in 1872, Lahore Zoo is one of the oldest zoos in South Asia and a major family attraction, home to hundreds of animal species and a dedicated aviary section.",
+              "highlights": [
+                "Lion House and Reptile House exhibits.",
+                "Adjacent to Jinnah Garden and Lahore Zoo Safari.",
+                "Educational tours and family-friendly environment."
+              ],
+              "best_time_to_visit": "October to March for cooler weather.",
+              "images": [
+                "https://drive.google.com/uc?id=1Jp3_u-1Os1ugTIK5e3oHl5bxKb6hAsm-"
+              ]
+            },
+            {
+              "name": "Liberty Market",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5084,
+                  "longitude": 74.3521
+                }
+              },
+              "category": "Market / Shopping / Cultural Experience",
+              "description": "Liberty Market is a vibrant shopping hub in Gulberg offering traditional wear, jewelry, accessories, and cafés, blending modern fashion with Lahori culture.",
+              "highlights": [
+                "Boutiques, local designer outlets, and traditional shops.",
+                "Street-side cafés and food stalls.",
+                "Busy yet safe and lively shopping environment."
+              ],
+              "best_time_to_visit": "Evenings for cooler weather and vibrant atmosphere.",
+              "images": [
+                "https://drive.google.com/uc?id=1YPD5H8bWptUxoQd1s8T_dVdiLtCyKey1"
+              ]
+            },
+            {
+              "name": "Minar-e-Pakistan",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5925,
+                  "longitude": 74.3097
+                }
+              },
+              "category": "Monument / National Landmark",
+              "description": "Minar-e-Pakistan is a national monument marking the site where the Lahore Resolution was passed in 1940, symbolizing the creation of Pakistan.",
+              "highlights": [
+                "Blend of Mughal, Islamic, and modern architecture.",
+                "Located in Iqbal Park with gardens and fountains.",
+                "Observation deck offering panoramic views of Lahore."
+              ],
+              "best_time_to_visit": "Evenings in winter or spring for scenic lighting and cool weather.",
+              "images": [
+                "https://drive.google.com/uc?id=13M4b4IG64Kn7gN2mefZR_iodFoMM2FAb"
+              ]
+            },
+            {
+              "name": "Packages Mall",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.4719,
+                  "longitude": 74.3796
+                }
+              },
+              "category": "Shopping Mall / Entertainment",
+              "description": "Packages Mall is a premium shopping and entertainment complex in Lahore, housing international and local brands, restaurants, a multiplex cinema, and indoor kids’ play zones.",
+              "highlights": [
+                "Modern architecture and vast shopping variety.",
+                "Cineplex and dedicated food court.",
+                "Ample parking and clean family environment."
+              ],
+              "best_time_to_visit": "Evenings, weekends, or holidays for lively ambience.",
+              "images": [
+                "https://drive.google.com/uc?id=1wkAauGDiC_5TlK7nR26QuUVGJuzw3AaL"
+              ]
+            },
+            {
+              "name": "Shahi Hammam",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5833,
+                  "longitude": 74.3247
+                }
+              },
+              "category": "Historical / Mughal Bathhouse",
+              "description": "Shahi Hammam, also known as the Wazir Khan Hammam, was a 17th-century royal bathhouse used for ritual cleansing and relaxation by Mughal nobles. It now serves as a beautifully restored heritage site and museum.",
+              "highlights": [
+                "Domed ceilings with restored fresco paintings.",
+                "Sophisticated heating and water system of Mughal engineering.",
+                "Located near Delhi Gate in the Walled City."
+              ],
+              "best_time_to_visit": "Winter and spring months when exploring the Walled City.",
+              "images": [
+                "https://drive.google.com/uc?id=1jwVZwNQmVVAtDOWx7smxFVlYD7OEH5-1"
+              ]
+            },
+            {
+              "name": "Shalimar Gardens",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5891,
+                  "longitude": 74.3924
+                }
+              },
+              "category": "Historical / Garden / UNESCO World Heritage Site",
+              "description": "Constructed by Emperor Shah Jahan in 1641, Shalimar Gardens showcase the pinnacle of Mughal landscape design, featuring terraced lawns, marble fountains, and flowing water channels.",
+              "highlights": [
+                "Three descending terraces symbolizing paradise.",
+                "Over 400 fountains fed by ancient hydraulic systems.",
+                "Rich blend of Persian and Mughal garden aesthetics."
+              ],
+              "best_time_to_visit": "Spring (February to April) for blooming flowers and mild weather.",
+              "images": [
+                "https://drive.google.com/uc?id=12jXdy2pP31je4uKT9elV_8CzbouPI3iw"
+              ]
+            },
+            {
+              "name": "Sozo Water Park",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5054,
+                  "longitude": 74.2181
+                }
+              },
+              "category": "Amusement Park / Water Park",
+              "description": "Sozo Water Park is one of Pakistan’s largest water parks featuring slides, pools, and rides for both families and thrill-seekers, offering a refreshing escape during summer.",
+              "highlights": [
+                "Dedicated ladies’ and children’s pools.",
+                "High-speed water slides and wave pool.",
+                "Easily accessible from Canal Bank Road."
+              ],
+              "best_time_to_visit": "April to September for summer recreation.",
+              "images": [
+                "https://drive.google.com/uc?id=1ioLTeVLcA5HHAur3k3vOcV_7y6Z_bUC_"
+              ]
+            },
+            {
+              "name": "The Mall Road",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5668,
+                  "longitude": 74.324
+                }
+              },
+              "category": "Heritage / Commercial Street",
+              "description": "Mall Road is one of Lahore’s oldest and most important boulevards, lined with colonial buildings, hotels, and institutions reflecting British-era architecture.",
+              "highlights": [
+                "Punjab Assembly, Aitchison College, and Tollinton Market.",
+                "Classic buildings like Faletti’s Hotel and Alhamra Hall.",
+                "Popular route for heritage walks and photo tours."
+              ],
+              "best_time_to_visit": "Morning or evening for less traffic and scenic views.",
+              "images": [
+                "https://drive.google.com/uc?id=1D8iiMnvhxwiCSecQlCdttR1KkzpjSYdV"
+              ]
+            },
+            {
+              "name": "Tomb of Jahangir",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.6203,
+                  "longitude": 74.2189
+                }
+              },
+              "category": "Historical / Mausoleum / Mughal Architecture",
+              "description": "The Tomb of Emperor Jahangir, built in the 17th century, is one of the finest examples of Mughal funerary architecture with intricate pietra dura work and serene gardens.",
+              "highlights": [
+                "Marble tomb with Persian-style inlay work.",
+                "Part of Shahdara complex including Asif Khan’s Tomb and Nur Jahan’s Tomb.",
+                "Lush charbagh layout and Mughal symmetry."
+              ],
+              "best_time_to_visit": "Winter and spring for pleasant weather and photography.",
+              "images": [
+                "https://drive.google.com/uc?id=1SgylIa2pWR0jSRQNeM9BTmY6dWWETB9K"
+              ]
+            },
+            {
+              "name": "Tomb of Nur Jahan",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.6209,
+                  "longitude": 74.2194
+                }
+              },
+              "category": "Historical / Mausoleum / Mughal Architecture",
+              "description": "Nur Jahan’s Tomb, dedicated to the influential Mughal empress, features delicate carved marble, floral motifs, and a peaceful garden setting in Shahdara Bagh.",
+              "highlights": [
+                "Floral pietra dura designs and symmetrical layout.",
+                "Located near Tomb of Jahangir and Asif Khan’s Tomb.",
+                "Serene atmosphere ideal for history enthusiasts."
+              ],
+              "best_time_to_visit": "Winter and spring for calm visits.",
+              "images": [
+                "https://drive.google.com/uc?id=1hSPkhR6_YxfxLEQ7ulWCx80cy16KXFMg"
+              ]
+            },
+            {
+              "name": "Wazir Khan Mosque",
+              "location": {
+                "district": "Lahore",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.5837,
+                  "longitude": 74.3253
+                }
+              },
+              "category": "Historical / Religious Site / Mughal Architecture",
+              "description": "Built in the 17th century during Emperor Shah Jahan’s reign, Wazir Khan Mosque is renowned for its intricate tile work and frescoes, representing the finest example of Mughal-era craftsmanship in Lahore.",
+              "highlights": [
+                "Vivid kashi kari (tile mosaic) and calligraphy.",
+                "Located inside the Walled City of Lahore near Delhi Gate.",
+                "Restored by Aga Khan Trust for Culture."
+              ],
+              "best_time_to_visit": "Morning hours to admire the artwork in natural light.",
+              "images": [
+                "https://drive.google.com/uc?id=1fYrPNSPofiFj9mXdpMzUygkwqyAOaa97"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nankana Sahib",
+          "destinations": [
+            {
+              "name": "Gurdwara Janam Asthan",
+              "location": {
+                "district": "Nankana Sahib",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.447,
+                  "longitude": 73.7071
+                }
+              },
+              "category": "Religious / Sikh Shrine / Historical",
+              "description": "Gurdwara Janam Asthan marks the birthplace of Guru Nanak Dev Ji, the founder of Sikhism, and is one of the most important pilgrimage sites for Sikhs worldwide.",
+              "highlights": [
+                "Beautiful white marble architecture with golden domes.",
+                "Peaceful inner sanctum for prayers and meditation.",
+                "Annual celebrations of Guru Nanak’s birth attract thousands of pilgrims."
+              ],
+              "best_time_to_visit": "November for Guru Nanak Jayanti or winter months for calm visits.",
+              "images": [
+                "https://drive.google.com/uc?id=1-PUvPWHbvxc5QZbsS-eojEQ3xANXRdTj"
+              ]
+            },
+            {
+              "name": "Gurdwara Janam Asthan Museum",
+              "location": {
+                "district": "Nankana Sahib",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.4468,
+                  "longitude": 73.7065
+                }
+              },
+              "category": "Museum / Religious Heritage / Cultural",
+              "description": "A museum near Gurdwara Janam Asthan showcasing artifacts, manuscripts, and historical records related to Guru Nanak Dev Ji and Sikhism.",
+              "highlights": [
+                "Exhibits of ancient scriptures and relics.",
+                "Photographs and paintings illustrating Sikh history.",
+                "Educational resource for pilgrims and tourists."
+              ],
+              "best_time_to_visit": "Morning to afternoon; cooler months preferred.",
+              "images": [
+                "https://drive.google.com/uc?id=1KIYt1F47osZ-zbsotFc7xCvygXq3YXZq"
+              ]
+            },
+            {
+              "name": "Gurdwara Nankana Sahib",
+              "location": {
+                "district": "Nankana Sahib",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.45,
+                  "longitude": 73.715
+                }
+              },
+              "category": "Religious / Sikh Shrine",
+              "description": "One of the main gurdwaras in Nankana Sahib, preserving Sikh history and heritage with regular prayers, langar, and religious events.",
+              "highlights": [
+                "Spiritual center for local and international Sikh devotees.",
+                "Architectural blend of traditional Sikh and Mughal styles.",
+                "Community kitchen (langar) serving free meals daily."
+              ],
+              "best_time_to_visit": "November (Guru Nanak Jayanti) or any winter months for less crowd.",
+              "images": [
+                "https://drive.google.com/uc?id=1TSgT8eeVVG_socao_ammkPtTkOsBkvIq"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sheikhupura",
+          "destinations": [
+            {
+              "name": "Hiran Minar",
+              "location": {
+                "district": "Sheikhupura",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.7131,
+                  "longitude": 73.978
+                }
+              },
+              "category": "Historical / Mughal Architecture / Garden",
+              "description": "Hiran Minar is a 17th-century Mughal-era monument built by Emperor Jahangir in memory of his beloved pet antelope, featuring a unique minaret and surrounding water tank.",
+              "highlights": [
+                "Central minaret in a large water tank.",
+                "Surrounding Mughal garden with walking paths.",
+                "Peaceful spot for photography and historical appreciation."
+              ],
+              "best_time_to_visit": "October to March for cool weather and clear skies.",
+              "images": [
+                "https://drive.google.com/uc?id=1YQlYw8yy2trqar8-BQJX6zvrfTqJxkLl"
+              ]
+            },
+            {
+              "name": "Sheikhupura Fort",
+              "location": {
+                "district": "Sheikhupura",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.7135,
+                  "longitude": 73.9785
+                }
+              },
+              "category": "Historical / Fort / Mughal Architecture",
+              "description": "A historical fort built during the Mughal period, showcasing impressive architecture and strategic design of its time.",
+              "highlights": [
+                "Ancient walls and bastions.",
+                "Royal Mughal-era design and layout.",
+                "Nearby gardens and heritage structures."
+              ],
+              "best_time_to_visit": "Morning or late afternoon for photography and exploration.",
+              "images": [
+                "https://drive.google.com/uc?id=1Svn0Pfbu2WmVEPHjEDzoEpg2XrEn06Dt"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Faisalabad Division",
+      "districts": [
+        {
+          "name": "Chiniot",
+          "destinations": [
+            {
+              "name": "Chiniot Furniture Market",
+              "location": {
+                "district": "Chiniot",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.722,
+                  "longitude": 72.979
+                }
+              },
+              "category": "Cultural / Shopping / Craft",
+              "description": "Chiniot is famous for its traditional wooden furniture, crafted by local artisans, attracting visitors who appreciate handmade designs.",
+              "highlights": [
+                "Renowned for intricately carved wooden chairs, tables, and doors.",
+                "Cultural insight into local craftsmanship.",
+                "Ideal for souvenir shopping."
+              ],
+              "best_time_to_visit": "Daytime for open markets and artisan demonstrations.",
+              "images": [
+                "https://drive.google.com/uc?id=1e84cW6UmIHU1XWIJMEn7mXF3EzTppAm7"
+              ]
+            },
+            {
+              "name": "Omar Hayat Mahal",
+              "location": {
+                "district": "Chiniot",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.72,
+                  "longitude": 72.978
+                }
+              },
+              "category": "Historical / Mansion / Architecture",
+              "description": "A beautiful 19th-century palace known for its intricate woodwork and ornate design, representing the grandeur of the Chinioti artisans.",
+              "highlights": [
+                "Famous for exquisite wood carvings and decorative motifs.",
+                "Example of Mughal-influenced architecture.",
+                "Popular spot for photography and cultural enthusiasts."
+              ],
+              "best_time_to_visit": "October to March for pleasant weather.",
+              "images": [
+                "https://drive.google.com/uc?id=16N0fKLnKisJMe8Da89ZEhixOcG8Vmq9T"
+              ]
+            },
+            {
+              "name": "Shahi Masjid Chiniot",
+              "location": {
+                "district": "Chiniot",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.7205,
+                  "longitude": 72.9785
+                }
+              },
+              "category": "Religious / Historical Site",
+              "description": "A centuries-old mosque showcasing traditional Chinioti architectural styles and intricate wood and brick work.",
+              "highlights": [
+                "Decorative wood carvings on doors and windows.",
+                "Historic significance and serene environment.",
+                "Architectural style unique to Chiniot craftsmen."
+              ],
+              "best_time_to_visit": "Mornings and evenings for calm ambiance.",
+              "images": [
+                "https://drive.google.com/uc?id=15nNa73PZ6s5v2crRzXwN4ABGE6WwdGVA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Faisalabad",
+          "destinations": [
+            {
+              "name": "Clock Tower (Ghanta Ghar)",
+              "location": {
+                "district": "Faisalabad",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.418,
+                  "longitude": 73.079
+                }
+              },
+              "category": "Historical / Landmark / Urban Attraction",
+              "description": "The Faisalabad Clock Tower, also known as Ghanta Ghar, is a central landmark built during the British colonial period, surrounded by eight bazaars forming a unique urban pattern.",
+              "highlights": [
+                "Iconic British-era clock tower in the city center.",
+                "Surrounded by eight traditional bazaars (market squares).",
+                "Popular spot for photography and local shopping."
+              ],
+              "best_time_to_visit": "Evenings or winter months for pleasant weather and bustling market scenes.",
+              "images": [
+                "https://drive.google.com/uc?id=1o37CXoaj-7AWCkr_WsUa13fy4XzsnnIb"
+              ]
+            },
+            {
+              "name": "Gatwala Wildlife Park",
+              "location": {
+                "district": "Faisalabad",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.535,
+                  "longitude": 73.106
+                }
+              },
+              "category": "Wildlife / Nature / Family Attraction",
+              "description": "Gatwala Wildlife Park is a large recreational and wildlife park offering lakes, trails, and picnic areas, ideal for families and nature enthusiasts.",
+              "highlights": [
+                "Artificial lakes with boating facilities.",
+                "Walking trails and picnic spots.",
+                "Home to deer, peacocks, and various bird species."
+              ],
+              "best_time_to_visit": "October to March for mild weather and comfortable visits.",
+              "images": [
+                "https://drive.google.com/uc?id=1Ftv2t2RCN-kCAW_Akx4m4h496EINbE1W"
+              ]
+            },
+            {
+              "name": "Jinnah Garden",
+              "location": {
+                "district": "Faisalabad",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.4187,
+                  "longitude": 73.0705
+                }
+              },
+              "category": "Urban Park / Recreation / Family Spot",
+              "description": "Jinnah Garden is a popular urban park in Faisalabad, offering walking trails, green lawns, and recreational facilities for families and visitors.",
+              "highlights": [
+                "Walking and jogging paths amid greenery.",
+                "Children’s playground and picnic areas.",
+                "Seasonal flower displays and calm environment."
+              ],
+              "best_time_to_visit": "October to March for cooler weather and outdoor activities.",
+              "images": [
+                "https://drive.google.com/uc?id=1AYCKWlPOq0O_NNfWdkFouUBidH_CnU7I"
+              ]
+            },
+            {
+              "name": "Lyallpur Museum",
+              "location": {
+                "district": "Faisalabad",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.4182,
+                  "longitude": 73.089
+                }
+              },
+              "category": "Museum / Cultural / Historical",
+              "description": "Lyallpur Museum showcases the cultural, industrial, and historical heritage of Faisalabad, highlighting its development from Lyallpur city to modern Faisalabad.",
+              "highlights": [
+                "Exhibits on local crafts, industry, and history.",
+                "Photographs and artifacts from colonial and modern eras.",
+                "Educational experience for tourists and students."
+              ],
+              "best_time_to_visit": "Morning to afternoon; cooler months preferred.",
+              "images": [
+                "https://drive.google.com/uc?id=1niftX411O1carJ0uSUMO72608wjPwO-C"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jhang",
+          "destinations": [
+            {
+              "name": "Chenab River Bank",
+              "location": {
+                "district": "Jhang",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.72,
+                  "longitude": 72.9
+                }
+              },
+              "category": "Nature / Scenic Spot",
+              "description": "Riverside areas along the Chenab offering natural beauty, picnic spots, and relaxing views.",
+              "highlights": [
+                "Relaxing riverside walks and scenic views.",
+                "Birdwatching and outdoor activities.",
+                "Natural complement to heritage tourism."
+              ],
+              "best_time_to_visit": "October to March for cool weather and clear views.",
+              "images": [
+                "https://drive.google.com/uc?id=1LCVtFOGEJ0S4m24yiFRmbmD0VR-58NJm"
+              ]
+            },
+            {
+              "name": "Shrine of Sultan Bahu",
+              "location": {
+                "district": "Jhang",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.484,
+                  "longitude": 72.321
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "Shrine of the 17th-century Sufi saint Sultan Bahu, attracting spiritual visitors from across Pakistan.",
+              "highlights": [
+                "Sufi cultural experience and devotional music.",
+                "Annual Urs celebrations.",
+                "Peaceful, reflective environment."
+              ],
+              "best_time_to_visit": "During Urs or October to March for calm visits.",
+              "images": [
+                "https://drive.google.com/uc?id=1IhcrTL2DyKkI9EScIOljjy5de9g_vdkh"
+              ]
+            },
+            {
+              "name": "Tomb of Heer & Ranjha",
+              "location": {
+                "district": "Jhang",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.272,
+                  "longitude": 72.32
+                }
+              },
+              "category": "Historical / Cultural Landmark",
+              "description": "The legendary lovers Heer and Ranjha are said to be buried here, a symbol of Punjabi folklore and romantic heritage.",
+              "highlights": [
+                "Site of one of South Asia’s most famous love stories.",
+                "Folklore and poetry reference: Waris Shah’s ‘Heer’.",
+                "Popular destination for cultural tourism."
+              ],
+              "best_time_to_visit": "October to March for comfortable weather.",
+              "images": [
+                "https://drive.google.com/uc?id=1p81XI5TabpYir36tJ8JPLO0cgKOoFWqF"
+              ]
+            },
+            {
+              "name": "Trimmu Barrage",
+              "location": {
+                "district": "Jhang",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.675,
+                  "longitude": 72.974
+                }
+              },
+              "category": "Nature / Scenic Spot / Engineering Landmark",
+              "description": "An important irrigation structure on the River Chenab with scenic riverside views and picnic spots.",
+              "highlights": [
+                "River views and natural scenery.",
+                "Popular for picnics and short trips.",
+                "Engineering and historical significance."
+              ],
+              "best_time_to_visit": "October to March for pleasant weather.",
+              "images": [
+                "https://drive.google.com/uc?id=1ht-s9n5HdLqY2y_c34BF57-1l5xa951G"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Toba Tek Singh",
+          "destinations": []
+        }
+      ]
+    },
+    {
+      "name": "Rawalpindi Division",
+      "districts": [
+        {
+          "name": "Attock",
+          "destinations": [
+            {
+              "name": "Attock Fort",
+              "location": {
+                "district": "Attock",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 33.768,
+                  "longitude": 72.36
+                }
+              },
+              "category": "Historical / Fort",
+              "description": "A 16th-century fort strategically located near the Indus River, showcasing Mughal military architecture.",
+              "highlights": [
+                "Scenic views of the Indus River",
+                "Historic battlements and gates",
+                "Photography and exploration opportunities"
+              ],
+              "best_time_to_visit": "October to March for cooler weather",
+              "images": [
+                "https://drive.google.com/uc?id=1csQOTV-fGZx90UVMt61d-Bdocw4uhAda",
+                "https://drive.google.com/uc?id=15cJ2c2mzXFmcPnf_5m6D4ZJ83dEBFWWv"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chakwal",
+          "destinations": [
+            {
+              "name": "Katas Raj Temples",
+              "location": {
+                "district": "Chakwal",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.938,
+                  "longitude": 72.706
+                }
+              },
+              "category": "Religious / Historical / Hindu Temple",
+              "description": "An ancient complex of Hindu temples with sacred ponds, attracting tourists and pilgrims alike.",
+              "highlights": [
+                "Sacred pond with mythological significance",
+                "Architectural details of temples",
+                "Photography and cultural exploration"
+              ],
+              "best_time_to_visit": "October to March for mild weather",
+              "images": [
+                "https://drive.google.com/uc?id=1wRnmGW8QnXZRHSt4FZ3d4Ha61Dhl5YwO"
+              ]
+            },
+            {
+              "name": "Soon Valley",
+              "location": {
+                "district": "Chakwal",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.825,
+                  "longitude": 72.838
+                }
+              },
+              "category": "Nature / Hill Station / Scenic",
+              "description": "A beautiful valley with lakes, waterfalls, and hills, perfect for hiking, nature walks, and picnics.",
+              "highlights": [
+                "Khabikki and Uchhali lakes",
+                "Hiking trails and viewpoints",
+                "Flora and fauna exploration"
+              ],
+              "best_time_to_visit": "Spring and autumn for pleasant weather and greenery",
+              "images": [
+                "https://drive.google.com/uc?id=1J0wFa1n_UVirSVogi7vPUl_ihn4JojyS"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jhelum",
+          "destinations": [
+            {
+              "name": "Mangla Dam",
+              "location": {
+                "district": "Jhelum",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.574,
+                  "longitude": 73.598
+                }
+              },
+              "category": "Nature / Engineering / Recreation",
+              "description": "One of Pakistan’s largest dams, offering boating, fishing, and scenic views of the reservoir.",
+              "highlights": [
+                "Water sports and boating",
+                "Picnic spots along the reservoir",
+                "Engineering marvel and scenic sunset views"
+              ],
+              "best_time_to_visit": "October to March for cooler temperatures",
+              "images": [
+                "https://drive.google.com/uc?id=1ZNOp_WdsocKm9sCA2yhTmIGYrCb3z8h8"
+              ]
+            },
+            {
+              "name": "Rohtas Fort",
+              "location": {
+                "district": "Jhelum",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.958,
+                  "longitude": 73.58
+                }
+              },
+              "category": "Historical / Fort / UNESCO World Heritage Site",
+              "description": "A 16th-century fort built by Sher Shah Suri, known for its massive walls and strategic architecture.",
+              "highlights": [
+                "UNESCO World Heritage Site",
+                "Architectural and military history",
+                "Panoramic views from ramparts"
+              ],
+              "best_time_to_visit": "October to March for mild weather",
+              "images": [
+                "https://drive.google.com/uc?id=1Jz9UtYVM8ew_cHbUqZ0IElDrQxF-fcKb"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rawalpindi",
+          "destinations": [
+            {
+              "name": "Ayub National Park",
+              "location": {
+                "district": "Rawalpindi",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 33.601,
+                  "longitude": 73.0513
+                }
+              },
+              "category": "Park / Family Attraction / Nature",
+              "description": "A large recreational park with a lake, jogging tracks, and a zoo, popular for family outings.",
+              "highlights": [
+                "Boating lake and picnic areas",
+                "Children’s play zones",
+                "Annual flower exhibitions"
+              ],
+              "best_time_to_visit": "October to March for pleasant weather",
+              "images": [
+                "https://drive.google.com/uc?id=1ur7P49WMl9bKHdiMK5W8oMOeua0aoDG0"
+              ]
+            },
+            {
+              "name": "Bari Imam Shrine",
+              "location": {
+                "district": "Rawalpindi",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 33.618,
+                  "longitude": 73.033
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "A spiritual center dedicated to Bari Imam, attracting thousands of devotees and tourists interested in cultural heritage.",
+              "highlights": [
+                "Historic Sufi shrine and peaceful surroundings",
+                "Annual Urs festival",
+                "Scenic views of nearby hills"
+              ],
+              "best_time_to_visit": "Urs season or winter months for pleasant weather",
+              "images": [
+                "https://drive.google.com/uc?id=1xw-recYgTVyojD4t_sCEdKSFyLlnSTqO"
+              ]
+            },
+            {
+              "name": "Rawalpindi Saddar Bazaar",
+              "location": {
+                "district": "Rawalpindi",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 33.6,
+                  "longitude": 73.067
+                }
+              },
+              "category": "Market / Cultural Experience / Shopping",
+              "description": "The main commercial hub of Rawalpindi with shops, eateries, and historical significance.",
+              "highlights": [
+                "Local handicrafts and street food",
+                "Historic British-era buildings nearby",
+                "Vibrant market atmosphere"
+              ],
+              "best_time_to_visit": "Evenings for cooler weather and lively streets",
+              "images": [
+                "https://drive.google.com/uc?id=1WRWh8Bc9pS9eLETeTsCSXsohEapbRmU4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gujranwala Division",
+      "districts": [
+        {
+          "name": "Gujranwala",
+          "destinations": [
+            {
+              "name": "Ghanta Ghar (Clock Tower)",
+              "location": {
+                "district": "Gujranwala",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.1875,
+                  "longitude": 74.1945
+                }
+              },
+              "category": "Historical / Landmark",
+              "description": "A prominent historic clock tower built during British rule, serving as the heart of the city and commercial hub.",
+              "highlights": [
+                "Central market and shopping streets",
+                "Colonial-era architecture nearby",
+                "Vibrant city life and street food"
+              ],
+              "best_time_to_visit": "Evenings for lively ambiance",
+              "images": [
+                "https://drive.google.com/uc?id=1OWVy17Sdx3WYyDSUyyGn8t_pPvqXG-Tc"
+              ]
+            },
+            {
+              "name": "Ravi River Viewpoints",
+              "location": {
+                "district": "Gujranwala",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.2,
+                  "longitude": 74.18
+                }
+              },
+              "category": "Nature / Scenic",
+              "description": "Scenic spots along the Ravi River, ideal for picnics and photography.",
+              "highlights": [
+                "Sunset and sunrise views",
+                "Peaceful picnic areas",
+                "Local birdwatching opportunities"
+              ],
+              "best_time_to_visit": "October to March for pleasant weather",
+              "images": [
+                "https://drive.google.com/uc?id=1PKqWXzeh_ZN3MJkc3t1_gLdzQlcET2I2"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hafizabad",
+          "destinations": []
+        },
+        {
+          "name": "Mandi Bahauddin",
+          "destinations": [
+            {
+              "name": "Rachna Doab Canal Views",
+              "location": {
+                "district": "Mandi Bahauddin",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.583,
+                  "longitude": 73.49
+                }
+              },
+              "category": "Nature / Scenic",
+              "description": "Canal-side spots offering calm scenery and local recreational opportunities.",
+              "highlights": [
+                "Walking and boating areas",
+                "Photography and nature appreciation",
+                "Picnic-friendly environment"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=1OvaOxaXBkrgEsOhjYf_IhZxrg7hfiKHY"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Narowal",
+          "destinations": [
+            {
+              "name": "Kartarpur Corridor / Gurdwara Darbar Sahib",
+              "location": {
+                "district": "Narowal",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.435,
+                  "longitude": 74.681
+                }
+              },
+              "category": "Religious / Historical / Sikh Heritage",
+              "description": "Famous religious site for Sikhs worldwide, where Guru Nanak Dev Ji spent the last years of his life.",
+              "highlights": [
+                "Pilgrimage site with historical significance",
+                "Peaceful surroundings and architecture",
+                "International tourist visits"
+              ],
+              "best_time_to_visit": "Year-round; cooler months preferred",
+              "images": [
+                "https://drive.google.com/uc?id=1_yeI9MRqN5KvmGBuHHAgZJnZWCLOF3-b"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sialkot",
+          "destinations": [
+            {
+              "name": "Iqbal Manzil",
+              "location": {
+                "district": "Sialkot",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.5,
+                  "longitude": 74.525
+                }
+              },
+              "category": "Historical / Museum",
+              "description": "Birthplace of Allama Iqbal, now converted into a museum showcasing his life, works, and memorabilia.",
+              "highlights": [
+                "Personal artifacts of Allama Iqbal",
+                "Guided tours and historical exhibits",
+                "Cultural heritage exploration"
+              ],
+              "best_time_to_visit": "October to March for comfortable weather",
+              "images": [
+                "https://drive.google.com/uc?id=1vttkejBsk5oUiMeAxB_haAEvxutEVzY6"
+              ]
+            },
+            {
+              "name": "Sialkot Fort (Historic Ruins)",
+              "location": {
+                "district": "Sialkot",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.485,
+                  "longitude": 74.528
+                }
+              },
+              "category": "Historical / Fort",
+              "description": "Ruins of an old fort with historic significance, offering insight into Sialkot’s medieval past.",
+              "highlights": [
+                "Ancient fort walls and gates",
+                "Photography of historic architecture",
+                "Nearby old bazaars"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=159YnaZDqdm1RS78AYOBolso5AfqASaU2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sargodha Division",
+      "districts": [
+        {
+          "name": "Bhakkar",
+          "destinations": [
+            {
+              "name": "Thal Desert Experience",
+              "location": {
+                "district": "Bhakkar",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 31.6333,
+                  "longitude": 71.05
+                }
+              },
+              "category": "Nature / Desert / Adventure",
+              "description": "Explore the vast Thal Desert region with sand dunes, traditional villages, and desert wildlife.",
+              "highlights": [
+                "Sand dune photography",
+                "Cultural exposure to local desert life",
+                "Camel rides and adventure trips"
+              ],
+              "best_time_to_visit": "November to March for cooler temperatures",
+              "images": [
+                "https://drive.google.com/uc?id=1OpcSZcDmA-bXcFC_EihRwIpdYFC1h24t"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Khushab",
+          "destinations": [
+            {
+              "name": "Soon Valley",
+              "location": {
+                "district": "Khushab",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.44,
+                  "longitude": 72.32
+                }
+              },
+              "category": "Nature / Hills / Scenic",
+              "description": "A picturesque valley known for its lush greenery, lakes, waterfalls, and ancient temples.",
+              "highlights": [
+                "Khabikki Lake and Uchali Lake",
+                "Pholia Waterfall and Sakesar Hill",
+                "Ideal for hiking, photography, and nature walks"
+              ],
+              "best_time_to_visit": "October to April for pleasant weather",
+              "images": [
+                "https://drive.google.com/uc?id=1HkDtQuZ9e4xzUNEXVuAMbvdeQQqVoOx7"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mianwali",
+          "destinations": [
+            {
+              "name": "Kundian / Namal Lake",
+              "location": {
+                "district": "Mianwali",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 32.95,
+                  "longitude": 71.96
+                }
+              },
+              "category": "Nature / Scenic / Waterbody",
+              "description": "A calm lake surrounded by hills and greenery, perfect for fishing, picnics, and relaxation.",
+              "highlights": [
+                "Boat rides and serene environment",
+                "Birdwatching opportunities",
+                "Hiking trails around the lake"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=1uzWgNmx_R5SG2tySLSGpvFD-d_wuLRjL"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sargodha",
+          "destinations": []
+        }
+      ]
+    },
+    {
+      "name": "Multan Division",
+      "districts": [
+        {
+          "name": "Khanewal",
+          "destinations": [
+            {
+              "name": "Cholistan Desert Excursion (near Khanewal)",
+              "location": {
+                "district": "Khanewal",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.3,
+                  "longitude": 71.9
+                }
+              },
+              "category": "Nature / Desert / Adventure",
+              "description": "Access point to the Cholistan Desert offering cultural tours, camel rides, and desert landscapes.",
+              "highlights": [
+                "Camel safaris",
+                "Traditional desert villages",
+                "Photography and sunset views"
+              ],
+              "best_time_to_visit": "November to March",
+              "images": [
+                "https://drive.google.com/uc?id=15SY7ovIvmDkVRq7aaEM9zSCTqYsr6d24"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lodhran",
+          "destinations": [
+            {
+              "name": "Fort Munro (near Lodhran)",
+              "location": {
+                "district": "Lodhran",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 29.0,
+                  "longitude": 71.5
+                }
+              },
+              "category": "Hills / Nature / Scenic",
+              "description": "A hill station area with cool weather, scenic viewpoints, and a retreat from the plains of Punjab.",
+              "highlights": [
+                "Hiking trails",
+                "Panoramic vistas of surrounding plains",
+                "Pleasant weather in summer"
+              ],
+              "best_time_to_visit": "March to June",
+              "images": [
+                "https://drive.google.com/uc?id=1_2sTCWjc2VTixw-ZmRebnLP3sOb2R9KU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Multan",
+          "destinations": [
+            {
+              "name": "Multan Fort",
+              "location": {
+                "district": "Multan",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.196,
+                  "longitude": 71.46
+                }
+              },
+              "category": "Historical / Fort / Cultural",
+              "description": "An ancient fort with a rich history, showcasing remnants of various eras including the Muslim, Sikh, and British periods.",
+              "highlights": [
+                "Shrines within fort premises",
+                "Panoramic view of the city",
+                "Historic architecture and gates"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=14LW5iZGPRTiSHjpymP2v5ooZL7ssqQmQ"
+              ]
+            },
+            {
+              "name": "Shrine of Bahauddin Zakariya",
+              "location": {
+                "district": "Multan",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.1981,
+                  "longitude": 71.467
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "A major Sufi shrine attracting devotees and tourists, known for its beautiful architecture and spiritual significance.",
+              "highlights": [
+                "Annual Urs festival",
+                "Intricate tile work",
+                "Spiritual and cultural experience"
+              ],
+              "best_time_to_visit": "Evenings or during Urs",
+              "images": [
+                "https://drive.google.com/uc?id=18f6wfTaLAMwUha7b8jcjwJWIga4HTDmE"
+              ]
+            },
+            {
+              "name": "Shrine of Shah Rukn-e-Alam",
+              "location": {
+                "district": "Multan",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.1925,
+                  "longitude": 71.452
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "A 14th-century mausoleum, an architectural masterpiece of the Tughlaq era and a symbol of Multan’s spiritual heritage.",
+              "highlights": [
+                "Stunning domed structure",
+                "Detailed interior decorations",
+                "Important pilgrimage site"
+              ],
+              "best_time_to_visit": "Winter months for pleasant weather",
+              "images": [
+                "https://drive.google.com/uc?id=1rgGKUINWHDMzfcSqT5i_DZgwTl6ZKeCG"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vehari",
+          "destinations": []
+        }
+      ]
+    },
+    {
+      "name": "Bahawalpur Division",
+      "districts": [
+        {
+          "name": "Bahawalnagar",
+          "destinations": [
+            {
+              "name": "Fort Abbas",
+              "location": {
+                "district": "Bahawalnagar",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 29.384,
+                  "longitude": 72.432
+                }
+              },
+              "category": "Historical / Fort",
+              "description": "A historic fort in the Bahawalnagar district, known locally for its heritage significance and architecture.",
+              "highlights": [
+                "Heritage architecture",
+                "Local cultural significance",
+                "Photography and history enthusiasts"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=14PD_tGs1ioI1tJm7MSJSq7ALzqL2lPr4"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bahawalpur",
+          "destinations": [
+            {
+              "name": "Bahawalpur Museum",
+              "location": {
+                "district": "Bahawalpur",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 29.392,
+                  "longitude": 71.678
+                }
+              },
+              "category": "Museum / Cultural / Historical",
+              "description": "Museum showcasing archaeological, historical, and cultural artifacts from the region, including items from the Cholistan Desert and Bahawalpur State.",
+              "highlights": [
+                "Cholistan Desert artifacts",
+                "Islamic art and manuscripts",
+                "Folk art and traditional crafts"
+              ],
+              "best_time_to_visit": "Morning hours, October to March",
+              "images": [
+                "https://drive.google.com/uc?id=1dxTBiLlGsX48F5ntqBDHftzm19KzQZhY"
+              ]
+            },
+            {
+              "name": "Derawar Fort",
+              "location": {
+                "district": "Bahawalpur",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 28.972,
+                  "longitude": 71.225
+                }
+              },
+              "category": "Historical / Fort",
+              "description": "An impressive 9 km-long wall fort in the Cholistan Desert, famous for its massive bastions and desert backdrop.",
+              "highlights": [
+                "Massive square bastions",
+                "Desert camping and photography",
+                "Historic architecture of the Nawabs"
+              ],
+              "best_time_to_visit": "November to March",
+              "images": [
+                "https://drive.google.com/uc?id=1bCblCdVHJGXqZitIwa_naYGJcF4b685a"
+              ]
+            },
+            {
+              "name": "Noor Mahal",
+              "location": {
+                "district": "Bahawalpur",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 29.3958,
+                  "longitude": 71.6835
+                }
+              },
+              "category": "Historical / Palace",
+              "description": "A majestic palace built in 1872, blending Italian and Islamic architectural styles, and a major attraction for history and architecture enthusiasts.",
+              "highlights": [
+                "Italian-style interiors",
+                "Lavish halls and gardens",
+                "Evening light shows"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=11hV_LZ-LTP_xXBRXG7lWGwa69h3K4Aqq"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rahim Yar Khan",
+          "destinations": [
+            {
+              "name": "Bhong Mosque",
+              "location": {
+                "district": "Rahim Yar Khan",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 28.423,
+                  "longitude": 69.911
+                }
+              },
+              "category": "Historical / Religious Site",
+              "description": "An award-winning architectural masterpiece known for its intricate design and craftsmanship, merging traditional Islamic architecture with regional styles.",
+              "highlights": [
+                "Detailed tile work and gold accents",
+                "Exquisite Quranic calligraphy and mirror work",
+                "Recipient of the 1986 Aga Khan Award for Architecture"
+              ],
+              "best_time_to_visit": "Morning or late afternoon for optimal lighting and cooler temperatures",
+              "images": [
+                "https://drive.google.com/uc?id=1uEjw2fymsdiMdnzsvR1SQFaOZ-SXYSpM"
+              ]
+            },
+            {
+              "name": "Rahim Yar Khan Zoo & Park",
+              "location": {
+                "district": "Rahim Yar Khan",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 28.42,
+                  "longitude": 70.307
+                }
+              },
+              "category": "Family Attraction / Nature / Zoo",
+              "description": "A local recreational park and zoo attracting families and tourists looking for leisure and outdoor activities.",
+              "highlights": [
+                "Animal exhibits and aviary",
+                "Playgrounds and picnic spots",
+                "Walking trails and greenery"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=1zlEl59zvw8TGBHYjG0oKBjHhqYc29ln_"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sahiwal Division",
+      "districts": [
+        {
+          "name": "Okara",
+          "destinations": [
+            {
+              "name": "Depalpur Fort",
+              "location": {
+                "district": "Okara",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.645,
+                  "longitude": 73.65
+                }
+              },
+              "category": "Historical / Fort",
+              "description": "A historic fort in Depalpur, reflecting regional architecture and local heritage.",
+              "highlights": [
+                "Traditional fort architecture",
+                "Local historical significance",
+                "Photography and exploration"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=1OFHRGRUC-TZXzyggVVKU3B77LhBIPl3O"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pakpattan",
+          "destinations": [
+            {
+              "name": "Baba Farid Shrine (Data Ganj Bakhsh of Pakpattan)",
+              "location": {
+                "district": "Pakpattan",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.34,
+                  "longitude": 73.39
+                }
+              },
+              "category": "Religious / Sufi Shrine",
+              "description": "The shrine of Sufi saint Baba Farid, a highly revered spiritual site attracting thousands of devotees from Pakistan and abroad.",
+              "highlights": [
+                "Historic Sufi architecture",
+                "Annual Urs festival draws pilgrims",
+                "Langar and spiritual gatherings"
+              ],
+              "best_time_to_visit": "During Urs celebrations or October to March",
+              "images": [
+                "https://drive.google.com/uc?id=15k4pY-KRkFjByFA1cSo61xwHvCxtlfS6"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sahiwal",
+          "destinations": [
+            {
+              "name": "Harappa Archaeological Site",
+              "location": {
+                "district": "Sahiwal",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.634,
+                  "longitude": 72.854
+                }
+              },
+              "category": "Historical / Archaeological Site",
+              "description": "An ancient city of the Indus Valley Civilization, showcasing ruins, artifacts, and historical significance dating back thousands of years.",
+              "highlights": [
+                "Excavated ruins of houses, granaries, and streets",
+                "Artifacts like pottery, beads, and seals",
+                "Insight into ancient urban planning"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=1XmvjWC2esHLzuvVpc-FV7kQae9m1urw2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DG Khan Division",
+      "districts": [
+        {
+          "name": "Dera Ghazi Khan",
+          "destinations": [
+            {
+              "name": "Fort Munro",
+              "location": {
+                "district": "Dera Ghazi Khan",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.85,
+                  "longitude": 70.38
+                }
+              },
+              "category": "Hill Station / Nature / Scenic Spot",
+              "description": "A picturesque hill station in the Sulaiman Range, known for cool weather, pine forests, and panoramic views.",
+              "highlights": [
+                "Hilly terrain and hiking trails",
+                "Cool climate during summer",
+                "Scenic viewpoints and small streams"
+              ],
+              "best_time_to_visit": "March to October",
+              "images": []
+            }
+          ]
+        },
+        {
+          "name": "Layyah",
+          "destinations": [
+            {
+              "name": "Karor Lal Esan Temple (near Layyah)",
+              "location": {
+                "district": "Layyah",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.96,
+                  "longitude": 70.94
+                }
+              },
+              "category": "Religious / Cultural Site",
+              "description": "A historic Hindu temple known for its cultural significance in the region and annual fairs.",
+              "highlights": [
+                "Traditional architecture",
+                "Annual cultural and religious gatherings",
+                "Photography and local history"
+              ],
+              "best_time_to_visit": "During annual fairs or October to March",
+              "images": []
+            }
+          ]
+        },
+        {
+          "name": "Muzaffargarh",
+          "destinations": [
+            {
+              "name": "Taunsa Barrage",
+              "location": {
+                "district": "Muzaffargarh",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 30.72,
+                  "longitude": 70.94
+                }
+              },
+              "category": "Natural / Water / Engineering Landmark",
+              "description": "A major barrage on the Indus River, offering scenic views, fishing, and birdwatching opportunities.",
+              "highlights": [
+                "Large river and floodplain views",
+                "Fishing and boating opportunities",
+                "Migratory birds in season"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": []
+            }
+          ]
+        },
+        {
+          "name": "Rajanpur",
+          "destinations": [
+            {
+              "name": "Derawar Fort (near Rajanpur area)",
+              "location": {
+                "district": "Rajanpur",
+                "province": "Punjab",
+                "coordinates": {
+                  "latitude": 28.991,
+                  "longitude": 70.244
+                }
+              },
+              "category": "Historical / Fort",
+              "description": "A massive square fort in the Cholistan Desert with historical significance and impressive architecture.",
+              "highlights": [
+                "Grand fort walls and bastions",
+                "Cholistan Desert surroundings",
+                "Photography and desert exploration"
+              ],
+              "best_time_to_visit": "October to March",
+              "images": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

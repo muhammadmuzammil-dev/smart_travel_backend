@@ -1,0 +1,5455 @@
+[
+    {
+        "city": "Abbottabad",
+        "region": "Khyber Pakhtunkhwa",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Stargaze Hotel & Apartment",
+                    "price": 3500.0
+                },
+                {
+                    "name": "Republika Urban Hotel by Summit Resorts",
+                    "price": 4647.0
+                },
+                {
+                    "name": "Hotel Red Roof & Restaurant",
+                    "price": 3009.0
+                },
+                {
+                    "name": "Sarai Abbottabad",
+                    "price": 3705.0
+                },
+                {
+                    "name": "Velvet Pine",
+                    "price": 4050.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Hotel One Abbottabad",
+                    "price": 10800.0
+                },
+                {
+                    "name": "HCC Abbottabad",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Republika Central Hotel & Resort",
+                    "price": 6694.0
+                },
+                {
+                    "name": "Alaf Laila Guest House",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Silent Hillside Stay 4 Families",
+                    "price": 7225.0
+                },
+                {
+                    "name": "Hills View Hotel",
+                    "price": 8100.0
+                },
+                {
+                    "name": "Nature Hill Lodge",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Happy Stay Guest House",
+                    "price": 9499.0
+                },
+                {
+                    "name": "Whispering Fields",
+                    "price": 7600.0
+                },
+                {
+                    "name": "Tulip Guest House Abbottabad",
+                    "price": 9499.0
+                },
+                {
+                    "name": "Hotel Al Azeem",
+                    "price": 8100.0
+                },
+                {
+                    "name": "HK Heights - Sunset Valley Retreat",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Mashal Palace",
+                    "price": 6499.0
+                },
+                {
+                    "name": "Hotel Al Azeem",
+                    "price": 8100.0
+                },
+                {
+                    "name": "Bismillah Apartments, Kala Bagh by LMC",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Sardar House",
+                    "price": 9180.0
+                },
+                {
+                    "name": "Danna lodge",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Mountain View Guest House by LMC",
+                    "price": 11160.0
+                },
+                {
+                    "name": "Sardar House",
+                    "price": 9600.0
+                },
+                {
+                    "name": "Hotel Royal Inn",
+                    "price": 9900.0
+                },
+                {
+                    "name": "Top-Floor Stay with Mountain View, Khaira Gali, Murree",
+                    "price": 11250.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "One Bedroom Cabin Dunga Near Pipeline Track",
+                    "price": 18360.0
+                },
+                {
+                    "name": "Pine Edge by T2R - Luxury 2BR Duplex Apartment Private Parking & Stunning Views in Khaira Gali near to Nathia Gali & Muree",
+                    "price": 40000.0
+                },
+                {
+                    "name": "Three-Bedroom Holiday Home",
+                    "price": 14400.0
+                },
+                {
+                    "name": "Historical Villa - Stunning Views - Changla Gali House",
+                    "price": 85500.0
+                },
+                {
+                    "name": "Luxury Apartment in Abbottabad",
+                    "price": 12150.0
+                },
+                {
+                    "name": "Green Manal Hotel",
+                    "price": 31500.0
+                },
+                {
+                    "name": "2-Bed Green Oasis Apartment, Nathiagali",
+                    "price": 35200.0
+                },
+                {
+                    "name": "Nathia Lodge Mountain View Hotel & Guest House Nathia Gali",
+                    "price": 39195.0
+                },
+                {
+                    "name": "Fogland Guest House",
+                    "price": 20825.0
+                },
+                {
+                    "name": "Hotel Da Ville",
+                    "price": 12400.0
+                },
+                {
+                    "name": "Kaghan Lodge",
+                    "price": 14000.0
+                },
+                {
+                    "name": "WanderNest BirmiGali",
+                    "price": 25000.0
+                },
+                {
+                    "name": "Mezbaan Guesthouse",
+                    "price": 100000.0
+                },
+                {
+                    "name": "Gali's Home",
+                    "price": 65800.0
+                },
+                {
+                    "name": "Chinar Apartments",
+                    "price": 25500.0
+                },
+                {
+                    "name": "1-Room Cozy Private Stay in Changla Gali",
+                    "price": 19760.0
+                },
+                {
+                    "name": "Sangha Cottage",
+                    "price": 44000.0
+                },
+                {
+                    "name": "Red Onion Ayubia",
+                    "price": 15500.0
+                },
+                {
+                    "name": "Doubletree By Hilton Nathiagali",
+                    "price": 51300.0
+                },
+                {
+                    "name": "Zesora Nathia Gali",
+                    "price": 31200.0
+                },
+                {
+                    "name": "Richmond Boutique Hotel",
+                    "price": 22500.0
+                },
+                {
+                    "name": "Haven Hilltop Cottage, Dunga Gali",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Panorama Luxury House",
+                    "price": 35000.0
+                },
+                {
+                    "name": "Cedar Lodges Resort and Residences Galiyat",
+                    "price": 27000.0
+                },
+                {
+                    "name": "Canari Hotel kashmir view",
+                    "price": 14000.0
+                },
+                {
+                    "name": "The mountain lounge",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Blue sky Apartment",
+                    "price": 75000.0
+                },
+                {
+                    "name": "Cottage in Changla Gali - Secluded, Cozy Stay",
+                    "price": 29250.0
+                },
+                {
+                    "name": "ESCAPE Hotels & Resorts",
+                    "price": 52965.0
+                },
+                {
+                    "name": "The Pines Cottage - Secluded & Serene",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Qubed Hotel Nathiagali",
+                    "price": 37500.0
+                },
+                {
+                    "name": "One Bedroom Cabin Dunga Near Pipeline Track",
+                    "price": 18360.0
+                },
+                {
+                    "name": "Haven Lodge Khaira Gali - Pine Ridge Residences #4",
+                    "price": 64000.0
+                },
+                {
+                    "name": "Sardar House, Dunga Gali",
+                    "price": 40000.0
+                },
+                {
+                    "name": "Haven Lodge Khaira Gali - Pine Ridge Residences #7",
+                    "price": 33250.0
+                },
+                {
+                    "name": "Historical Villa - Stunning Views - Changla Gali House",
+                    "price": 85500.0
+                },
+                {
+                    "name": "1-Bedroom Cozy Private Stay In Changla Gali",
+                    "price": 26600.0
+                },
+                {
+                    "name": "Riasat Home Stay - Nathia Gali Road",
+                    "price": 16999.0
+                },
+                {
+                    "name": "Peaceful Hilltop Apartment in Changla Gali",
+                    "price": 30500.0
+                },
+                {
+                    "name": "Urban Homes - Top Floor - Ayubia",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Green Manal Hotel",
+                    "price": 31500.0
+                },
+                {
+                    "name": "Gali's End By Roomy, Kalabagh Nathiagali",
+                    "price": 46400.0
+                },
+                {
+                    "name": "Richmond Boutique Hotel",
+                    "price": 22500.0
+                },
+                {
+                    "name": "Doubletree By Hilton Nathiagali",
+                    "price": 51300.0
+                },
+                {
+                    "name": "Panorama Luxury House",
+                    "price": 35000.0
+                },
+                {
+                    "name": "Canari Hotel kashmir view",
+                    "price": 14000.0
+                },
+                {
+                    "name": "The mountain lounge",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Blue sky Apartment",
+                    "price": 75000.0
+                },
+                {
+                    "name": "Eagle Nest Cottage, Kala Bagh",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Green view guest house nathiagali by room",
+                    "price": 40000.0
+                },
+                {
+                    "name": "M Akbar Hotel hotel",
+                    "price": 14400.0
+                },
+                {
+                    "name": "Mountain View Lodge, NathiaGali",
+                    "price": 30000.0
+                },
+                {
+                    "name": "FOG LAND GUEST HOUSE nathia gali kala bagh",
+                    "price": 27999.0
+                },
+                {
+                    "name": "Mashal Palace Apartment's",
+                    "price": 26800.0
+                },
+                {
+                    "name": "Hill side cottage",
+                    "price": 49500.0
+                },
+                {
+                    "name": "Rahmat manzul",
+                    "price": 80400.0
+                },
+                {
+                    "name": "Dreamy delight hotel",
+                    "price": 14200.0
+                },
+                {
+                    "name": "Alpine Resort and Hotel",
+                    "price": 28999.0
+                },
+                {
+                    "name": "Zesora Nathia Gali",
+                    "price": 31200.0
+                },
+                {
+                    "name": "Haven Hilltop Cottage, Dunga Gali",
+                    "price": 18000.0
+                },
+                {
+                    "name": "ESCAPE Hotels & Resorts",
+                    "price": 52965.0
+                },
+                {
+                    "name": "Qubed Hotel Nathiagali",
+                    "price": 37500.0
+                },
+                {
+                    "name": "Green wood cottage",
+                    "price": 20000.0
+                },
+                {
+                    "name": "One Bedroom Cabin Dunga Near Pipeline Track",
+                    "price": 18360.0
+                },
+                {
+                    "name": "Sardar House",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Sardar House, Dunga Gali",
+                    "price": 40000.0
+                },
+                {
+                    "name": "2-Bed Green Oasis Apartment, Nathiagali",
+                    "price": 35200.0
+                },
+                {
+                    "name": "Sardar Glamps nathigali",
+                    "price": 25000.0
+                },
+                {
+                    "name": "Riasat Home Stay - Nathia Gali Road",
+                    "price": 16999.0
+                },
+                {
+                    "name": "Red Onion Ayubia",
+                    "price": 15500.0
+                },
+                {
+                    "name": "Nathia Lodge Mountain View Hotel & Guest House Nathia Gali",
+                    "price": 39195.0
+                },
+                {
+                    "name": "Nathia Heights Hotel",
+                    "price": 14999.0
+                },
+                {
+                    "name": "Green Manal Hotel",
+                    "price": 31500.0
+                },
+                {
+                    "name": "The Heights Hotel Nathiagali",
+                    "price": 33500.0
+                },
+                {
+                    "name": "Fogland Guest House",
+                    "price": 20825.0
+                },
+                {
+                    "name": "Faimly cottages",
+                    "price": 21450.0
+                },
+                {
+                    "name": "Sky Touch",
+                    "price": 19600.0
+                },
+                {
+                    "name": "Vine wood cotteg",
+                    "price": 47600.0
+                },
+                {
+                    "name": "WanderNest BirmiGali",
+                    "price": 25000.0
+                },
+                {
+                    "name": "Green Oasis",
+                    "price": 28000.0
+                },
+                {
+                    "name": "Gali's Home",
+                    "price": 65800.0
+                },
+                {
+                    "name": "Bilour House Main Dunga Gali Bazar, nathiagali",
+                    "price": 71000.0
+                },
+                {
+                    "name": "Mezbaan Guesthouse",
+                    "price": 100000.0
+                },
+                {
+                    "name": "Snowland Hotel",
+                    "price": 13499.0
+                },
+                {
+                    "name": "Pine Edge by T2R - Luxury Duplex Apartment Private Parking & Stunning Views in Khaira Gali near to Nathia Gali & Muree",
+                    "price": 40000.0
+                },
+                {
+                    "name": "Peaceful Private Cottage in Khaira Gali Galyat Murree",
+                    "price": 23750.0
+                },
+                {
+                    "name": "Cedar Lodges Resort and Residences Galiyat",
+                    "price": 27000.0
+                },
+                {
+                    "name": "Cottage in Changla Gali - Secluded, Cozy Stay",
+                    "price": 29250.0
+                },
+                {
+                    "name": "The Pines Cottage - Secluded & Serene",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Hilltop Vacation Villa in Khairagali",
+                    "price": 24000.0
+                },
+                {
+                    "name": "Haven Lodge Khaira Gali - Pine Ridge Residences #4",
+                    "price": 64000.0
+                },
+                {
+                    "name": "Haven Lodge Khaira Gali - Pine Ridge Residences #7",
+                    "price": 33250.0
+                },
+                {
+                    "name": "Historical Villa - Stunning Views - Changla Gali House",
+                    "price": 85500.0
+                },
+                {
+                    "name": "1-Bedroom Cozy Private Stay In Changla Gali",
+                    "price": 26600.0
+                },
+                {
+                    "name": "Peaceful Hilltop Apartment in Changla Gali",
+                    "price": 30500.0
+                },
+                {
+                    "name": "Peaceful Pines 5-Bed Villa",
+                    "price": 32000.0
+                },
+                {
+                    "name": "Urban Homes - Top Floor - Ayubia",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Mushkpuri Terraces - Khaira Gali",
+                    "price": 33600.0
+                },
+                {
+                    "name": "Pine Edge by T2R - Luxury 2BR Duplex Apartment Private Parking & Stunning Views in Khaira Gali near to Nathia Gali & Muree",
+                    "price": 40000.0
+                },
+                {
+                    "name": "Paradise Rain Hotel",
+                    "price": 15499.0
+                },
+                {
+                    "name": "House of views",
+                    "price": 14440.0
+                },
+                {
+                    "name": "The White Loft Nathiagali",
+                    "price": 17100.0
+                },
+                {
+                    "name": "Javed's building",
+                    "price": 18900.0
+                },
+                {
+                    "name": "House of Valley Views",
+                    "price": 25200.0
+                },
+                {
+                    "name": "Timbergrove Villa",
+                    "price": 35999.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Arang_Kel",
+        "region": "Azad Jammu & Kashmir",
+        "hotels": {
+            "low": [],
+            "mid": [
+                {
+                    "name": "Wyndham Heritage Hotel & Resort Sharda",
+                    "price": 6300.0
+                },
+                {
+                    "name": "Wanderlust Chapter 1",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Lime wood",
+                    "price": 11199.0
+                },
+                {
+                    "name": "7 Heavens Guest House & Restaurant Kel Neelum valley",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Markhor Resort Sharda",
+                    "price": 5419.0
+                },
+                {
+                    "name": "Graystone lodges",
+                    "price": 6500.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Riverside Challets Sharda",
+                    "price": 25500.0
+                },
+                {
+                    "name": "Neelum Valley Hotel",
+                    "price": 12499.0
+                },
+                {
+                    "name": "3Dots Resort",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Roameo Resorts",
+                    "price": 50000.0
+                },
+                {
+                    "name": "Wanderlust Chapter 2",
+                    "price": 24000.0
+                },
+                {
+                    "name": "Travelers choice resort Sharda",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Popeyes Guest House",
+                    "price": 12499.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Bahawalpur",
+        "region": "Punjab",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Victoria Guest House",
+                    "price": 3800.0
+                },
+                {
+                    "name": "Regal Guest House",
+                    "price": 3800.0
+                },
+                {
+                    "name": "Pak Continental Hotel",
+                    "price": 4536.0
+                },
+                {
+                    "name": "Qatar Hotel Bahawalpur",
+                    "price": 4950.0
+                },
+                {
+                    "name": "AL Amin business center and Hostel",
+                    "price": 2975.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Executive Lodges",
+                    "price": 8550.0
+                },
+                {
+                    "name": "The Edition Bahawalpur",
+                    "price": 8950.0
+                },
+                {
+                    "name": "Motel Paradise inn",
+                    "price": 5000.0
+                },
+                {
+                    "name": "HOTEL STATE RESIDENCY",
+                    "price": 5367.0
+                },
+                {
+                    "name": "Street 7 Apartment",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Lataska Hotel",
+                    "price": 9900.0
+                },
+                {
+                    "name": "Royal Mark Lodges",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Mrs",
+                    "price": 7554.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Falettis Grand Bahawalpur",
+                    "price": 17000.0
+                },
+                {
+                    "name": "Hotel One Bahawalpur",
+                    "price": 18000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Bhurban",
+        "region": "Punjab",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Lovely 1 bedroom condo with majestic views",
+                    "price": 4999.0
+                },
+                {
+                    "name": "Studi Flat 07 in Swiss Suits Hotel Apartment Bhurban Murre",
+                    "price": 3600.0
+                },
+                {
+                    "name": "Studi Flat 07 in Swiss Suits Hotel Apartment Bhurban Murre",
+                    "price": 3200.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "The Timberline Murree",
+                    "price": 10800.0
+                },
+                {
+                    "name": "Studi Flat 07 in Swiss Suits Hotel Apartment Bhurban Murre",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Bhurban Suites",
+                    "price": 9180.0
+                },
+                {
+                    "name": "Bhurban Hill Apartments",
+                    "price": 7225.0
+                },
+                {
+                    "name": "Murree - Bhurban Apartment with Private Balcony",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Heavenly Heights Bhurban",
+                    "price": 8756.0
+                },
+                {
+                    "name": "Green Valley Apartments",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Bhurban Nights - High Floor with Views",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Serenity Suites",
+                    "price": 11900.0
+                },
+                {
+                    "name": "Grand resort flat",
+                    "price": 8500.0
+                },
+                {
+                    "name": "ChINAR",
+                    "price": 7920.0
+                },
+                {
+                    "name": "ChiNaR",
+                    "price": 9000.0
+                },
+                {
+                    "name": "DannaHouse",
+                    "price": 9600.0
+                },
+                {
+                    "name": "2 Bedrooms innara Rooms Bhurban A1",
+                    "price": 9600.0
+                },
+                {
+                    "name": "Executive Heights Apartments",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Holiday Executive Suite",
+                    "price": 9600.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Pearl Continental Hotel, Bhurban",
+                    "price": 45080.0
+                },
+                {
+                    "name": "European Complex",
+                    "price": 16500.0
+                },
+                {
+                    "name": "Awesome Hills BHURBAN",
+                    "price": 16800.0
+                },
+                {
+                    "name": "Bhurban Suites",
+                    "price": 19238.0
+                },
+                {
+                    "name": "Nasim Cottage",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Bhurban Hills",
+                    "price": 14500.0
+                },
+                {
+                    "name": "Chinar Resort By Grand Unicorn",
+                    "price": 20700.0
+                },
+                {
+                    "name": "Best Holiday Apartment",
+                    "price": 14400.0
+                },
+                {
+                    "name": "Bhurban Continental Apartment 45-F",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Bhurban Serenity Stay",
+                    "price": 17500.0
+                },
+                {
+                    "name": "Bhurban Hill Apartments",
+                    "price": 12750.0
+                },
+                {
+                    "name": "Bhurban Hill Apartments",
+                    "price": 12749.0
+                },
+                {
+                    "name": "Bhurban Hill Apartments",
+                    "price": 12325.0
+                },
+                {
+                    "name": "Model Apartment Holiday Rest inn",
+                    "price": 14960.0
+                },
+                {
+                    "name": "Haven Resort Bhurban, Murree",
+                    "price": 77500.0
+                },
+                {
+                    "name": "SK Lounges Bhurban",
+                    "price": 15000.0
+                },
+                {
+                    "name": "Haven Lodge, Cliffside Residences",
+                    "price": 36800.0
+                },
+                {
+                    "name": "Bhurban Hill Apartments",
+                    "price": 12749.0
+                },
+                {
+                    "name": "Starry Nights by Demanchi",
+                    "price": 16000.0
+                },
+                {
+                    "name": "Holiday Rest Inn",
+                    "price": 17600.0
+                },
+                {
+                    "name": "Heavenly Hideaway by Monarch Developers",
+                    "price": 15300.0
+                },
+                {
+                    "name": "SunSet Villa",
+                    "price": 19250.0
+                },
+                {
+                    "name": "Morning Breeze Apartments",
+                    "price": 18700.0
+                },
+                {
+                    "name": "The Great Escape",
+                    "price": 45000.0
+                },
+                {
+                    "name": "Penthouse In The Clouds",
+                    "price": 18200.0
+                },
+                {
+                    "name": "amlak Resorts Apartment Suite Bhurban",
+                    "price": 28800.0
+                },
+                {
+                    "name": "Stair Way To Heaven",
+                    "price": 22400.0
+                },
+                {
+                    "name": "Model Apartment",
+                    "price": 14960.0
+                },
+                {
+                    "name": "Holiday Rest Inn",
+                    "price": 14080.0
+                },
+                {
+                    "name": "lotus recidency",
+                    "price": 16000.0
+                },
+                {
+                    "name": "Green Valley Bhurban Apartments",
+                    "price": 13499.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Chitral",
+        "region": "Unknown",
+        "hotels": {
+            "low": [],
+            "mid": [
+                {
+                    "name": "Comfort Inn",
+                    "price": 11000.0
+                },
+                {
+                    "name": "WindyCrest Inn",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Ayun Nest Guest House",
+                    "price": 5000.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Hilal Gardens",
+                    "price": 16000.0
+                },
+                {
+                    "name": "Town Inn Chitral Guest House",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Tourist Guest House",
+                    "price": 15000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Faisalabad",
+        "region": "Punjab",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Citi Hotel & Community Club",
+                    "price": 3960.0
+                },
+                {
+                    "name": "Babar House",
+                    "price": 3900.0
+                },
+                {
+                    "name": "Kashmir Girls Hostel Madina Town Faisalabad",
+                    "price": 1000.0
+                },
+                {
+                    "name": "Casanova homes",
+                    "price": 4800.0
+                },
+                {
+                    "name": "Lyallpur Home Stay",
+                    "price": 4800.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Comfy Cottage",
+                    "price": 6499.0
+                },
+                {
+                    "name": "Cozy & Peaceful Rooms Near Lyallpur Galleria",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Best Western Faisalabad",
+                    "price": 11550.0
+                },
+                {
+                    "name": "Pansota House",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Regency Apartments",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Shaheen Palace",
+                    "price": 5700.0
+                },
+                {
+                    "name": "Lyallpur Home Stay",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Gulistan Inn",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Luxury 2 Bedroom Appartment",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Lyallpur Galleria Mall Apartment, 1 BHK, 1 Bedroom with Living Room, Basement Parking, 24x7 Security",
+                    "price": 11326.0
+                },
+                {
+                    "name": "KANJWANI GROUP OF HOSTEL's",
+                    "price": 5500.0
+                },
+                {
+                    "name": "City vista apartment",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Ar Stay",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Wapda City Hotel",
+                    "price": 10499.0
+                },
+                {
+                    "name": "Alied center",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Luxury Home in Faisalabad",
+                    "price": 11638.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Hotel One Faisalabad",
+                    "price": 22000.0
+                },
+                {
+                    "name": "Avari Xpress Faisalabad",
+                    "price": 21976.0
+                },
+                {
+                    "name": "Lyallpur Galleria Mall Apartment, 2 BHK, 2 Bedroom with Living Room, Basement Parking, 24x7 Security",
+                    "price": 13464.0
+                },
+                {
+                    "name": "Circle Club Faisalabad",
+                    "price": 15500.0
+                },
+                {
+                    "name": "Grand Regent Hotel and Suites",
+                    "price": 17999.0
+                },
+                {
+                    "name": "Green View farms",
+                    "price": 40000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Gilgit",
+        "region": "Gilgit-Baltistan",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Zia Guest House",
+                    "price": 1215.0
+                },
+                {
+                    "name": "Serene",
+                    "price": 4860.0
+                },
+                {
+                    "name": "Ehsan-e-Bassi",
+                    "price": 4000.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Oak Residency",
+                    "price": 11000.0
+                },
+                {
+                    "name": "ISLE OF HIGHLAND TOURS Guest House",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Starlit Hotel - Gilgit",
+                    "price": 8075.0
+                },
+                {
+                    "name": "Duroyo hotel",
+                    "price": 5780.0
+                },
+                {
+                    "name": "Park Hotel Gilgit",
+                    "price": 6120.0
+                },
+                {
+                    "name": "Rakaposhi Amin Hotel & Restaurant Pissan Hunza Nagar Gilgit Baltistan",
+                    "price": 6299.0
+                },
+                {
+                    "name": "Naveed Tourist Inn",
+                    "price": 6935.0
+                },
+                {
+                    "name": "HR Guest House",
+                    "price": 8800.0
+                },
+                {
+                    "name": "Bottleneck Lodges",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Cherry Garden Terrace Hotel & Restaurant",
+                    "price": 6646.0
+                },
+                {
+                    "name": "4 Season Guest House Naltar",
+                    "price": 10800.0
+                },
+                {
+                    "name": "Arcadian Inn Hotel",
+                    "price": 10499.0
+                },
+                {
+                    "name": "Bab e Gilgit Inn",
+                    "price": 10990.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Destination Hotel Gilgit",
+                    "price": 15750.0
+                },
+                {
+                    "name": "Ramada Resort by Wyndham Gilgit",
+                    "price": 14400.0
+                },
+                {
+                    "name": "Avari Xpress Gilgit",
+                    "price": 20004.0
+                },
+                {
+                    "name": "Riverdale",
+                    "price": 29581.0
+                },
+                {
+                    "name": "The Pecan Resort",
+                    "price": 16000.0
+                },
+                {
+                    "name": "Canopy Nexus Resort Over The River",
+                    "price": 16499.0
+                },
+                {
+                    "name": "Aman E Yal",
+                    "price": 22800.0
+                },
+                {
+                    "name": "Kallisto Hotel",
+                    "price": 14400.0
+                },
+                {
+                    "name": "Farm House Resort",
+                    "price": 13500.0
+                },
+                {
+                    "name": "Destination Lodges Camp Leo Hoppar Valley",
+                    "price": 12537.0
+                },
+                {
+                    "name": "Hanaly Wood Resort & Cafe",
+                    "price": 15990.0
+                },
+                {
+                    "name": "Travel Nexus",
+                    "price": 12150.0
+                },
+                {
+                    "name": "Haramosh Inn Hotel and Resort",
+                    "price": 12500.0
+                },
+                {
+                    "name": "Homara",
+                    "price": 12800.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Gujranwala",
+        "region": "Punjab",
+        "hotels": {
+            "low": [],
+            "mid": [
+                {
+                    "name": "SH FARM & GUEST House",
+                    "price": 5040.0
+                },
+                {
+                    "name": "Aitco Enterprise",
+                    "price": 7000.0
+                },
+                {
+                    "name": "S H Residence & APARTMENTS",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Paragon Penthouse",
+                    "price": 6922.0
+                },
+                {
+                    "name": "Orient Heights",
+                    "price": 6899.0
+                },
+                {
+                    "name": "Divine Lodges",
+                    "price": 8000.0
+                },
+                {
+                    "name": "2 Bedrooms Apartments For Rent",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Twin-View Plaza",
+                    "price": 5864.0
+                },
+                {
+                    "name": "Executive Oasis",
+                    "price": 5800.0
+                },
+                {
+                    "name": "Elite Enclave",
+                    "price": 5780.0
+                },
+                {
+                    "name": "Dar plaza",
+                    "price": 8000.0
+                },
+                {
+                    "name": "K Apartments",
+                    "price": 5600.0
+                },
+                {
+                    "name": "SH Villa DHA",
+                    "price": 7650.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Faletti's Grand Hotel Gujranwala",
+                    "price": 20704.0
+                },
+                {
+                    "name": "Best Western City Center Gujranwala",
+                    "price": 20825.0
+                },
+                {
+                    "name": "Avari Boutique Gujranwala",
+                    "price": 20000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Harappa",
+        "region": "Punjab",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Noor Housing",
+                    "price": 1600.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Shahi Palace Hotel",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Swarg Hotel",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Sahiwal family Guest house",
+                    "price": 8500.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Hotel One Sahiwal",
+                    "price": 15500.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Hunza",
+        "region": "Gilgit-Baltistan",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Tourist Cottage Hunza",
+                    "price": 3510.0
+                },
+                {
+                    "name": "Karakorum Family Guest House Hunza",
+                    "price": 2970.0
+                },
+                {
+                    "name": "Backpackers Stories by Old Hunza Inn",
+                    "price": 4455.0
+                },
+                {
+                    "name": "Baltit Heritage Inn",
+                    "price": 4500.0
+                },
+                {
+                    "name": "Hunza Backpacker Inn",
+                    "price": 3500.0
+                },
+                {
+                    "name": "Tourist Cottage Hunza",
+                    "price": 3510.0
+                },
+                {
+                    "name": "White Apricot Lodge",
+                    "price": 3888.0
+                },
+                {
+                    "name": "Backpackers Stories by Old Hunza Inn",
+                    "price": 4455.0
+                },
+                {
+                    "name": "Punjab Hotel and Resort",
+                    "price": 3500.0
+                },
+                {
+                    "name": "Baltit Heritage Inn",
+                    "price": 4500.0
+                },
+                {
+                    "name": "Hunza Hilton Hotel",
+                    "price": 4400.0
+                },
+                {
+                    "name": "MANOKUR - E- BASA HOTEl",
+                    "price": 4500.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Old Hunza inn",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Hunza Lounge",
+                    "price": 9720.0
+                },
+                {
+                    "name": "Hikal Guest House",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Dastan-E-Hunza",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Karakorum View Hotel Karimabad Hunza",
+                    "price": 10800.0
+                },
+                {
+                    "name": "Venus Mountain Resort, Hunza",
+                    "price": 6650.0
+                },
+                {
+                    "name": "Escape Retreat",
+                    "price": 7500.0
+                },
+                {
+                    "name": "Escape Retreat Hunza",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Hunza Story",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Ultar House",
+                    "price": 5850.0
+                },
+                {
+                    "name": "Old Hunza inn",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Hunza Lounge",
+                    "price": 9720.0
+                },
+                {
+                    "name": "applegardenhunza",
+                    "price": 10935.0
+                },
+                {
+                    "name": "Jubilee Hotel Hunza",
+                    "price": 6030.0
+                },
+                {
+                    "name": "Dastan-E-Hunza",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Karakorum View Hotel Karimabad Hunza",
+                    "price": 10800.0
+                },
+                {
+                    "name": "Venus Mountain Resort, Hunza",
+                    "price": 6650.0
+                },
+                {
+                    "name": "The Backpackers' Nest Hunza",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Royal's Villa by Premiere Inn, Hunza",
+                    "price": 5100.0
+                },
+                {
+                    "name": "Motel 35",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Hunza Elites hotel",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Shaheen Resort Hunza-SRH",
+                    "price": 6500.0
+                },
+                {
+                    "name": "The cozy corner inn",
+                    "price": 6400.0
+                },
+                {
+                    "name": "MasakAli Family Guest House",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Hunza Roof Hotel",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Social House",
+                    "price": 10880.0
+                },
+                {
+                    "name": "Hunza Panorama Hotel",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Northern Sapphire",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Hunza Hidden Palace",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Arcadian Inn Hotel",
+                    "price": 10499.0
+                },
+                {
+                    "name": "Darwesh Hotel Hunza",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Oshoo E Haa",
+                    "price": 10999.0
+                },
+                {
+                    "name": "The Hermes Hotel & Backpackers Hostel",
+                    "price": 6500.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Roomy Daastaan Hotel, Karimabad Hunza",
+                    "price": 16000.0
+                },
+                {
+                    "name": "The Consorts Hotels & Resorts HUNZA ATTABAD LAKE",
+                    "price": 23750.0
+                },
+                {
+                    "name": "Ambiance Resort Hunza",
+                    "price": 39600.0
+                },
+                {
+                    "name": "The Rihla Hunza - Managed By Luxus",
+                    "price": 20250.0
+                },
+                {
+                    "name": "PC Legacy Hunza",
+                    "price": 19722.0
+                },
+                {
+                    "name": "Offto Resort Hunza",
+                    "price": 28000.0
+                },
+                {
+                    "name": "Hunza Serena Hotel",
+                    "price": 26766.0
+                },
+                {
+                    "name": "SG Glamping Resort",
+                    "price": 16020.0
+                },
+                {
+                    "name": "Dumani Nagar Hotel & Resort",
+                    "price": 29000.0
+                },
+                {
+                    "name": "SERENA ALTIT FORT RESIDENCE",
+                    "price": 16905.0
+                },
+                {
+                    "name": "Lodges By Baron Hunza Attabad Lake",
+                    "price": 45000.0
+                },
+                {
+                    "name": "Horizon Resort Attabad Lake Hunza",
+                    "price": 23500.0
+                },
+                {
+                    "name": "Belle Epoque Mountain Resort, Hunza, Gilgit Baltistan",
+                    "price": 21000.0
+                },
+                {
+                    "name": "Borith Lake Hotel & Resort",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Mountain Villa - Hunza Valley",
+                    "price": 13200.0
+                },
+                {
+                    "name": "Eagle's Nest Hotel",
+                    "price": 13400.0
+                },
+                {
+                    "name": "GreenPak Hotel Hunza",
+                    "price": 17500.0
+                },
+                {
+                    "name": "Fortyard Cottages",
+                    "price": 16500.0
+                },
+                {
+                    "name": "Hilltop Hotel, Hunza",
+                    "price": 16000.0
+                },
+                {
+                    "name": "Hunza Darbar Hotel",
+                    "price": 23400.0
+                },
+                {
+                    "name": "The Guest House Hunza",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Al-Careem Resort by Capricorn",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Adventure Touristik",
+                    "price": 60800.0
+                },
+                {
+                    "name": "Ultar View Lodge",
+                    "price": 12500.0
+                },
+                {
+                    "name": "Hunza Superior",
+                    "price": 26000.0
+                },
+                {
+                    "name": "Roomy Daastaan Hotel, Karimabad Hunza",
+                    "price": 16000.0
+                },
+                {
+                    "name": "The Rihla Hunza - Managed By Luxus",
+                    "price": 20250.0
+                },
+                {
+                    "name": "Hunza Serena Hotel",
+                    "price": 26766.0
+                },
+                {
+                    "name": "SG Glamping Resort",
+                    "price": 16020.0
+                },
+                {
+                    "name": "SERENA ALTIT FORT RESIDENCE",
+                    "price": 16905.0
+                },
+                {
+                    "name": "Lodges By Baron Hunza Attabad Lake",
+                    "price": 45000.0
+                },
+                {
+                    "name": "Mountain Villa - Hunza Valley",
+                    "price": 13200.0
+                },
+                {
+                    "name": "LOKAL Rooms x Hunza Altit Fort",
+                    "price": 18500.0
+                },
+                {
+                    "name": "Interstellar by Old Hunza Inn",
+                    "price": 29400.0
+                },
+                {
+                    "name": "Fort View Hotel near Altit fort, Hunza",
+                    "price": 12000.0
+                },
+                {
+                    "name": "North View Hotel",
+                    "price": 13499.0
+                },
+                {
+                    "name": "Sanctuary Resort Hunza",
+                    "price": 17000.0
+                },
+                {
+                    "name": "TripFlix Hotels",
+                    "price": 14300.0
+                },
+                {
+                    "name": "Hunza Karim abad",
+                    "price": 29750.0
+                },
+                {
+                    "name": "Nimbus HOTEL",
+                    "price": 15600.0
+                },
+                {
+                    "name": "Hunza Regency Inn",
+                    "price": 15499.0
+                },
+                {
+                    "name": "Cherry blossom guest house",
+                    "price": 19200.0
+                },
+                {
+                    "name": "Home of Mayoon",
+                    "price": 14875.0
+                },
+                {
+                    "name": "Hunza Cherry Guest House",
+                    "price": 13499.0
+                },
+                {
+                    "name": "The Consorts Hotels & Resorts HUNZA ATTABAD LAKE",
+                    "price": 23750.0
+                },
+                {
+                    "name": "Ambiance Resort Hunza",
+                    "price": 39600.0
+                },
+                {
+                    "name": "Mountain Story Resort",
+                    "price": 12150.0
+                },
+                {
+                    "name": "Firdaus Hotel & Resort",
+                    "price": 19800.0
+                },
+                {
+                    "name": "Marcopolo Resort Hunza",
+                    "price": 15000.0
+                },
+                {
+                    "name": "Trivor Resort Hunza",
+                    "price": 18000.0
+                },
+                {
+                    "name": "PC Legacy Hunza",
+                    "price": 19722.0
+                },
+                {
+                    "name": "KOH E QAF HUNZA",
+                    "price": 12825.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Hyderabad",
+        "region": "Sindh",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Embassy inn Guest House Hyderabad",
+                    "price": 3500.0
+                },
+                {
+                    "name": "Jannat Guest House Hyd",
+                    "price": 4400.0
+                },
+                {
+                    "name": "The Serena guest House",
+                    "price": 4050.0
+                },
+                {
+                    "name": "Al Raheem Guest House",
+                    "price": 4750.0
+                },
+                {
+                    "name": "Mjs Home",
+                    "price": 3000.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Al Rehman guest hous",
+                    "price": 7000.0
+                },
+                {
+                    "name": "The Royal Palace Guest House",
+                    "price": 10499.0
+                },
+                {
+                    "name": "Serena Hotel",
+                    "price": 8000.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Grand Blu Hotel",
+                    "price": 22000.0
+                },
+                {
+                    "name": "Indus Hotel",
+                    "price": 28000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Islamabad",
+        "region": "Islamabad Capital Territory",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Rose Lodges Guest House Islamabad",
+                    "price": 3251.0
+                },
+                {
+                    "name": "Midways Guest House and Hotels",
+                    "price": 4000.0
+                },
+                {
+                    "name": "Sunrise Rest House",
+                    "price": 4860.0
+                },
+                {
+                    "name": "Alpine lodges",
+                    "price": 3696.0
+                },
+                {
+                    "name": "Backpackers Hostel Islamabad",
+                    "price": 4000.0
+                },
+                {
+                    "name": "Raverian Guest House",
+                    "price": 2500.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Casa Blanca Guesthouse Islamabad",
+                    "price": 5106.0
+                },
+                {
+                    "name": "Dream Executive Guest House",
+                    "price": 9180.0
+                },
+                {
+                    "name": "Travis Executive Guest House Islamabad",
+                    "price": 6300.0
+                },
+                {
+                    "name": "Reina Boutique Hotel - G6",
+                    "price": 10755.0
+                },
+                {
+                    "name": "Vanilla In Guest house",
+                    "price": 5760.0
+                },
+                {
+                    "name": "The Elite Stay Islamabad",
+                    "price": 11990.0
+                },
+                {
+                    "name": "Reina Boutique Hotel - G9",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Family lodges",
+                    "price": 5850.0
+                },
+                {
+                    "name": "Ambrina Hotel",
+                    "price": 9900.0
+                },
+                {
+                    "name": "Islamabad Family Lodges Guest House",
+                    "price": 6300.0
+                },
+                {
+                    "name": "Hill Town Guest House Islamabad",
+                    "price": 7400.0
+                },
+                {
+                    "name": "Travel Inn islamabad",
+                    "price": 6935.0
+                },
+                {
+                    "name": "Luxurious 2 Bed Apartment",
+                    "price": 8910.0
+                },
+                {
+                    "name": "Mountain Villa Guest House",
+                    "price": 5940.0
+                },
+                {
+                    "name": "Dream Inn Guest House Islamabad",
+                    "price": 5800.0
+                },
+                {
+                    "name": "Holidazzle Lodge Islamabad",
+                    "price": 10800.0
+                },
+                {
+                    "name": "Couple Guest House",
+                    "price": 5985.0
+                },
+                {
+                    "name": "Bridge Residency-1, F-6 Islamabad",
+                    "price": 9828.0
+                },
+                {
+                    "name": "Private and Charm 1Bed Apartment- AC- WiFi- Self-CheckIN",
+                    "price": 5400.0
+                },
+                {
+                    "name": "Margalla Hills Residency Islamabad",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Sweet Residence",
+                    "price": 5950.0
+                },
+                {
+                    "name": "Capital Lodges E-11",
+                    "price": 5558.0
+                },
+                {
+                    "name": "Hotel Crossroads",
+                    "price": 11129.0
+                },
+                {
+                    "name": "Private & Cozy 2-Bedroom Full Apartment for Families E11 Islamabad",
+                    "price": 7700.0
+                },
+                {
+                    "name": "Capital Lodges",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Falettis Express Islamabad",
+                    "price": 11400.0
+                },
+                {
+                    "name": "Serenity Cottage",
+                    "price": 11000.0
+                },
+                {
+                    "name": "The City Lodge",
+                    "price": 5348.0
+                },
+                {
+                    "name": "Aspire Lodge, G11 Islamabad - A Family Guest House & Hotel",
+                    "price": 6700.0
+                },
+                {
+                    "name": "Prestige Lodge Islamabad",
+                    "price": 10800.0
+                },
+                {
+                    "name": "Motorway Majesty Suites Islamabad - Near Islamabad International Airport and Motorway",
+                    "price": 6099.0
+                },
+                {
+                    "name": "Imperial lodges",
+                    "price": 5700.0
+                },
+                {
+                    "name": "Jasmine Inn",
+                    "price": 10474.0
+                },
+                {
+                    "name": "Casa Blanca Boutique Guesthouse",
+                    "price": 5500.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Elysium Tower Premium Hotel Serviced Apartments Islamabad",
+                    "price": 16200.0
+                },
+                {
+                    "name": "Shelton's Ambassador Hotel Blue Area",
+                    "price": 19000.0
+                },
+                {
+                    "name": "Shelton's Ambassador",
+                    "price": 23320.0
+                },
+                {
+                    "name": "Hayat Grand Guest House",
+                    "price": 13545.0
+                },
+                {
+                    "name": "Roomy Signature Hotel, Islamabad",
+                    "price": 41040.0
+                },
+                {
+                    "name": "Islamabad Hotel",
+                    "price": 25500.0
+                },
+                {
+                    "name": "Villa Vista",
+                    "price": 25920.0
+                },
+                {
+                    "name": "Envoy Continental Hotel",
+                    "price": 24691.0
+                },
+                {
+                    "name": "La Maison Islamabad",
+                    "price": 13050.0
+                },
+                {
+                    "name": "Elysium Tower-Sky Heights Exclusive Apartments Opposite Centaurus Mall ISB",
+                    "price": 21141.0
+                },
+                {
+                    "name": "Montressa Luxury Apartments- Executive Stay Opposite Centaurus Mall Islamabad",
+                    "price": 23490.0
+                },
+                {
+                    "name": "Serenity Corner",
+                    "price": 30000.0
+                },
+                {
+                    "name": "Shelton Guest House",
+                    "price": 16500.0
+                },
+                {
+                    "name": "The Garden Hotel",
+                    "price": 13500.0
+                },
+                {
+                    "name": "Movenpick Hotel Centaurus Islamabad",
+                    "price": 55082.0
+                },
+                {
+                    "name": "Islamabad Marriott Hotel",
+                    "price": 50000.0
+                },
+                {
+                    "name": "LMY Elysium Tower - Skyviews Executive Apartments Facing Mountain & Centaurus Mall Islamabad",
+                    "price": 28350.0
+                },
+                {
+                    "name": "The Avenue Hotel",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Elysium Tower Signature Executive Serviced Apartments Blue Area Islamabad - LMY",
+                    "price": 29160.0
+                },
+                {
+                    "name": "Shelton's Rezidor Islamabad",
+                    "price": 18360.0
+                },
+                {
+                    "name": "Trivelles Executive Suites Islamabad",
+                    "price": 16000.0
+                },
+                {
+                    "name": "Centaurus Apartments Islamabad",
+                    "price": 38250.0
+                },
+                {
+                    "name": "Serenity Suite 2BHK Prime Location F-11",
+                    "price": 24300.0
+                },
+                {
+                    "name": "Shelton Boulevard Islamabad",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Centaurus Hotel Suites",
+                    "price": 42750.0
+                },
+                {
+                    "name": "Spacious 2-BHK SkyPark One",
+                    "price": 22500.0
+                },
+                {
+                    "name": "Bella Hotel",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Elysium Tower Mountain View Luxurious Apartments Islamabad",
+                    "price": 28350.0
+                },
+                {
+                    "name": "Islamabad Regalia Hotel",
+                    "price": 24863.0
+                },
+                {
+                    "name": "Ramada by Wyndham Islamabad",
+                    "price": 33300.0
+                },
+                {
+                    "name": "Elysium-Sky Heights Serviced Apartments OPP Centaurus Mall Islamabad",
+                    "price": 23328.0
+                },
+                {
+                    "name": "Luxury Centaurus Apartments Islamabad",
+                    "price": 51940.0
+                },
+                {
+                    "name": "IFQ Hotel & Resort Islamabad",
+                    "price": 33075.0
+                },
+                {
+                    "name": "S Chalet Islamabad",
+                    "price": 24300.0
+                },
+                {
+                    "name": "Luxury Apartments - Elysium Opposite to Centaurus Mall",
+                    "price": 23275.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Naran Valley",
+        "region": "Unknown",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Hotel lab e jou and resorts",
+                    "price": 4000.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Hotel Dream Palace",
+                    "price": 7695.0
+                },
+                {
+                    "name": "Ravi inn hotel",
+                    "price": 5400.0
+                },
+                {
+                    "name": "Bela Resorts Naran",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Sukoon Hideout Kaghan Valley",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Eagle Resorts",
+                    "price": 8075.0
+                },
+                {
+                    "name": "Eden Garden Resort Battakundi",
+                    "price": 7244.0
+                },
+                {
+                    "name": "River Garden Hotel and Resort",
+                    "price": 7120.0
+                },
+                {
+                    "name": "Pine Villa Cottage",
+                    "price": 8700.0
+                },
+                {
+                    "name": "Ashwood Cottage",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Walnut Cottage",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Kaghan Hills Resort",
+                    "price": 7128.0
+                },
+                {
+                    "name": "Bono Riverside Apartments",
+                    "price": 7480.0
+                },
+                {
+                    "name": "Naran, Rockwood Hotel,",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Bela Riverside Penthouse",
+                    "price": 8280.0
+                },
+                {
+                    "name": "Bono Apartments",
+                    "price": 9450.0
+                },
+                {
+                    "name": "Moon light hotel",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Parhena Cottages Bella Naran",
+                    "price": 6299.0
+                },
+                {
+                    "name": "Salsa Resort",
+                    "price": 7500.0
+                },
+                {
+                    "name": "Water Rocks Naran",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Hotel Dream Palace",
+                    "price": 7695.0
+                },
+                {
+                    "name": "Bela Resorts Naran",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Eagle Resorts",
+                    "price": 8075.0
+                },
+                {
+                    "name": "Parhena Cottages Bella Naran",
+                    "price": 6299.0
+                },
+                {
+                    "name": "Bono Riverside Apartments",
+                    "price": 7480.0
+                },
+                {
+                    "name": "Bono Apartments",
+                    "price": 9450.0
+                },
+                {
+                    "name": "River Garden Hotel and Resort",
+                    "price": 7120.0
+                },
+                {
+                    "name": "Moon light hotel",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Naran, Rockwood Hotel,",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Water Rocks Naran",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Hassan Resorts",
+                    "price": 6600.0
+                },
+                {
+                    "name": "Hotel Rock Star, Naran",
+                    "price": 11999.0
+                },
+                {
+                    "name": "Khunjerab lodges",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Ashwood Cottage",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Eagle Resort Hotel and Restaurant",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Pine Villa Cottage",
+                    "price": 8700.0
+                },
+                {
+                    "name": "Katherine Cottage",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Royal Saeed Hotel",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Walnut Cottage",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Ashwood Cottage",
+                    "price": 8700.0
+                },
+                {
+                    "name": "Hotel Pine Grove Naran",
+                    "price": 11500.0
+                },
+                {
+                    "name": "Green Park Hotel Shogran",
+                    "price": 8499.0
+                },
+                {
+                    "name": "Highland Club Balakot",
+                    "price": 8505.0
+                },
+                {
+                    "name": "Azure Dreams",
+                    "price": 6265.0
+                },
+                {
+                    "name": "Sukoon Hideout Kaghan Valley",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Salsa Resort",
+                    "price": 7500.0
+                },
+                {
+                    "name": "PC Green Hotel, Mahandri, Kaghan",
+                    "price": 9999.0
+                },
+                {
+                    "name": "Kunhar Sarai Hotel Balakot with 2 MASTER BEDS in ONE ROOM",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Kunhar Resort - Kiliç Cottage",
+                    "price": 10200.0
+                },
+                {
+                    "name": "Round Bed Cottage Country Club Resorts Balakot",
+                    "price": 10500.0
+                },
+                {
+                    "name": "Red Rose Hotel",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Hotel Shelton Inn",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Bela Resorts Naran",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Royal Shangrila Balakot",
+                    "price": 8213.0
+                },
+                {
+                    "name": "Parhena Cottages Bella Naran",
+                    "price": 6299.0
+                },
+                {
+                    "name": "Bono Riverside Apartments",
+                    "price": 7480.0
+                },
+                {
+                    "name": "Bono Apartments",
+                    "price": 9450.0
+                },
+                {
+                    "name": "River Garden Hotel and Resort",
+                    "price": 7120.0
+                },
+                {
+                    "name": "Bela Riverside Penthouse",
+                    "price": 8280.0
+                },
+                {
+                    "name": "Kaghan Hills Resort",
+                    "price": 7128.0
+                },
+                {
+                    "name": "Mawa Hotel Balakot",
+                    "price": 8100.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Serene Resorts Naran",
+                    "price": 22610.0
+                },
+                {
+                    "name": "The Barcelo Hotel Apartments",
+                    "price": 30599.0
+                },
+                {
+                    "name": "The Adventurers Resort",
+                    "price": 35200.0
+                },
+                {
+                    "name": "Jovial Gold Naran",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Walnut Riverside Resort",
+                    "price": 13500.0
+                },
+                {
+                    "name": "Village Inn Naran",
+                    "price": 23000.0
+                },
+                {
+                    "name": "The Barcelo Hotel Apartments",
+                    "price": 30599.0
+                },
+                {
+                    "name": "Serene Resorts Naran",
+                    "price": 22610.0
+                },
+                {
+                    "name": "Jovial Gold Naran",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Forest View Hotel & Restaurant",
+                    "price": 13500.0
+                },
+                {
+                    "name": "Grand Heritage Hotel",
+                    "price": 15999.0
+                },
+                {
+                    "name": "Sky Touch Hotel and Resort",
+                    "price": 15300.0
+                },
+                {
+                    "name": "Village Inn Naran",
+                    "price": 23000.0
+                },
+                {
+                    "name": "Iconic Hotel & Restaurant",
+                    "price": 15000.0
+                },
+                {
+                    "name": "Seven Peaks Resort",
+                    "price": 22500.0
+                },
+                {
+                    "name": "Auzzi Hotel Naran",
+                    "price": 16200.0
+                },
+                {
+                    "name": "New Hilton Hotel",
+                    "price": 14499.0
+                },
+                {
+                    "name": "Moon Lodges Naran",
+                    "price": 13500.0
+                },
+                {
+                    "name": "Clouds View Hotel And Restaurant",
+                    "price": 13600.0
+                },
+                {
+                    "name": "New White Palace Hotel",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Kunhar View Hotel",
+                    "price": 13999.0
+                },
+                {
+                    "name": "Manila Huts",
+                    "price": 23799.0
+                },
+                {
+                    "name": "Flora Inn Hotel Naran",
+                    "price": 12999.0
+                },
+                {
+                    "name": "Centurion Hotel",
+                    "price": 16499.0
+                },
+                {
+                    "name": "Hotel Mount View",
+                    "price": 25998.0
+                },
+                {
+                    "name": "OASIS hotle",
+                    "price": 15000.0
+                },
+                {
+                    "name": "makra view hotel and restaurant",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Walnut Riverside Resort",
+                    "price": 13500.0
+                },
+                {
+                    "name": "Rock & Green Hotel, Mahandri",
+                    "price": 12999.0
+                },
+                {
+                    "name": "Conifer hotels and resorts",
+                    "price": 28800.0
+                },
+                {
+                    "name": "Heaven Rose Hotel Khanian",
+                    "price": 12999.0
+                },
+                {
+                    "name": "Country Club Balakot 2BR Signature Lounge",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Riveria The Edge Hotel",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Valledor Resort",
+                    "price": 12500.0
+                },
+                {
+                    "name": "Abbott Hills Guest House",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Hotel Royal Park",
+                    "price": 12999.0
+                },
+                {
+                    "name": "Marco Polo Resort Kaghan",
+                    "price": 42000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Swat",
+        "region": "Khyber Pakhtunkhwa",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Regal one hotel",
+                    "price": 3000.0
+                },
+                {
+                    "name": "Royal cottages kalam",
+                    "price": 3400.0
+                },
+                {
+                    "name": "kalam rezidor hotel",
+                    "price": 3150.0
+                },
+                {
+                    "name": "4 Season Hotel and suites Malam Jabba",
+                    "price": 3000.0
+                },
+                {
+                    "name": "Super luxury apartments",
+                    "price": 4037.0
+                },
+                {
+                    "name": "Stay Inn Hotel",
+                    "price": 2700.0
+                },
+                {
+                    "name": "Peace Hotel Fizagat, Swat",
+                    "price": 3500.0
+                },
+                {
+                    "name": "Peace Hotel Fizagat, Swat",
+                    "price": 3500.0
+                },
+                {
+                    "name": "Peace Hotel Fizagat, Swat",
+                    "price": 3500.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Kabirs Hotel Kalam",
+                    "price": 9999.0
+                },
+                {
+                    "name": "Rock Water Resort Kalam",
+                    "price": 7800.0
+                },
+                {
+                    "name": "Darweshkhana Bed & Breakfast",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Gawalmandi Serenity Kalam",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Kuwait Continental Hotel Bahrain by Khan Familia",
+                    "price": 10109.0
+                },
+                {
+                    "name": "Water vibe hotel",
+                    "price": 10624.0
+                },
+                {
+                    "name": "Water vibe hotel",
+                    "price": 11192.0
+                },
+                {
+                    "name": "Galaxy Hotel Kalam",
+                    "price": 6300.0
+                },
+                {
+                    "name": "Forest Valley Cottages Kalam by Khan Familia",
+                    "price": 6506.0
+                },
+                {
+                    "name": "Spring Fields Resort kalam",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Legend Hotel Kalam",
+                    "price": 9999.0
+                },
+                {
+                    "name": "Jan Palace Hotel Kalam Swat",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Rainbow cottages",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Ridge Inn",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Hilton Resort Malamjabba by Khan Familia",
+                    "price": 7662.0
+                },
+                {
+                    "name": "Snow valley hotel and restaurant",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Hazara Hotel and Restaurant",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Sunshine Hotel & Restaurant",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Three Star Hotel & Restaurent Malam jabba swat",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Hotel Malamjabba Palace by Khan Familia",
+                    "price": 7106.0
+                },
+                {
+                    "name": "The Corporate Lodges Hotel by Khan Familia",
+                    "price": 11518.0
+                },
+                {
+                    "name": "Ali contry club & resort",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Rock City Resort",
+                    "price": 9500.0
+                },
+                {
+                    "name": "SWAT HiLL ViEW RESORT-only for families",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Swat hilltop resort",
+                    "price": 8400.0
+                },
+                {
+                    "name": "Royal Lodge Swat by Khan Familia",
+                    "price": 10530.0
+                },
+                {
+                    "name": "Suvastu Resort Swat by Khan Familia",
+                    "price": 6750.0
+                },
+                {
+                    "name": "FR Darya E Swat Hotel",
+                    "price": 5499.0
+                },
+                {
+                    "name": "city star hotel",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Riverside Hotel",
+                    "price": 11499.0
+                },
+                {
+                    "name": "SWAT GUEST HOUSE",
+                    "price": 5500.0
+                },
+                {
+                    "name": "SWAT HOTEL",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Relax Cottage Swat by Khan Familia",
+                    "price": 6449.0
+                },
+                {
+                    "name": "Hotel Swat Rezidor by Khan Familia",
+                    "price": 7989.0
+                },
+                {
+                    "name": "Hotel Malamjabba Palace by Khan Familia",
+                    "price": 7106.0
+                },
+                {
+                    "name": "Askari Inn Hotels",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Swat Hilton Hotel by Khan Familia",
+                    "price": 6574.0
+                },
+                {
+                    "name": "Abeer Hotel Swat by Khan Familia",
+                    "price": 5903.0
+                },
+                {
+                    "name": "Swat hilltop resort",
+                    "price": 8400.0
+                },
+                {
+                    "name": "SWAT HiLL ViEW RESORT-only for families",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Royal Lodge Swat by Khan Familia",
+                    "price": 10530.0
+                },
+                {
+                    "name": "IYI Luxury Inn Swat",
+                    "price": 11600.0
+                },
+                {
+                    "name": "Suvastu Resort Swat by Khan Familia",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Relax Cottage Swat by Khan Familia",
+                    "price": 6449.0
+                },
+                {
+                    "name": "Hotel Swat Rezidor by Khan Familia",
+                    "price": 7989.0
+                },
+                {
+                    "name": "The Corporate Lodges Hotel by Khan Familia",
+                    "price": 11518.0
+                },
+                {
+                    "name": "Farooq hotel",
+                    "price": 8500.0
+                },
+                {
+                    "name": "The Miadam Hotel",
+                    "price": 10638.0
+                },
+                {
+                    "name": "city star hotel",
+                    "price": 8000.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Greens By Roomy, Kalam",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Green Pak Kalam by Pearl Continental",
+                    "price": 17170.0
+                },
+                {
+                    "name": "Hotel Birmingham Palace Kalam by Khan Familia",
+                    "price": 13154.0
+                },
+                {
+                    "name": "Walnut Heights By Roomy, Kalam",
+                    "price": 28900.0
+                },
+                {
+                    "name": "Zen Luxus",
+                    "price": 24074.0
+                },
+                {
+                    "name": "La Serene Hotel and Resort, Kalam",
+                    "price": 16100.0
+                },
+                {
+                    "name": "Eagle Nest Cottage, Kalam",
+                    "price": 150000.0
+                },
+                {
+                    "name": "Maria Hotel and Resorts",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Khana Badosh Resort",
+                    "price": 17550.0
+                },
+                {
+                    "name": "Royal Elite Hotel Kalam by Khan Familia",
+                    "price": 14102.0
+                },
+                {
+                    "name": "Hotel Summer Queen",
+                    "price": 13500.0
+                },
+                {
+                    "name": "Florid Hotel and Resort Kalam",
+                    "price": 17928.0
+                },
+                {
+                    "name": "Greystonelodge kalam",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Sakuf Inn and Chalet",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Walnut Nest Villa Kalam by Khan Familia",
+                    "price": 33600.0
+                },
+                {
+                    "name": "Happy Heart Hotel & Restaurant",
+                    "price": 13499.0
+                },
+                {
+                    "name": "Pearl Continental Hotel Malam Jabba",
+                    "price": 33810.0
+                },
+                {
+                    "name": "Eagle Nest, Malam Jabba by LMC",
+                    "price": 19799.0
+                },
+                {
+                    "name": "The Corporate Lodges Hotel",
+                    "price": 30000.0
+                },
+                {
+                    "name": "Astoria Hill Resort",
+                    "price": 17500.0
+                },
+                {
+                    "name": "Emerald Villa Swat",
+                    "price": 75000.0
+                },
+                {
+                    "name": "Shelton Rezidor Swat",
+                    "price": 12599.0
+                },
+                {
+                    "name": "Burj Al Swat Hotel",
+                    "price": 16020.0
+                },
+                {
+                    "name": "Hotel One Swat",
+                    "price": 13770.0
+                },
+                {
+                    "name": "Rock City Resort",
+                    "price": 14250.0
+                },
+                {
+                    "name": "Swat Palace Hotel By Northin",
+                    "price": 14500.0
+                },
+                {
+                    "name": "Emerald Villa Swat by Khan Familia",
+                    "price": 83106.0
+                },
+                {
+                    "name": "Pameer Hotel Mingora",
+                    "price": 14400.0
+                },
+                {
+                    "name": "Rock City Resort",
+                    "price": 16499.0
+                },
+                {
+                    "name": "Swat Hilton Guest House by Khan Familia",
+                    "price": 35438.0
+                },
+                {
+                    "name": "Swat Inn Hotel",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Gilgit Hunza Hotel",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Swat Serena Hotel",
+                    "price": 26963.0
+                },
+                {
+                    "name": "Pearl Continental Hotel Malam Jabba",
+                    "price": 33810.0
+                },
+                {
+                    "name": "Shelton Rezidor Swat",
+                    "price": 12599.0
+                },
+                {
+                    "name": "Burj Al Swat Hotel",
+                    "price": 16020.0
+                },
+                {
+                    "name": "Rock City Resort",
+                    "price": 14250.0
+                },
+                {
+                    "name": "Hotel One Swat",
+                    "price": 13770.0
+                },
+                {
+                    "name": "Emerald Villa Swat by Khan Familia",
+                    "price": 83106.0
+                },
+                {
+                    "name": "Eagle Nest, Malam Jabba by LMC",
+                    "price": 19799.0
+                },
+                {
+                    "name": "Swat Hilton Guest House by Khan Familia",
+                    "price": 35438.0
+                },
+                {
+                    "name": "The Corporate Lodges Hotel",
+                    "price": 30000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Karachi",
+        "region": "Sindh",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Hotel Aladin In Karachi",
+                    "price": 2583.0
+                },
+                {
+                    "name": "Airport Guest House - JIA",
+                    "price": 3200.0
+                },
+                {
+                    "name": "Karachi Motel Guest House",
+                    "price": 3605.0
+                },
+                {
+                    "name": "Gulshan Guest House Gulberg Town",
+                    "price": 3500.0
+                },
+                {
+                    "name": "Karachi Guest House University Rd",
+                    "price": 4860.0
+                },
+                {
+                    "name": "Hotel Bilal",
+                    "price": 3200.0
+                },
+                {
+                    "name": "Diamond Apart's Dha Karachi",
+                    "price": 4769.0
+                },
+                {
+                    "name": "HostHub Guest House Gulshan iqbal",
+                    "price": 4500.0
+                },
+                {
+                    "name": "Dubai Guest House Karachi",
+                    "price": 3059.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "White Rose BnB Family - Near Millennium Mall - Airport - National Stadium",
+                    "price": 8999.0
+                },
+                {
+                    "name": "Sunset Suites",
+                    "price": 9453.0
+                },
+                {
+                    "name": "Four Squares by WI Hotel",
+                    "price": 7499.0
+                },
+                {
+                    "name": "Couple Friendly Guest House",
+                    "price": 6800.0
+                },
+                {
+                    "name": "Elegant Penthouse Rooms Gulistan E Joher Blk 14",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Daimand apartment",
+                    "price": 8400.0
+                },
+                {
+                    "name": "Palace inn Guest House",
+                    "price": 5850.0
+                },
+                {
+                    "name": "Elegant Guest House Karachi",
+                    "price": 6300.0
+                },
+                {
+                    "name": "Diplomat Inn Hotel",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Diamond Lodge",
+                    "price": 7199.0
+                },
+                {
+                    "name": "Hotel Seven 7",
+                    "price": 9822.0
+                },
+                {
+                    "name": "Hill view Guest House - Family Hotel at Prime location, all facilities are available in surrounding",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Hotel 7 DHA",
+                    "price": 7600.0
+                },
+                {
+                    "name": "Al Makkah Hotel",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Rosewood cottage",
+                    "price": 5525.0
+                },
+                {
+                    "name": "Hotel island Clifton",
+                    "price": 7650.0
+                },
+                {
+                    "name": "Karachi Guest House",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Hotel Royal Residency",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Sea View Suites",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Orchid Inn by WI Hotel",
+                    "price": 7599.0
+                },
+                {
+                    "name": "Seaview Lodge Guest House",
+                    "price": 8930.0
+                },
+                {
+                    "name": "Hotel Crown Inn",
+                    "price": 9358.0
+                },
+                {
+                    "name": "Hotel Heavenly Stays",
+                    "price": 11340.0
+                },
+                {
+                    "name": "Sukoon Stay Aga Khan Ke Qareeb",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Stay Inn Guest House",
+                    "price": 5400.0
+                },
+                {
+                    "name": "Hotel StayInn - Airport Branch Karachi",
+                    "price": 8699.0
+                },
+                {
+                    "name": "Beach View Service Apartments Karachi",
+                    "price": 9900.0
+                },
+                {
+                    "name": "Elet Business Hotel",
+                    "price": 8500.0
+                },
+                {
+                    "name": "SUBHAN PALACE Near Millennium Mall karachi",
+                    "price": 6500.0
+                },
+                {
+                    "name": "The Karachi Stays",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Tulip Hotel",
+                    "price": 10000.0
+                },
+                {
+                    "name": "GOHO Rooms Badar",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Airport Hotel Bed & Rest",
+                    "price": 6877.0
+                },
+                {
+                    "name": "Cozy Lavish and affordable",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Charming Home banglow",
+                    "price": 9975.0
+                },
+                {
+                    "name": "Cozy 2-Bed Portion at Gulshan Iqbal blk 7",
+                    "price": 8700.0
+                },
+                {
+                    "name": "Beachfront Studios by Virani",
+                    "price": 10500.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Khoj Resorts Allana",
+                    "price": 65000.0
+                },
+                {
+                    "name": "Mövenpick Hotel Karachi",
+                    "price": 53532.0
+                },
+                {
+                    "name": "Beach Luxury Hotel",
+                    "price": 29719.0
+                },
+                {
+                    "name": "LOKAL Flagship x Karachi - DHA",
+                    "price": 25019.0
+                },
+                {
+                    "name": "Mehran Hotel Karachi",
+                    "price": 19350.0
+                },
+                {
+                    "name": "Pearl Continental Hotel, Karachi",
+                    "price": 44342.0
+                },
+                {
+                    "name": "Diplomat Fort Boutique Hotel",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Karachi Marriott Hotel",
+                    "price": 64802.0
+                },
+                {
+                    "name": "Hotel Pearl Inn",
+                    "price": 15000.0
+                },
+                {
+                    "name": "Royal Inn Hotel",
+                    "price": 14857.0
+                },
+                {
+                    "name": "Ramada Plaza by Wyndham Karachi Airport Hotel",
+                    "price": 36267.0
+                },
+                {
+                    "name": "LOKAL Rooms x Shahrah-e-Faisal (Nursery)",
+                    "price": 20499.0
+                },
+                {
+                    "name": "Ramada by Wyndham Karachi Creek",
+                    "price": 46489.0
+                },
+                {
+                    "name": "Elevé Villa",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Furnished luxury Vacation Apartment in DHA Phase 8",
+                    "price": 16720.0
+                },
+                {
+                    "name": "Dreamworld Resort, Hotel & Golf Course",
+                    "price": 28500.0
+                },
+                {
+                    "name": "Lux 2BR, 9th Floor, Walk to Mall & Clifton Beach",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Hotel Galaxy",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Service Apartment by World Inn",
+                    "price": 12599.0
+                },
+                {
+                    "name": "Harmony Haven Cozy 1 BR Getaway with Ac Wifi Tv",
+                    "price": 13000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Lahore",
+        "region": "Punjab",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Rose Palace Hotel, Liberty",
+                    "price": 3825.0
+                },
+                {
+                    "name": "Shanze Hotel And Suites",
+                    "price": 4500.0
+                },
+                {
+                    "name": "City View Hotel & Restaurant",
+                    "price": 4950.0
+                },
+                {
+                    "name": "Hotel Rose Inn Lahore",
+                    "price": 4050.0
+                },
+                {
+                    "name": "Hotel Tourist Inn Lahore",
+                    "price": 4617.0
+                },
+                {
+                    "name": "Dove inn Hotel near Shaukat Khanum Hospital",
+                    "price": 3920.0
+                },
+                {
+                    "name": "Pakeeza Hotel - Faisal Town",
+                    "price": 4000.0
+                },
+                {
+                    "name": "National Hotel",
+                    "price": 4973.0
+                },
+                {
+                    "name": "Grand Inn Hotel Lahore",
+                    "price": 4641.0
+                },
+                {
+                    "name": "Al Warda Hotel",
+                    "price": 3879.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "House in lahore",
+                    "price": 5985.0
+                },
+                {
+                    "name": "Luxus Gold Villa DHA Near Airport & Raya",
+                    "price": 5950.0
+                },
+                {
+                    "name": "Shelton Boulevard Hotel Lahore",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Gulberg Inn Hotel Lahore",
+                    "price": 8114.0
+                },
+                {
+                    "name": "Royal Villa's DHA",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Panoramic Hotel Lahore",
+                    "price": 7288.0
+                },
+                {
+                    "name": "1bhk luxurious apartment",
+                    "price": 6375.0
+                },
+                {
+                    "name": "Premier in Holidays home",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Oasis Suits DHA",
+                    "price": 7125.0
+                },
+                {
+                    "name": "The Rich Hotel & Apartments",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Park View Hotel Gulberg",
+                    "price": 6334.0
+                },
+                {
+                    "name": "Green Land Hotel Lahore",
+                    "price": 5387.0
+                },
+                {
+                    "name": "Dove Inn Hotel wahdat road",
+                    "price": 5471.0
+                },
+                {
+                    "name": "Hotel Tulip Inn",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Golden One Hotel",
+                    "price": 9500.0
+                },
+                {
+                    "name": "Hotel Breezy Lahore",
+                    "price": 8010.0
+                },
+                {
+                    "name": "Lahore Guest House 4'9",
+                    "price": 5670.0
+                },
+                {
+                    "name": "Shelton Hotel Lahore",
+                    "price": 7600.0
+                },
+                {
+                    "name": "Hayyat Luxury Hotel Suites",
+                    "price": 9315.0
+                },
+                {
+                    "name": "Hotel Green Fort Gulberg",
+                    "price": 6840.0
+                },
+                {
+                    "name": "AL Fateh Hotel",
+                    "price": 6500.0
+                },
+                {
+                    "name": "pavillian luxury suites",
+                    "price": 7225.0
+                },
+                {
+                    "name": "Hotel Prime Lahore",
+                    "price": 6650.0
+                },
+                {
+                    "name": "Premier Inn Express Gulberg Lahore",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Gold Pine Hotel Lahore",
+                    "price": 10379.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Aurum Heights Gateway Prestige Luxury Apartments - Gulberg Lahore",
+                    "price": 15120.0
+                },
+                {
+                    "name": "Defence Raya Golf & Country Club",
+                    "price": 30000.0
+                },
+                {
+                    "name": "Luxury comfort home",
+                    "price": 15000.0
+                },
+                {
+                    "name": "Spacious 3 Bedroom Furnished Family Home near Valencia Town, Lake City & Ring Road",
+                    "price": 12529.0
+                },
+                {
+                    "name": "Hotel One The Mall, Lahore",
+                    "price": 17550.0
+                },
+                {
+                    "name": "Faletti’s Grand MM Alam Road",
+                    "price": 16999.0
+                },
+                {
+                    "name": "The LC Hotel",
+                    "price": 17750.0
+                },
+                {
+                    "name": "Goldcrest Signature Stays - DHA Lahore Phase 4",
+                    "price": 22964.0
+                },
+                {
+                    "name": "Gold Crest Premium Apartments DHA Lahore",
+                    "price": 22950.0
+                },
+                {
+                    "name": "Palm tree suites",
+                    "price": 13000.0
+                },
+                {
+                    "name": "Goldcrest Luxe Living - 5 Star Serviced Apartments, DHA Lahore",
+                    "price": 20250.0
+                },
+                {
+                    "name": "Hotel One Tower Gulberg, Lahore",
+                    "price": 15570.0
+                },
+                {
+                    "name": "Ramada by Wyndham Lahore Gulberg II",
+                    "price": 34000.0
+                },
+                {
+                    "name": "Nine Tree Luxury Hotel & Suites Lahore",
+                    "price": 18449.0
+                },
+                {
+                    "name": "Executive Stay at Gold Crest - Furnished 2-Bedroom Suites in DHA Lahore",
+                    "price": 24932.0
+                },
+                {
+                    "name": "Hotel Nova",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Gold Crest Executive Apartments In DHA Lahore By SHR",
+                    "price": 20995.0
+                },
+                {
+                    "name": "Four Points by Sheraton Lahore",
+                    "price": 26766.0
+                },
+                {
+                    "name": "Avari Xpress Gulberg",
+                    "price": 20004.0
+                },
+                {
+                    "name": "Premium Penta Square Apartments In the Heart of DHA Phase Four - Lahore",
+                    "price": 25515.0
+                },
+                {
+                    "name": "Pearl Continental Hotel, Lahore",
+                    "price": 28144.0
+                },
+                {
+                    "name": "Penta Square Serviced Apartments For Families - DHA Lahore",
+                    "price": 21651.0
+                },
+                {
+                    "name": "GC Prestige Premium Family Apartments DHA Lahore",
+                    "price": 20250.0
+                },
+                {
+                    "name": "Starlit By Zameen Opal",
+                    "price": 19800.0
+                },
+                {
+                    "name": "Airreside Gulberg Retreat at Zameen Aurum",
+                    "price": 23400.0
+                },
+                {
+                    "name": "Ambiance Boutique Art Hotel Lahore",
+                    "price": 28688.0
+                },
+                {
+                    "name": "Penta Square Luxe Apartments In Phase Four - DHA Lahore",
+                    "price": 26730.0
+                },
+                {
+                    "name": "Luxury Apartment in DHA Phase 8, Near Allama Iqbal International Airport",
+                    "price": 12825.0
+                },
+                {
+                    "name": "Studio - penta sqaure defence",
+                    "price": 20981.0
+                },
+                {
+                    "name": "Gulberg Suites",
+                    "price": 17500.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Mingora",
+        "region": "Khyber Pakhtunkhwa",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Stay Inn Hotel",
+                    "price": 3000.0
+                },
+                {
+                    "name": "Peace Hotel Fizagat, Swat",
+                    "price": 3500.0
+                },
+                {
+                    "name": "Super luxury apartments",
+                    "price": 4485.0
+                },
+                {
+                    "name": "Peace Hotel Fizagat, Swat",
+                    "price": 3500.0
+                },
+                {
+                    "name": "4 Season Hotel and suites Malam Jabba",
+                    "price": 3000.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Rock City Resort",
+                    "price": 9500.0
+                },
+                {
+                    "name": "SWAT GUEST HOUSE",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Ali contry club & resort",
+                    "price": 6500.0
+                },
+                {
+                    "name": "SWAT HOTEL",
+                    "price": 6500.0
+                },
+                {
+                    "name": "PC Green Hotel, Mahandri, Kaghan",
+                    "price": 9999.0
+                },
+                {
+                    "name": "four star hotel and rest",
+                    "price": 5419.0
+                },
+                {
+                    "name": "FR Darya E Swat Hotel",
+                    "price": 5499.0
+                },
+                {
+                    "name": "SWAT HiLL ViEW RESORT-only for families",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Abeer Hotel Swat by Khan Familia",
+                    "price": 7199.0
+                },
+                {
+                    "name": "Swat hilltop resort",
+                    "price": 8400.0
+                },
+                {
+                    "name": "Suvastu Resort Swat by Khan Familia",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Swat Hilton Hotel by Khan Familia",
+                    "price": 8322.0
+                },
+                {
+                    "name": "Royal Lodge Swat by Khan Familia",
+                    "price": 10530.0
+                },
+                {
+                    "name": "Hotel Swat Rezidor by Khan Familia",
+                    "price": 7989.0
+                },
+                {
+                    "name": "city star hotel",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Riverside Hotel",
+                    "price": 11499.0
+                },
+                {
+                    "name": "SPTC Hotel Resort",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Hilton Resort Malamjabba by Khan Familia",
+                    "price": 7662.0
+                },
+                {
+                    "name": "Hotel Malamjabba Palace by Khan Familia",
+                    "price": 7106.0
+                },
+                {
+                    "name": "Snow valley hotel and restaurant",
+                    "price": 10000.0
+                },
+                {
+                    "name": "The Corporate Lodges Hotel by Khan Familia",
+                    "price": 11518.0
+                },
+                {
+                    "name": "Hazara Hotel and Restaurant",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Three Star Hotel & Restaurent Malam jabba swat",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Sunshine Hotel & Restaurant",
+                    "price": 11499.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Astoria Hill Resort",
+                    "price": 17500.0
+                },
+                {
+                    "name": "Pameer Hotel Mingora",
+                    "price": 16000.0
+                },
+                {
+                    "name": "Rock City Resort",
+                    "price": 16499.0
+                },
+                {
+                    "name": "Swat Inn Hotel",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Gilgit Hunza Hotel",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Swat Palace Hotel By Northin",
+                    "price": 14500.0
+                },
+                {
+                    "name": "Shelton Rezidor Swat",
+                    "price": 12599.0
+                },
+                {
+                    "name": "Swat Serena Hotel",
+                    "price": 26963.0
+                },
+                {
+                    "name": "Hotel One Swat",
+                    "price": 13770.0
+                },
+                {
+                    "name": "Rock City Resort",
+                    "price": 15000.0
+                },
+                {
+                    "name": "Burj Al Swat Hotel",
+                    "price": 16020.0
+                },
+                {
+                    "name": "Emerald Villa Swat by Khan Familia",
+                    "price": 83106.0
+                },
+                {
+                    "name": "Emerald Villa Swat",
+                    "price": 75000.0
+                },
+                {
+                    "name": "Swat Hilton Guest House by Khan Familia",
+                    "price": 50625.0
+                },
+                {
+                    "name": "The Corporate Lodges Hotel",
+                    "price": 30000.0
+                },
+                {
+                    "name": "Pearl Continental Hotel Malam Jabba",
+                    "price": 33810.0
+                },
+                {
+                    "name": "Eagle Nest, Malam Jabba by LMC",
+                    "price": 19799.0
+                },
+                {
+                    "name": "Happy Heart Hotel & Restaurant",
+                    "price": 13499.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Multan",
+        "region": "Punjab",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Hotel PAK Continental Multan",
+                    "price": 3949.0
+                },
+                {
+                    "name": "The Grand Hotel Multan",
+                    "price": 3600.0
+                },
+                {
+                    "name": "Hotel Multan Continental",
+                    "price": 3969.0
+                },
+                {
+                    "name": "Al Qadir Residence",
+                    "price": 1760.0
+                },
+                {
+                    "name": "Hotel Royal Luxury Multan",
+                    "price": 4530.0
+                },
+                {
+                    "name": "Hotel Serena Palace",
+                    "price": 4066.0
+                },
+                {
+                    "name": "Hotels Inn Multan Laxen Inn Multan Hotels Pakistan",
+                    "price": 2790.0
+                },
+                {
+                    "name": "Hotel Royal Star",
+                    "price": 4500.0
+                },
+                {
+                    "name": "Hotel Grand Stay",
+                    "price": 3899.0
+                },
+                {
+                    "name": "Hotel Pace Inn",
+                    "price": 4212.0
+                },
+                {
+                    "name": "Motel Ambassador Multan",
+                    "price": 4050.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Grand Luxury Hotel Multan",
+                    "price": 5670.0
+                },
+                {
+                    "name": "Bling International Hotel Multan",
+                    "price": 6750.0
+                },
+                {
+                    "name": "Hotel PAK Continentall Multan",
+                    "price": 5265.0
+                },
+                {
+                    "name": "The Sapphire Suites",
+                    "price": 7650.0
+                },
+                {
+                    "name": "The Signature Hotel Multan",
+                    "price": 9450.0
+                },
+                {
+                    "name": "Grand Shalimar Hotel",
+                    "price": 11250.0
+                },
+                {
+                    "name": "Five Monts Hotel",
+                    "price": 5130.0
+                },
+                {
+                    "name": "Elegant Executive Suite",
+                    "price": 9000.0
+                },
+                {
+                    "name": "City Centre Suites",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Hotel New Mid City Multan",
+                    "price": 5850.0
+                },
+                {
+                    "name": "Enjoy a Cozy, Peaceful Space with Self Check-In",
+                    "price": 8208.0
+                },
+                {
+                    "name": "Hotel De Smart Multan",
+                    "price": 5387.0
+                },
+                {
+                    "name": "Fiesta Inn Hotel & Resorts Multan",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Hotel A-One",
+                    "price": 5400.0
+                },
+                {
+                    "name": "The King Hotel",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Kami House",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Kami Home",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Lovely 1 Bedroom Furnished Apartments",
+                    "price": 8550.0
+                },
+                {
+                    "name": "Cozy and Peaceful 2 Bedroom Luxury Apartment",
+                    "price": 6400.0
+                },
+                {
+                    "name": "Hotel Roomi Rezidor Multan",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Hotel the Lodges inn",
+                    "price": 5850.0
+                },
+                {
+                    "name": "Executive Residency",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Hotel Grace Inn Multan",
+                    "price": 6075.0
+                },
+                {
+                    "name": "Aimys Villa Guest House",
+                    "price": 10499.0
+                },
+                {
+                    "name": "Disco Seller Spirit",
+                    "price": 8322.0
+                },
+                {
+                    "name": "Hotel The Edition Multan",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Urban Nest",
+                    "price": 5488.0
+                },
+                {
+                    "name": "Shelton Royal Hotel",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Hotel A S R Lounge Multan",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Executive Stay in Multan",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Studio Apartment Buch Villas Multan",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Full Furnished Villa in Multan",
+                    "price": 11520.0
+                },
+                {
+                    "name": "New Era Guest House And Hotel",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Multan Hotel Accommodation",
+                    "price": 8100.0
+                },
+                {
+                    "name": "Hotel Grace One",
+                    "price": 11000.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Ramada by Wyndham Multan",
+                    "price": 21596.0
+                },
+                {
+                    "name": "The Belmorris",
+                    "price": 17100.0
+                },
+                {
+                    "name": "Rumanza by Pearl Continental",
+                    "price": 27541.0
+                },
+                {
+                    "name": "Hotel One Tariq Road Multan",
+                    "price": 18900.0
+                },
+                {
+                    "name": "Hotel One Lalazar Multan",
+                    "price": 14850.0
+                },
+                {
+                    "name": "S Chalet Multan",
+                    "price": 17219.0
+                },
+                {
+                    "name": "Avari Xpress Multan",
+                    "price": 28175.0
+                },
+                {
+                    "name": "Avari Boutique Multan",
+                    "price": 30147.0
+                },
+                {
+                    "name": "BBS Luxury Appartment",
+                    "price": 17600.0
+                },
+                {
+                    "name": "ASNB Residence",
+                    "price": 23800.0
+                },
+                {
+                    "name": "Luxury Condo in Central Multan with Self Check-In",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Hotel B R Lounge",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Luxury Room In Buch Villa",
+                    "price": 13600.0
+                },
+                {
+                    "name": "ROM Modern Villa",
+                    "price": 13600.0
+                },
+                {
+                    "name": "Hotel in Multan",
+                    "price": 14000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Murree",
+        "region": "Punjab",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Malika Kohsar Hotel Murree",
+                    "price": 1446.0
+                },
+                {
+                    "name": "Malika Kohsar Hotel Murree",
+                    "price": 1134.0
+                },
+                {
+                    "name": "Kashmir Continental Hotel Murree",
+                    "price": 1800.0
+                },
+                {
+                    "name": "Malika Kohsar Hotel Murree",
+                    "price": 1021.0
+                },
+                {
+                    "name": "Tabash Hotel, Murree",
+                    "price": 4499.0
+                },
+                {
+                    "name": "Pleasant View Murree",
+                    "price": 2975.0
+                },
+                {
+                    "name": "Murree Oaks Tulip Block",
+                    "price": 3500.0
+                },
+                {
+                    "name": "7K Heights",
+                    "price": 3000.0
+                },
+                {
+                    "name": "Murree hotel apparments",
+                    "price": 4950.0
+                },
+                {
+                    "name": "Home land resort",
+                    "price": 4000.0
+                },
+                {
+                    "name": "Murree oaks apartments",
+                    "price": 3060.0
+                },
+                {
+                    "name": "Dunleigh Apartments Murree",
+                    "price": 4950.0
+                },
+                {
+                    "name": "Galaxy Apartments",
+                    "price": 4000.0
+                },
+                {
+                    "name": "BHURBAN VIEW Apartments Murree",
+                    "price": 4095.0
+                },
+                {
+                    "name": "Rashk e Qamar",
+                    "price": 3000.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "GrandTaj",
+                    "price": 5031.0
+                },
+                {
+                    "name": "Hotel Summer Palace Murree",
+                    "price": 7500.0
+                },
+                {
+                    "name": "Country Homes Murree by Safari Club Bahria Town",
+                    "price": 10000.0
+                },
+                {
+                    "name": "The Hermitage Cottage-Exclusive Mountain Escape",
+                    "price": 9900.0
+                },
+                {
+                    "name": "Sarah's Lodge",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Cozy Furnished 1-Bed Apt",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Shaiz Apartments Bhurban, Murree",
+                    "price": 11718.0
+                },
+                {
+                    "name": "Midway",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Pine Top Hotel Murree",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Shagufta Hotel Murree",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Elegant Retreat 102 Studio Apartment",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Max Hotel Murree",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Galiyaat View By AlFateh Hotel",
+                    "price": 5350.0
+                },
+                {
+                    "name": "Mall View Residency Kashmir Point",
+                    "price": 6666.0
+                },
+                {
+                    "name": "Pinesines Funduq",
+                    "price": 6222.0
+                },
+                {
+                    "name": "LEVEL FIVE ZERO",
+                    "price": 5400.0
+                },
+                {
+                    "name": "Mehboob international hotel murree",
+                    "price": 9499.0
+                },
+                {
+                    "name": "BRIGHTLANDS HOTEL",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Sweet condo 4U",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Mussiaree Hotel",
+                    "price": 7700.0
+                },
+                {
+                    "name": "Dolphin Lodge",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Murree, 1 bedroom apartment Cedar Hills",
+                    "price": 10260.0
+                },
+                {
+                    "name": "LORDS HOTEL PINDI POINT MURREE",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Serene Apartments",
+                    "price": 7740.0
+                },
+                {
+                    "name": "Heaven Stay",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Roof Top Resort",
+                    "price": 10800.0
+                },
+                {
+                    "name": "Shaiz Luxe Apartments Bhurban Murree",
+                    "price": 10080.0
+                },
+                {
+                    "name": "Coozy corner AAS HOSTS MUREE",
+                    "price": 7800.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "LOKAL Rooms x Murree Kashmir Point",
+                    "price": 16379.0
+                },
+                {
+                    "name": "The Roomy Lodge, Murree",
+                    "price": 17600.0
+                },
+                {
+                    "name": "Maisonette Firhill Hotel & Resort",
+                    "price": 18400.0
+                },
+                {
+                    "name": "VivaPines, Murree",
+                    "price": 17900.0
+                },
+                {
+                    "name": "Destination Hotel Murree",
+                    "price": 12780.0
+                },
+                {
+                    "name": "Falettis Grand Hotel Murree",
+                    "price": 16000.0
+                },
+                {
+                    "name": "The Vibe By Ambiance",
+                    "price": 17100.0
+                },
+                {
+                    "name": "Cecil by Pearl Continental",
+                    "price": 17000.0
+                },
+                {
+                    "name": "Ramada by Wyndham Murree Lower Topa Resort",
+                    "price": 38000.0
+                },
+                {
+                    "name": "Metropole Hotel",
+                    "price": 14500.0
+                },
+                {
+                    "name": "Himalaya Villas 2 bedroom suite",
+                    "price": 35000.0
+                },
+                {
+                    "name": "Hotel One Bhurban",
+                    "price": 16000.0
+                },
+                {
+                    "name": "SUPERHOST Apartments - Near GPO & Mall Road",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Hamdan Hotel and Resort",
+                    "price": 14999.0
+                },
+                {
+                    "name": "Hotel One Mall Road Murree",
+                    "price": 16000.0
+                },
+                {
+                    "name": "The Khushi Hotel And Resorts",
+                    "price": 20499.0
+                },
+                {
+                    "name": "Rashha Suites Jhika Gali Murree",
+                    "price": 21150.0
+                },
+                {
+                    "name": "Go Glam Hotel Murree",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Khattak Lodges Murree",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Bhurban Luxury Suites",
+                    "price": 12500.0
+                },
+                {
+                    "name": "Grand Heights Hotel",
+                    "price": 14816.0
+                },
+                {
+                    "name": "ORTUS Murree 2",
+                    "price": 15000.0
+                },
+                {
+                    "name": "Stayzen Murree",
+                    "price": 12800.0
+                },
+                {
+                    "name": "Holiday Apartments",
+                    "price": 14500.0
+                },
+                {
+                    "name": "2 Bed Royal",
+                    "price": 25200.0
+                },
+                {
+                    "name": "Lè Nest Residences",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Himalayan View Pent House",
+                    "price": 16875.0
+                },
+                {
+                    "name": "Ahmed Suites",
+                    "price": 27000.0
+                },
+                {
+                    "name": "Luxury Cottage Bhurban Fully Equipped",
+                    "price": 14535.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Muzaffarabad",
+        "region": "Azad Jammu & Kashmir",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Shalimar Hotel",
+                    "price": 4000.0
+                },
+                {
+                    "name": "The lodge Guest House",
+                    "price": 3999.0
+                },
+                {
+                    "name": "Paradise Lodges Muzaffarabad",
+                    "price": 3600.0
+                },
+                {
+                    "name": "Bridge Residency",
+                    "price": 3600.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Srinagar Homes",
+                    "price": 8450.0
+                },
+                {
+                    "name": "Muzaffarabad View Motel",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Mir Continental Hotel & Restaurant",
+                    "price": 6500.0
+                },
+                {
+                    "name": "New Kashmir Heaven",
+                    "price": 6349.0
+                },
+                {
+                    "name": "Royal Continental Hotel Gojra",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Outdoor Adventures Resort Muzaffarabad",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Families Only! Eagle Nest Cottage Muzaffarabad by LMC",
+                    "price": 5499.0
+                },
+                {
+                    "name": "City View",
+                    "price": 5100.0
+                },
+                {
+                    "name": "The calm corner",
+                    "price": 8160.0
+                },
+                {
+                    "name": "Sky resort ajk patikka",
+                    "price": 6885.0
+                },
+                {
+                    "name": "Private Retreat",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Farooq Hotel",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Hotel Crown City",
+                    "price": 10499.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Pearl Continental Hotel, Muzaffarabad",
+                    "price": 28175.0
+                },
+                {
+                    "name": "The Mountain Retreat, Muzaffarabad - Families Only",
+                    "price": 24000.0
+                },
+                {
+                    "name": "Munawar Residence",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Munawar Illuminated Brilliance",
+                    "price": 22400.0
+                },
+                {
+                    "name": "Leading Continental Hotel - Muzaffarabad AJK",
+                    "price": 30000.0
+                },
+                {
+                    "name": "Adults Only! Kashmir Eagle Heights Cottage & Restaurant by LMC",
+                    "price": 30300.0
+                },
+                {
+                    "name": "Outdoor Adventures Camp Pirchanasi",
+                    "price": 45000.0
+                },
+                {
+                    "name": "Eagles Nest Muzaffarabad",
+                    "price": 29700.0
+                },
+                {
+                    "name": "River Vibes Guest House",
+                    "price": 12499.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Neelum_Valley",
+        "region": "Azad Jammu & Kashmir",
+        "hotels": {
+            "low": [
+                {
+                    "name": "New Salfie Tayyba Hotel and Guest House",
+                    "price": 2160.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Wyndham Heritage Hotel & Resort Sharda",
+                    "price": 6300.0
+                },
+                {
+                    "name": "Wanderlust Chapter 1",
+                    "price": 11000.0
+                },
+                {
+                    "name": "The Village Resort Arang Kel",
+                    "price": 9720.0
+                },
+                {
+                    "name": "Lime wood",
+                    "price": 11199.0
+                },
+                {
+                    "name": "7 Heavens Guest House & Restaurant Kel Neelum valley",
+                    "price": 5500.0
+                },
+                {
+                    "name": "Markhor Resort Sharda",
+                    "price": 5419.0
+                },
+                {
+                    "name": "Graystone lodges",
+                    "price": 6500.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Riverside Challets Sharda",
+                    "price": 25500.0
+                },
+                {
+                    "name": "3Dots Resort",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Roameo Resorts",
+                    "price": 50000.0
+                },
+                {
+                    "name": "Wanderlust Chapter 2",
+                    "price": 24000.0
+                },
+                {
+                    "name": "Travelers choice resort Sharda",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Popeyes Guest House",
+                    "price": 12499.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Peshawar",
+        "region": "Khyber Pakhtunkhwa",
+        "hotels": {
+            "low": [],
+            "mid": [
+                {
+                    "name": "Destination Heritage Peshawar",
+                    "price": 11700.0
+                },
+                {
+                    "name": "Hotel City View Peshawar",
+                    "price": 8800.0
+                },
+                {
+                    "name": "Shelton Rezidor House Peshawar",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Entire Home in Peshawar Gulbahar 3",
+                    "price": 8400.0
+                },
+                {
+                    "name": "Entire Home in Peshawar Gulbahar",
+                    "price": 9450.0
+                },
+                {
+                    "name": "The nexus Hotel Apartments",
+                    "price": 9900.0
+                },
+                {
+                    "name": "Askari Gold Crest",
+                    "price": 6840.0
+                },
+                {
+                    "name": "SSClub Hotel Peshawar",
+                    "price": 7500.0
+                },
+                {
+                    "name": "Smasaas Abode",
+                    "price": 9450.0
+                },
+                {
+                    "name": "Amal's Abode",
+                    "price": 10000.0
+                },
+                {
+                    "name": "VIP Express",
+                    "price": 10000.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Peshawar Serena Hotel",
+                    "price": 25357.0
+                },
+                {
+                    "name": "Shelton's Rezidor Peshawar",
+                    "price": 12600.0
+                },
+                {
+                    "name": "Shelton Legacy Peshawar",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Hotel Tourmaline Peshawar",
+                    "price": 13340.0
+                },
+                {
+                    "name": "Tom's Luxury Hotel",
+                    "price": 20000.0
+                },
+                {
+                    "name": "KMU Guest House",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Luxurious Haven In Hayatabad",
+                    "price": 17990.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Quetta",
+        "region": "Balochistan",
+        "hotels": {
+            "low": [
+                {
+                    "name": "vista guest house",
+                    "price": 4950.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "White Hotel",
+                    "price": 8000.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Rehan Hotel",
+                    "price": 12499.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Ratti_Gali",
+        "region": "Azad Jammu & Kashmir",
+        "hotels": {
+            "low": [
+                {
+                    "name": "New Salfie Tayyba Hotel and Guest House",
+                    "price": 2160.0
+                },
+                {
+                    "name": "Rivi inn hotel",
+                    "price": 4800.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Wyndham Heritage Hotel & Resort Sharda",
+                    "price": 6300.0
+                },
+                {
+                    "name": "Ravi inn hotel",
+                    "price": 5400.0
+                },
+                {
+                    "name": "Markhor Resort Sharda",
+                    "price": 5419.0
+                },
+                {
+                    "name": "Habib Green Cottage",
+                    "price": 5100.0
+                },
+                {
+                    "name": "Eagle Resort Hotel and Restaurant",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Graystone lodges",
+                    "price": 6500.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Riverside Challets Sharda",
+                    "price": 25500.0
+                },
+                {
+                    "name": "Keran Retreat",
+                    "price": 12000.0
+                },
+                {
+                    "name": "The Adventurers Resort",
+                    "price": 35200.0
+                },
+                {
+                    "name": "Neelum Valley Hotel",
+                    "price": 12499.0
+                },
+                {
+                    "name": "Roameo Resorts",
+                    "price": 50000.0
+                },
+                {
+                    "name": "Travelers choice resort Sharda",
+                    "price": 18000.0
+                },
+                {
+                    "name": "Northridge by Roomy, Batakundi",
+                    "price": 20000.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Rawalpindi",
+        "region": "Islamabad Capital Territory",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Moonlight Guest House",
+                    "price": 4374.0
+                },
+                {
+                    "name": "Al Sakhawat Hotel",
+                    "price": 2000.0
+                },
+                {
+                    "name": "Citymax Hotel",
+                    "price": 2800.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Northern Suites Bahria town",
+                    "price": 10400.0
+                },
+                {
+                    "name": "GreenLux Residency",
+                    "price": 6650.0
+                },
+                {
+                    "name": "Safari Club 4",
+                    "price": 11000.0
+                },
+                {
+                    "name": "Pine Apartments Civic center bahria town Islamabad",
+                    "price": 10400.0
+                },
+                {
+                    "name": "Luxurious Landing Apartments & Suites Bahria Town",
+                    "price": 7629.0
+                },
+                {
+                    "name": "Comfortable Apartment Bahria town Rawalpindi",
+                    "price": 5067.0
+                },
+                {
+                    "name": "OSMA Living Islamabad",
+                    "price": 8550.0
+                },
+                {
+                    "name": "Firefly Retreat-your home away from home",
+                    "price": 7650.0
+                },
+                {
+                    "name": "Safari Club 3 Bahria Town",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Hotel Daffodils",
+                    "price": 5400.0
+                },
+                {
+                    "name": "Space Express",
+                    "price": 7979.0
+                },
+                {
+                    "name": "Luxury Guest House in Bahria Town",
+                    "price": 5550.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Pavilion Suites - Premium ApartHotel in Bahria Town",
+                    "price": 17595.0
+                },
+                {
+                    "name": "Pearl Continental Hotel, Rawalpindi",
+                    "price": 38369.0
+                },
+                {
+                    "name": "Holidazzle Serviced Apartments Bahria Town",
+                    "price": 13600.0
+                },
+                {
+                    "name": "De-Meridian Luxury Apartments",
+                    "price": 13320.0
+                },
+                {
+                    "name": "The Millenial Apartments & Suites Bahria Town",
+                    "price": 14050.0
+                },
+                {
+                    "name": "Royal Reside by StayMehman",
+                    "price": 21600.0
+                },
+                {
+                    "name": "SPACE Luxury Rental Suites",
+                    "price": 12150.0
+                },
+                {
+                    "name": "Regal Suite by StayMehman",
+                    "price": 22050.0
+                },
+                {
+                    "name": "The Radiant Residence Phase 3 Bahria Town",
+                    "price": 51566.0
+                },
+                {
+                    "name": "Executive 3 Bedrooms Apartment In Bahria Town",
+                    "price": 54989.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Sharda",
+        "region": "Azad Jammu & Kashmir",
+        "hotels": {
+            "low": [],
+            "mid": [],
+            "high": [
+                {
+                    "name": "Sa Branda Costa Country Alghero",
+                    "price": 34503.0
+                },
+                {
+                    "name": "Bonsai B&B Alghero",
+                    "price": 22017.0
+                },
+                {
+                    "name": "Sardinia Guest House - Adults Only",
+                    "price": 40116.0
+                },
+                {
+                    "name": "B&B La Casa Bianca di Porto Conte",
+                    "price": 40622.0
+                },
+                {
+                    "name": "Garden Hotel Alghero",
+                    "price": 17449.0
+                },
+                {
+                    "name": "Noa affittacamere",
+                    "price": 26453.0
+                },
+                {
+                    "name": "Aria di campagna",
+                    "price": 15970.0
+                },
+                {
+                    "name": "Casa Bea",
+                    "price": 202289.0
+                },
+                {
+                    "name": "Alguer holiday rooms",
+                    "price": 41404.0
+                },
+                {
+                    "name": "Casa Alda-A due passi dal centro",
+                    "price": 26288.0
+                },
+                {
+                    "name": "Loft le Pavoncelle",
+                    "price": 32624.0
+                },
+                {
+                    "name": "El Faro Hotel & Spa",
+                    "price": 53234.0
+                },
+                {
+                    "name": "Leolù Guesthouse Alghero",
+                    "price": 29246.0
+                },
+                {
+                    "name": "Palazzo Bolasco",
+                    "price": 29574.0
+                },
+                {
+                    "name": "Coro & Bentu",
+                    "price": 18402.0
+                },
+                {
+                    "name": "Seaside Holidays Guest House",
+                    "price": 28096.0
+                },
+                {
+                    "name": "Maze Guest House",
+                    "price": 28917.0
+                },
+                {
+                    "name": "MARIS Apartments & Bedrooms",
+                    "price": 19716.0
+                },
+                {
+                    "name": "Alghero Budget",
+                    "price": 12816.0
+                },
+                {
+                    "name": "Domàtio Melissa Summer",
+                    "price": 36278.0
+                },
+                {
+                    "name": "Hotel Fertilia",
+                    "price": 29574.0
+                },
+                {
+                    "name": "Panorama Guest House",
+                    "price": 28115.0
+                },
+                {
+                    "name": "Stella Marina",
+                    "price": 26288.0
+                },
+                {
+                    "name": "Casa Il Carmine",
+                    "price": 25569.0
+                },
+                {
+                    "name": "Hotel Catalunya",
+                    "price": 35670.0
+                },
+                {
+                    "name": "Hotel Soleado",
+                    "price": 17745.0
+                },
+                {
+                    "name": "Casa dei Liuti Luxury GuestHouse",
+                    "price": 49872.0
+                },
+                {
+                    "name": "Casa KALI",
+                    "price": 81478.0
+                },
+                {
+                    "name": "Green Guest House Alghero",
+                    "price": 52577.0
+                },
+                {
+                    "name": "Anthyllis Apartment",
+                    "price": 36147.0
+                },
+                {
+                    "name": "San Michele Suites&Rooms",
+                    "price": 26535.0
+                },
+                {
+                    "name": "SU PASSU Country House",
+                    "price": 50934.0
+                },
+                {
+                    "name": "Sa Vivenda Suite",
+                    "price": 23988.0
+                },
+                {
+                    "name": "Luxury Liberty House",
+                    "price": 65064.0
+                },
+                {
+                    "name": "P&P House",
+                    "price": 24547.0
+                },
+                {
+                    "name": "B & B Brisa del Mar",
+                    "price": 21359.0
+                },
+                {
+                    "name": "Royal Retreat",
+                    "price": 27931.0
+                },
+                {
+                    "name": "Istella D&V",
+                    "price": 30271.0
+                },
+                {
+                    "name": "Alghero Roof Garden",
+                    "price": 36147.0
+                },
+                {
+                    "name": "Hotel La Margherita & SPA",
+                    "price": 23453.0
+                },
+                {
+                    "name": "F53 Kevin's Charming Houses",
+                    "price": 25303.0
+                },
+                {
+                    "name": "Da Rita",
+                    "price": 19223.0
+                },
+                {
+                    "name": "Casa del Sole Guest House",
+                    "price": 73936.0
+                },
+                {
+                    "name": "Porta D'Oro Charming House II & Spa",
+                    "price": 35818.0
+                },
+                {
+                    "name": "Inghirios Wellness Country Resort",
+                    "price": 59149.0
+                },
+                {
+                    "name": "Bouganville",
+                    "price": 36147.0
+                },
+                {
+                    "name": "Palau Marco Polo",
+                    "price": 20045.0
+                },
+                {
+                    "name": "colors house",
+                    "price": 26288.0
+                },
+                {
+                    "name": "Hotel Riviera",
+                    "price": 17255.0
+                },
+                {
+                    "name": "Villa Barbarina Nature Resort",
+                    "price": 25828.0
+                },
+                {
+                    "name": "Relais Bellavista 5",
+                    "price": 50277.0
+                },
+                {
+                    "name": "Loft in centro Maiorca",
+                    "price": 164302.0
+                },
+                {
+                    "name": "Robely rooms",
+                    "price": 34011.0
+                },
+                {
+                    "name": "Piazza Ginnasio Affittacamere",
+                    "price": 17909.0
+                },
+                {
+                    "name": "VALVERDE CENTRAL Studio Flat",
+                    "price": 26617.0
+                },
+                {
+                    "name": "Beach Rooms 1 Self Check-in",
+                    "price": 19716.0
+                },
+                {
+                    "name": "Agriturismo La Barca In Secca",
+                    "price": 24645.0
+                },
+                {
+                    "name": "Appartamento centrale con Terrazza",
+                    "price": 207021.0
+                },
+                {
+                    "name": "Hily's House",
+                    "price": 26535.0
+                },
+                {
+                    "name": "Il Sogno di Giò",
+                    "price": 31217.0
+                },
+                {
+                    "name": "POMA DE CASA - Carrer de Pa i Algua",
+                    "price": 36620.0
+                },
+                {
+                    "name": "Nonna Nannina Guest House",
+                    "price": 23002.0
+                },
+                {
+                    "name": "Athena",
+                    "price": 19059.0
+                },
+                {
+                    "name": "Baia delle foche",
+                    "price": 36968.0
+                },
+                {
+                    "name": "Dolmen Guest House",
+                    "price": 163251.0
+                },
+                {
+                    "name": "Sunrise Home Alghero",
+                    "price": 59149.0
+                },
+                {
+                    "name": "St.Giovanni House",
+                    "price": 36804.0
+                },
+                {
+                    "name": "SoleLunaMare Guest House",
+                    "price": 16430.0
+                },
+                {
+                    "name": "casa Altamarea 3",
+                    "price": 37707.0
+                },
+                {
+                    "name": "Sunshine Charming Houses",
+                    "price": 31217.0
+                },
+                {
+                    "name": "Hotel Angedras",
+                    "price": 22674.0
+                },
+                {
+                    "name": "Acqua Chiara Alghero",
+                    "price": 299030.0
+                },
+                {
+                    "name": "Casa Palmavera",
+                    "price": 44441.0
+                },
+                {
+                    "name": "Angy's Cozy House",
+                    "price": 51459.0
+                },
+                {
+                    "name": "Nautika Suites",
+                    "price": 29574.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Sialkot",
+        "region": "Punjab",
+        "hotels": {
+            "low": [],
+            "mid": [
+                {
+                    "name": "Hotel de Raj Sialkot",
+                    "price": 10000.0
+                },
+                {
+                    "name": "Royaute Luxury Hotel Sialkot",
+                    "price": 8800.0
+                },
+                {
+                    "name": "Hotel Taj Palace",
+                    "price": 9000.0
+                },
+                {
+                    "name": "Elanto luxury sialkot",
+                    "price": 10238.0
+                },
+                {
+                    "name": "Sialkot International Airport Guesthouse",
+                    "price": 5350.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "Executive Suite",
+                    "price": 18999.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Skardu",
+        "region": "Gilgit-Baltistan",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Pacific Guest House Skardu",
+                    "price": 3150.0
+                },
+                {
+                    "name": "Hotel Saspolo skardu",
+                    "price": 2520.0
+                },
+                {
+                    "name": "Flora Inn Skardu",
+                    "price": 3240.0
+                },
+                {
+                    "name": "Ringachan Guest House & Restaurant",
+                    "price": 2754.0
+                },
+                {
+                    "name": "Stay in Skardu",
+                    "price": 2243.0
+                },
+                {
+                    "name": "Saspolo chain of G house",
+                    "price": 2700.0
+                },
+                {
+                    "name": "HOTEL HIGHLANDER INN SKARDu",
+                    "price": 3400.0
+                },
+                {
+                    "name": "Skardu View Point Hotel",
+                    "price": 3000.0
+                },
+                {
+                    "name": "Highlander inn Skardu",
+                    "price": 2470.0
+                },
+                {
+                    "name": "Hotel Dewanekhas Skardu",
+                    "price": 3312.0
+                },
+                {
+                    "name": "One Stop Gb",
+                    "price": 3600.0
+                },
+                {
+                    "name": "Broadpeak Resort",
+                    "price": 3443.0
+                },
+                {
+                    "name": "Skardu Baltistan Village Guest House",
+                    "price": 3000.0
+                },
+                {
+                    "name": "Qasr اشرف",
+                    "price": 3800.0
+                },
+                {
+                    "name": "Mountain Face Skardu",
+                    "price": 4000.0
+                },
+                {
+                    "name": "Zim Zim &Salaar Guest house",
+                    "price": 4000.0
+                },
+                {
+                    "name": "Skardu Rock View Hotel",
+                    "price": 3432.0
+                },
+                {
+                    "name": "GOLDEN IBEX ReSOrT SKARDU",
+                    "price": 2861.0
+                },
+                {
+                    "name": "Yak Sarai Hotel & Restaurant",
+                    "price": 4000.0
+                },
+                {
+                    "name": "Hotel Destiny Skardu",
+                    "price": 3825.0
+                },
+                {
+                    "name": "MOON Guest House Skardu",
+                    "price": 2700.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "Taaj Residence Skardu",
+                    "price": 5000.0
+                },
+                {
+                    "name": "HIKK Inn",
+                    "price": 5130.0
+                },
+                {
+                    "name": "Comfort Hotel & Huts",
+                    "price": 6375.0
+                },
+                {
+                    "name": "North Fields Resorts",
+                    "price": 7700.0
+                },
+                {
+                    "name": "Sehrish Guest House Skardu",
+                    "price": 7500.0
+                },
+                {
+                    "name": "Northlanders Guest House Skardu",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Travellodge",
+                    "price": 5520.0
+                },
+                {
+                    "name": "Hotel ChoPing",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Biafo Resort Skardu",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Adventure Sarai Skardu",
+                    "price": 9500.0
+                },
+                {
+                    "name": "Trout Villa",
+                    "price": 11499.0
+                },
+                {
+                    "name": "The vintage guest house Skardu",
+                    "price": 7500.0
+                },
+                {
+                    "name": "Lavender Cottage and Guest House",
+                    "price": 8100.0
+                },
+                {
+                    "name": "Chogori Guest House",
+                    "price": 8999.0
+                },
+                {
+                    "name": "Zago Guest House",
+                    "price": 11499.0
+                },
+                {
+                    "name": "Orophile Nest hotel and restaurant",
+                    "price": 6000.0
+                },
+                {
+                    "name": "Serenity Inn Skardu",
+                    "price": 6080.0
+                },
+                {
+                    "name": "GreenLand Resort",
+                    "price": 8500.0
+                },
+                {
+                    "name": "Reelum Residency",
+                    "price": 11990.0
+                },
+                {
+                    "name": "Desert One Hotel Skardu",
+                    "price": 8550.0
+                },
+                {
+                    "name": "The Crescent Valley",
+                    "price": 7209.0
+                },
+                {
+                    "name": "Heaven in skardu",
+                    "price": 8000.0
+                },
+                {
+                    "name": "Ibex lodge Skardu",
+                    "price": 7150.0
+                },
+                {
+                    "name": "Subhan Guest House",
+                    "price": 6649.0
+                },
+                {
+                    "name": "Shadow villas",
+                    "price": 11200.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "LOKAL Rooms x Skardu (Katpana Retreat)",
+                    "price": 20159.0
+                },
+                {
+                    "name": "Arish Luxury Suites",
+                    "price": 18000.0
+                },
+                {
+                    "name": "PC Legacy Skardu",
+                    "price": 26766.0
+                },
+                {
+                    "name": "Himmel Skardu By Luxus",
+                    "price": 28792.0
+                },
+                {
+                    "name": "Gumaan Resort",
+                    "price": 18700.0
+                },
+                {
+                    "name": "Baltistan Fort Skardu Resort",
+                    "price": 16500.0
+                },
+                {
+                    "name": "Avari Xpress Skardu",
+                    "price": 30000.0
+                },
+                {
+                    "name": "BROQ",
+                    "price": 40500.0
+                },
+                {
+                    "name": "Oasis Resort",
+                    "price": 20000.0
+                },
+                {
+                    "name": "Kesar Palace Hotel & Restaurant, Skardu",
+                    "price": 16430.0
+                },
+                {
+                    "name": "LOKAL Rooms x Skardu (Mountain View)",
+                    "price": 12149.0
+                },
+                {
+                    "name": "MONTAGNA PODS",
+                    "price": 13039.0
+                },
+                {
+                    "name": "Areena Hotel",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Skardu Saraye Hotel & Resort",
+                    "price": 12000.0
+                },
+                {
+                    "name": "Green Land Resort, Katpanah Lake, Skardu, Gilgit Baltistan",
+                    "price": 16000.0
+                },
+                {
+                    "name": "Khar Hotel",
+                    "price": 32500.0
+                },
+                {
+                    "name": "FortuNorth",
+                    "price": 55000.0
+                },
+                {
+                    "name": "Apex Hotels and Resorts Skardu",
+                    "price": 17000.0
+                },
+                {
+                    "name": "Arcadian Resort Skardu",
+                    "price": 15500.0
+                },
+                {
+                    "name": "Pinnacle Executive Lodges",
+                    "price": 39500.0
+                },
+                {
+                    "name": "Cara Hotel and Resort",
+                    "price": 35910.0
+                },
+                {
+                    "name": "T&A Guest-House",
+                    "price": 15300.0
+                },
+                {
+                    "name": "Indus Cabana Resort",
+                    "price": 19500.0
+                }
+            ]
+        }
+    },
+    {
+        "city": "Taxila",
+        "region": "Punjab",
+        "hotels": {
+            "low": [
+                {
+                    "name": "Cozy 1-Bedroom Apartment in Islamabad",
+                    "price": 3840.0
+                },
+                {
+                    "name": "OWN IT - 2 bedroom apartment ORANGE",
+                    "price": 3240.0
+                },
+                {
+                    "name": "Own It Apartment Brown",
+                    "price": 4284.0
+                },
+                {
+                    "name": "brand new flat fully furnished",
+                    "price": 3825.0
+                },
+                {
+                    "name": "Studio in Islamabad",
+                    "price": 4000.0
+                },
+                {
+                    "name": "Doctor house",
+                    "price": 3600.0
+                },
+                {
+                    "name": "Comfy, cozy & chill",
+                    "price": 4000.0
+                },
+                {
+                    "name": "Studio 201",
+                    "price": 4300.0
+                },
+                {
+                    "name": "Luxury Studio Apartment in b17 , Islamabad",
+                    "price": 3150.0
+                },
+                {
+                    "name": "Comfy hushed space 1 wud love",
+                    "price": 4544.0
+                },
+                {
+                    "name": "OWN IT - 2BHK Brown",
+                    "price": 4833.0
+                },
+                {
+                    "name": "Calm stay, Just you & Peace",
+                    "price": 4000.0
+                }
+            ],
+            "mid": [
+                {
+                    "name": "One Bed Executive Apartment",
+                    "price": 6800.0
+                },
+                {
+                    "name": "Riwayat Guest House",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Two Bed Luxury Apartment",
+                    "price": 11900.0
+                },
+                {
+                    "name": "One Bed Private Apartment",
+                    "price": 5000.0
+                },
+                {
+                    "name": "Elite 2BHK, Travellers Game",
+                    "price": 8400.0
+                },
+                {
+                    "name": "Stayinn",
+                    "price": 7000.0
+                },
+                {
+                    "name": "Modern vault",
+                    "price": 7500.0
+                },
+                {
+                    "name": "Musafir Retreat- Private Balcony -Air Conditioned -Netflix- Amazon- YT Premium",
+                    "price": 6400.0
+                },
+                {
+                    "name": "Crown business tower",
+                    "price": 7840.0
+                },
+                {
+                    "name": "Spacious Studio Apartment Netflix Amazon Youtube Premium Included",
+                    "price": 5558.0
+                },
+                {
+                    "name": "Three Bed Attached Bath Netflix Wifi Smart TV Parking WFH Desk",
+                    "price": 7200.0
+                },
+                {
+                    "name": "luxury 2 bed furnished apartment in B-17",
+                    "price": 7500.0
+                },
+                {
+                    "name": "1 BHK Luxury Apartment Islamabad",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Rahat Arcade",
+                    "price": 6380.0
+                },
+                {
+                    "name": "1 BHK with balcony Netflix Amazon Youtube Premium Included",
+                    "price": 7200.0
+                },
+                {
+                    "name": "Furnished Apartment in Islamabad",
+                    "price": 9000.0
+                },
+                {
+                    "name": "SK Stays",
+                    "price": 6500.0
+                },
+                {
+                    "name": "Margalla Haven",
+                    "price": 8400.0
+                },
+                {
+                    "name": "The Shazil Suites",
+                    "price": 8800.0
+                },
+                {
+                    "name": "2 bed luxury furnished apartment",
+                    "price": 9025.0
+                },
+                {
+                    "name": "Sardar heights",
+                    "price": 9600.0
+                },
+                {
+                    "name": "Apartment 406",
+                    "price": 6800.0
+                },
+                {
+                    "name": "Entire place",
+                    "price": 6000.0
+                },
+                {
+                    "name": "villa",
+                    "price": 9000.0
+                },
+                {
+                    "name": "3 bed Designer House",
+                    "price": 9600.0
+                }
+            ],
+            "high": [
+                {
+                    "name": "The Luxe Hideaway By The Pause",
+                    "price": 22000.0
+                },
+                {
+                    "name": "Capital Square 3 Bed Apartment",
+                    "price": 12750.0
+                },
+                {
+                    "name": "One Bed Furnished Apartment",
+                    "price": 13500.0
+                },
+                {
+                    "name": "Doha emporium b17 multi garden FMC",
+                    "price": 14000.0
+                },
+                {
+                    "name": "Spacious 4BR Home Family Retreat",
+                    "price": 13000.0
+                },
+                {
+                    "name": "Usman Ali",
+                    "price": 12000.0
+                }
+            ]
+        }
+    }
+]

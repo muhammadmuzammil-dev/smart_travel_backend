@@ -1,0 +1,285 @@
+{
+  "province": "Balochistan",
+  "divisions": [
+    {
+      "name": "Quetta Division",
+      "districts": [
+        {
+          "name": "Quetta",
+          "destinations": [
+            {
+              "name": "Quetta",
+              "location": {
+                "district": "Quetta",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 30.18,
+                  "longitude": 66.97
+                }
+              },
+              "category": "City / Cultural / Hill Station",
+              "description": "Quetta, the capital of Balochistan, is a mountain-ringed city known for its dry, bracing climate, fruit orchards, and historical bazaars. It serves as the gateway to the Bolan Pass and western trade routes.",
+              "highlights": [
+                "Surrounded by Chiltan, Zarghun, and Takatu ranges.",
+                "Hanna Lake and Urak Valley are major leisure spots.",
+                "Known for apple and grape orchards, handicrafts, and diverse cultures."
+              ],
+              "best_time_to_visit": "April to October",
+              "images": [
+                "https://drive.google.com/uc?id=1bk7OtlgsApD6BiF2GfcdLsiBU5XwkQ0_"
+              ]
+            },
+            {
+              "name": "Hanna Lake",
+              "location": {
+                "district": "Quetta",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 30.25,
+                  "longitude": 67.09
+                }
+              },
+              "category": "Lake / Recreational / Scenic Spot",
+              "description": "Hanna Lake is a turquoise-blue reservoir surrounded by hills, built during British colonial times. Popular for boating, walking, and family picnics.",
+              "highlights": [
+                "Picturesque setting amid mountains.",
+                "Boating, family areas, and nearby Hanna-Urak valley."
+              ],
+              "best_time_to_visit": "March to October",
+              "images": [
+                "https://drive.google.com/uc?id=1N67jc36_qrC0WpkVntvxkilmDTLl9Dwx"
+              ]
+            },
+            {
+              "name": "Hazarganji-Chiltan National Park",
+              "location": {
+                "district": "Quetta",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 30.21,
+                  "longitude": 67.02
+                }
+              },
+              "category": "National Park / Wildlife / Conservation Area",
+              "description": "Protects the endangered Chiltan markhor and native mountain flora. Rugged limestone hills and picnic points are accessible near Quetta.",
+              "highlights": [
+                "Habitat for Chiltan markhor.",
+                "Unique desert flora and limestone hills."
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=1zQYfQo2NWG6usuAnKgq9R_Q2Zwv5rhnM"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ziarat",
+          "districts": [
+            {
+              "name": "Ziarat",
+              "destinations": [
+                {
+                  "name": "Quaid-e-Azam Residency",
+                  "location": {
+                    "district": "Ziarat",
+                    "province": "Balochistan",
+                    "coordinates": {
+                      "latitude": 30.38,
+                      "longitude": 67.71
+                    }
+                  },
+                  "category": "Historical / Heritage Building",
+                  "description": "Wooden colonial-era building where Muhammad Ali Jinnah stayed in 1948. Located in scenic hill station surrounded by juniper forests.",
+                  "highlights": [
+                    "Historic site connected to Pakistan’s founder.",
+                    "Scenic location with juniper forests."
+                  ],
+                  "best_time_to_visit": "March to October",
+                  "images": [
+                    "https://drive.google.com/uc?id=1Fnq_VFctaQVrESRxSwVSviUCTMpihmz3"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gwadar Division",
+      "districts": [
+        {
+          "name": "Gwadar",
+          "destinations": [
+            {
+              "name": "Gwadar",
+              "location": {
+                "district": "Gwadar",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 25.13,
+                  "longitude": 62.32
+                }
+              },
+              "category": "Coastal City / Port / Tourism Destination",
+              "description": "Port city on the southwestern coast, facing Arabian Sea. Key strategic and tourism destination.",
+              "highlights": [
+                "Gateway to Asia: 600 km of coastline.",
+                "Rapidly emerging tourism infrastructure.",
+                "Scenic beaches and fishing harbour."
+              ],
+              "best_time_to_visit": "November to February",
+              "images": [
+                "https://drive.google.com/uc?id=1ruEufl8lYBReBxxhzu8VpF4oTBy1UR_-"
+              ]
+            },
+            {
+              "name": "Astola Island",
+              "location": {
+                "district": "Gwadar",
+                "nearest_city_or_port": "Pasni",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 25.12,
+                  "longitude": 63.78
+                }
+              },
+              "category": "Marine Protected Area / Eco-tourism / Offshore Island",
+              "description": "Pakistan’s largest offshore island, first Marine Protected Area, hosts endangered sea turtles and endemic reptiles.",
+              "highlights": [
+                "Largest offshore island in Pakistan.",
+                "Nesting site for green and hawksbill sea turtles.",
+                "Rich coral reefs and endemic fauna."
+              ],
+              "best_time_to_visit": "September to May",
+              "images": [
+                "https://drive.google.com/uc?id=1JccRLTi2Ei7rTbcsqMGwvL9rOrvnJDgh"
+              ]
+            },
+            {
+              "name": "Jiwani",
+              "location": {
+                "district": "Gwadar",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 25.05,
+                  "longitude": 61.74
+                }
+              },
+              "category": "Coastal Town / Marine / Strategic Point",
+              "description": "Coastal town near Iranian border, mangrove forests, beaches, and Queen’s Hut.",
+              "highlights": [
+                "Mangrove forests supporting migratory birds.",
+                "Queen’s Hut from British era.",
+                "Sunset viewpoint at Jiwani Headland."
+              ],
+              "best_time_to_visit": "November to March",
+              "images": [
+                "https://drive.google.com/uc?id=1IyeiZXNfxbgSEab5Otq40xfurgTukdth"
+              ]
+            },
+            {
+              "name": "Ormara",
+              "location": {
+                "district": "Gwadar",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 25.21,
+                  "longitude": 64.63
+                }
+              },
+              "category": "Coastal Town / Beach Destination",
+              "description": "Coastal town on Makran Coastal Highway, known for beaches and turquoise waters.",
+              "highlights": [
+                "Unspoiled beach for several km.",
+                "Historical link to Alexander the Great.",
+                "Breathtaking highway views."
+              ],
+              "best_time_to_visit": "October to April",
+              "images": [
+                "https://drive.google.com/uc?id=1pOZ1a24nZz7Hva22M4Qk9dACsrmeH_-Y"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lasbela",
+          "destinations": [
+            {
+              "name": "Hingol National Park",
+              "location": {
+                "districts": [
+                  "Gwadar",
+                  "Lasbela",
+                  "Awaran"
+                ],
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 25.51,
+                  "longitude": 65.52
+                }
+              },
+              "category": "National Park / Nature / Desert-Coast Ecology",
+              "description": "Pakistan’s largest national park with diverse ecosystems, beaches, mud-volcanoes, desert plains, and Hingol River estuary.",
+              "highlights": [
+                "Six ecosystems from coast to desert to mountains.",
+                "Geological formations: ‘Princess of Hope’, ‘Sphinx of Balochistan’.",
+                "Important wildlife habitat."
+              ],
+              "best_time_to_visit": "October to March",
+              "images": [
+                "https://drive.google.com/uc?id=1WNrRGjsMk63RFKatQF3MxG8yeo8PILY1"
+              ]
+            },
+            {
+              "name": "Hinglaj Mata Mandir",
+              "location": {
+                "within": "Hingol National Park",
+                "district": "Lasbela",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 25.51,
+                  "longitude": 65.52
+                }
+              },
+              "category": "Religious Site / Pilgrimage / Heritage",
+              "description": "Sacred Hindu temple in a cave on Hingol River, pilgrimage site visited annually by thousands.",
+              "highlights": [
+                "One of 51 Shakti Peethas.",
+                "Pilgrims trek through Hingol valley.",
+                "Cultural harmony in a remote desert setting."
+              ],
+              "best_time_to_visit": "March–April (Hinglaj Yatra) or October–March for travel comfort.",
+              "images": [
+                "https://drive.google.com/uc?id=1y22gCSrxrj1lZ4S1GTANFJi0FIU43TBc"
+              ]
+            },
+            {
+              "name": "Kund Malir Beach",
+              "location": {
+                "within": "Hingol National Park",
+                "province": "Balochistan",
+                "coordinates": {
+                  "latitude": 25.39,
+                  "longitude": 65.45
+                }
+              },
+              "category": "Beach / Scenic Coastal Destination",
+              "description": "Golden sandy beach beside desert-coast scenery along Makran Highway, remote and untouched.",
+              "highlights": [
+                "Scenic Makran Coastal Highway drive.",
+                "Desert-beach combination.",
+                "Minimal infrastructure ensures natural beauty."
+              ],
+              "best_time_to_visit": "October to April",
+              "images": [
+                "https://drive.google.com/uc?id=1uJfFM5_HUkngAANnt29uaizH3LvxDIS-"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

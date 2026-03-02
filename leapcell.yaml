@@ -1,0 +1,32 @@
+name: safarsmart-backend
+
+# Build from Dockerfile in the repo root (point Leapcell to /backend folder)
+build:
+  type: dockerfile
+  dockerfile: Dockerfile
+
+# Service settings
+run:
+  port: 8000
+  command: uvicorn main:app --host 0.0.0.0 --port 8000
+
+# Resources (sentence-transformers needs at least 1GB RAM)
+resources:
+  cpu: 1
+  memory: 1Gi
+
+# Persistent volume so users.db survives restarts
+volumes:
+  - mountPath: /app/data
+    size: 1Gi
+
+# Environment variables — set real values in Leapcell dashboard, not here
+envs:
+  - name: GROQ_API_KEY
+    value: ""
+  - name: OPENAI_API_KEY
+    value: ""
+  - name: SUPABASE_URL
+    value: ""
+  - name: SUPABASE_KEY
+    value: ""

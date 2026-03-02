@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+sentence_env/
+venv/
+env/
+.env.local
+
+# Git
+.git/
+.gitignore
+
+# Dev/test scripts
+test_*.py
+verify_setup.py
+check_env.py
+regenerate_all*.py
+generate_embeddings.py
+load_embeddings.py
+
+# Local IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
