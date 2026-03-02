@@ -27,7 +27,5 @@ COPY . .
 
 EXPOSE 8000
 
-HEALTHCHECK --interval=30s --timeout=10s --start-period=60s --retries=3 \
-    CMD curl -f http://localhost:8000/ || exit 1
-
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Use shell form so $PORT env var is expanded at runtime
+CMD uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}
